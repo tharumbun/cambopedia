@@ -1,5 +1,5 @@
 ---
-title: "Angkor: The Lost Empire of Cambodia"
+title: "The Lost Empire of Cambodia"
 meta_title: "Artificial Intelligence: Concepts, Applications, and Future Trends"
 description: "A Masterpiece of Historical Context and Research"
 date: 2025-01-04
