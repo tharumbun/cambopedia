@@ -4,7 +4,7 @@ meta_title: "Artificial Intelligence: Concepts, Applications, and Future Trends"
 description: "A Masterpiece of Historical Context and Research"
 date: 2025-01-04
 image: "../../assets/images/artificial-intelligence.svg"
-authors: ["Cambopedian"]
+authors: ["dragos"]
 categories: ["book"]
 tags: ["cambodia"]
 ---
