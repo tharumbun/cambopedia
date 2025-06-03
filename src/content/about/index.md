@@ -3,6 +3,18 @@ title: "About"
 meta_title: "About"
 image: "/src/assets/images/avatar-placeholder.svg"
 draft: false
+
+what_i_do:
+  title: "What We Do"
+  items:
+    - title: "Content Creation"
+      description: "High-quality content tailored to your audience."
+
+    - title: "Web Development"
+      description: "Modern websites built with cutting-edge technologies."
+
+    - title: "Digital Marketing"
+      description: "Strategic marketing solutions to grow your online presence."
 ---
 
 Welcome to Cambopedia, a local travel blog dedicated to guiding you through the heart of Cambodia. Our mission is to take you on a journey to rediscover the essence of this beautiful country, providing authentic and insightful information about Cambodia, its people, culture, traditions, and everything in between.
