@@ -16,7 +16,7 @@ const sortedPosts = posts.sort((a, b) => {
   return new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime();
 });
 
-// Get the latest 6 posts for the homepage
+// Get the latest 9 posts for the homepage
 const latestPosts = sortedPosts.slice(0, 6);
 ---
 
