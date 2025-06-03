@@ -1,13 +1,16 @@
 ---
-title: "The Lost Empire of Cambodia"
-meta_title: "Artificial Intelligence: Concepts, Applications, and Future Trends"
-description: "A Masterpiece of Historical Context and Research"
-date: 2025-01-04
-image: "../../assets/images/artificial-intelligence.svg"
+title: "Getting Started with Astro - Part 1: Introduction and Setup"
+meta_title: "Getting Started with Astro - Part 1: Introduction and Setup"
+description: "Learn what Astro is, why it's gaining popularity, and how to set up your first Astro project in this comprehensive introduction."
+date: 2023-10-20
+image: "../../assets/images/astro-basics.svg"
 authors: ["dragos"]
-categories: ["book"]
-tags: ["cambodia"]
+categories: ["Web Development"]
+tags: ["astro", "jamstack", "static-site-generator"]
+series: ["Astro Get Started", "1"]
 ---
+
+
 
 
 Angkor: The Lost Empire of Cambodia is an insightful and visually stunning exploration of one of the world’s most fascinating archaeological wonders. Written by Sophie Biard and Damian Evans, this book goes beyond the romanticized image of Angkor Wat to delve into the intricate history, culture, and advanced engineering that defined the Khmer Empire.
