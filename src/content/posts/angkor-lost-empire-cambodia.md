@@ -1,15 +1,21 @@
 ---
 title: "Angkor: The Lost Empire of Cambodia"
+meta_title: "Artificial Intelligence: Concepts, Applications, and Future Trends"
+description: "A Masterpiece of Historical Context and Research"
 date: 2025-01-04
-categories: 
-  - "book"
+image: "../../assets/images/artificial-intelligence.svg"
+authors: ["Cambopedian"]
+categories: ["book"]
+tags: ["cambodia"]
 ---
+
 
 Angkor: The Lost Empire of Cambodia is an insightful and visually stunning exploration of one of the world’s most fascinating archaeological wonders. Written by Sophie Biard and Damian Evans, this book goes beyond the romanticized image of Angkor Wat to delve into the intricate history, culture, and advanced engineering that defined the Khmer Empire.
 
 ### Angkor: The Lost Empire of Cambodia by Sophie Biard and Damian Evans
 
-A Masterpiece of Historical Context and Research The authors present a compelling narrative that intertwines meticulous historical research with modern archaeological discoveries. Damian Evans, a pioneer in LiDAR (Light Detection and Ranging) technology, offers groundbreaking insights into the vast network of Angkor's cities, reservoirs, and infrastructure, much of which lay hidden beneath dense forests until recently. This technological perspective breathes new life into the study of Angkor, revealing its complexity and scale. Sophie Biard complements this with rich storytelling, bringing historical figures, cultural practices, and the empire's rise and fall to vivid life.
+A Masterpiece of Historical Context and Research 
+The authors present a compelling narrative that intertwines meticulous historical research with modern archaeological discoveries. Damian Evans, a pioneer in LiDAR (Light Detection and Ranging) technology, offers groundbreaking insights into the vast network of Angkor's cities, reservoirs, and infrastructure, much of which lay hidden beneath dense forests until recently. This technological perspective breathes new life into the study of Angkor, revealing its complexity and scale. Sophie Biard complements this with rich storytelling, bringing historical figures, cultural practices, and the empire's rise and fall to vivid life.
 
 Stunning Visuals and Engaging Presentation The book is richly illustrated with maps, photographs, and diagrams, making it not only informative but also a visual delight. These visuals serve as a bridge between the past and present, helping readers imagine the grandeur of Angkor at its peak while appreciating the work of modern archaeologists. Whether it's the intricate bas-reliefs of Angkor Wat or aerial imagery of the sprawling urban networks, each page captures the reader’s imagination.
 
