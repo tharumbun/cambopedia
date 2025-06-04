@@ -1,8 +1,7 @@
 ---
 title: "Nothing Phone"
 date: 2025-03-06
-categories: 
-  - "lifestyle-shopping"
+categories: "lifestyle-shopping"
 ---
 
 The Nothing Phone series has garnered attention for its unique design and features.
