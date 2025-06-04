@@ -1,9 +1,7 @@
 ---
 title: "Phnom Penh's skyline: 5 tallest buildings"
 date: 2025-05-31
-categories: 
-  - "blog"
-coverImage: "phnom_penh_skyline.jpg"
+categories:  "blog"
 ---
 
 As of May 2025, Phnom Penh's skyline features several towering structures, reflecting the city's rapid urban development. These buildings highlight Phnom Penh's transformation into a modern urban center, with international investments contributing to its architectural growth.

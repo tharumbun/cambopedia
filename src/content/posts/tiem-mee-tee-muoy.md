@@ -1,8 +1,7 @@
 ---
-title: "តៀមមីទីមួយ (Tiem Mee Tee Muoy)"
+title: "Tiem Mee Tee Muoy"
 date: 2025-04-30
-categories: 
-  - "cafes-restaurants"
+categories: "cafes-restaurants"
 ---
 
 Tiem Mee Ti Mouy: A Taste of Nostalgia and Comfort in Phnom Penh
