@@ -6,7 +6,7 @@ export const siteConfig = {
   // url is removed, Astro.site will be used
 
   // from config.json:site (logo related)
-  logo: "/logo.svg",
+  logo: "/logo.png",
   logoWidth: "200",
   logoHeight: "30",
   logoText: "Cambopedia",
