@@ -2,7 +2,7 @@
 title: "How to explore Phnom Penh’s cultural and historical sites"
 date: 2024-12-22
 categories: 
-  - "how-to"
+  - "howto"
 ---
 
 Phnom Penh’s cultural and historical sites offer a captivating journey through Cambodia’s past and present. Whether you are marveling at the grandeur of the Royal Palace, reflecting at the Killing Fields, or enjoying a vibrant market, each experience provides a deeper connection to the city’s unique identity. With careful planning and an open heart, exploring Phnom Penh can be a truly enriching adventure.
