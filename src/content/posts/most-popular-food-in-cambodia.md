@@ -10,7 +10,7 @@ Cambodia offers a delightful explosion of flavors, blending Southeast Asian infl
 
 Cambodian food is quite underestimated compared with Thai or Vietnamese food. And it it is way more than Beef Lok Lak and Fish Amok (although the latter is much better than its equivalent, the Thai Hor Mok). The variety of Samlors, Khmer soups, is nearly endless, and then there are grilled dishes and the exotic ones, like snake soup and the fried spiders.
 
-## The five essential elements of Khmer cuisine
+The five essential elements of Khmer cuisine
 
 1. Rice: Rice is the staple food of Cambodia and is a central part of every meal. It is usually steamed and served with various dishes, including curries, stews, and stir-fried dishes.
 2. Herbs and Spices: Khmer cuisine is known for its bold and complex flavors, which are achieved through the use of fresh herbs and spices like lemongrass, kaffir lime, galangal, and ginger.
@@ -18,7 +18,7 @@ Cambodian food is quite underestimated compared with Thai or Vietnamese food. An
 4. Coconut Milk: Coconut milk is used in many traditional Khmer dishes to add a rich and creamy texture to soups and curries.
 5. Fresh Vegetables: Fresh vegetables like cucumber, lettuce, and bean sprouts are commonly used in Khmer dishes, providing a crisp and refreshing contrast to the rich and flavorful sauces.
 
-### What are the secrets of cooking delicious Khmer food?
+What are the secrets of cooking delicious Khmer food?
 
 Food in Cambodia in general is less spicy and more sweet. Many recipes will require at least a tablespoon of palm sugar (or even more). The spices used are from India and Asia like cardamom and cinnamon. Tumeric is common, ginger and galangal as well.
 
@@ -30,7 +30,7 @@ Another ingredient is roasted rice powder. Dry rice is roasted in a pan on open 
 
 Very important is the Cambodian fish paste. It’s called Prahok and is similar to the Lao Patek and the Thai Pla ra. The basis is crushed fermented fish left in the sun, then its salted and traditionally left in clay jars (but many use plastic containers these days). Prahok can be fried and then used as dip with rice and vegetables or used as an ingredient for soups and stews. Another use is to wrap it in banana leaves and cook it on a fire, covered with stones. As most fish and shrimp based pastes, it has a strong smell and sometimes hotels do not allow consumption of prahok in the room (bus companies may ban it as well).
 
-### The secret of fish amok
+The secret of fish amok
 
 Amok means steamed coconut with a paste made of galangal, chilli, garlic, lemongrass, Kaffir lime and shallots. It will the be steamed with crushed fish or chicken. Vegetarian can also use Tofu instead. The secret of the Khmer amok are the young leaves of a plant called Noni Morinda citrifiola or Gnor in Khmer . The leaves are cut in small stripes and added to the mix of paste, coconut and fish. It can be steamed or even cooked in a pot, but the right way is to steam it in baskets made from banana leaves.
 
@@ -38,7 +38,7 @@ If you like street food, than the Khmer BBQs are the best place to try everythin
 
 The other, on many houses more popular way to prepare meat is cha, what means stir fried. Beef Lok Lak is the most famous dish, but also noodles will be cooked first and then mixed with vegetables and sauces to be fried in a pan.
 
-### Noodles in the morning
+Noodles in the morning
 
 [When it comes to noodles](https://cambopedia.com/phnom-penhs-best-noodles/), you will clearly see the influence of Chinese immigrants, who came to Cambodia centuries ago. They brought the flat white noodles and the egg noodles for example. One famous noodle soup is Nam ban choke Samlor trey, a soup with coconut and finely chopped fish, usually eaten in the morning. A stereotype for Asian food is the noodle soup, and Cambodia also has it’s own version, Khuy Teav. It is made from pork stock and contains white rice noodles and vegetables as well as beef or pork sliced and meat balls.
 
@@ -46,7 +46,7 @@ The Khmer version is more subtle than the Lao Pho and less intensive than the Vi
 
 The best way to experience the real local food is not the street food, but homemade dishes in local homes. You can book it online with services like Dine With The Locals, doing an excursion to Oudong Mountain or just make some friends and ask them if you can join them for a meal at home.
 
-### What are the 5 best Khmer food?
+What are the 5 best Khmer food?
 
 Cambodia, also known as Kampuchea, is known for its delicious and flavorful cuisine, which is heavily influenced by the flavors of neighboring countries such as Thailand, Vietnam, and Laos. Here are five traditional Cambodian dishes that are considered to be some of the best:
 
@@ -58,7 +58,7 @@ Cambodia, also known as Kampuchea, is known for its delicious and flavorful cuis
 
 These are just a small sampling of the delicious and diverse foods that Cambodia has to offer. In general, Cambodian food tends to be quite spicy, so be prepared for some heat if you order these dishes. Also, please keep in mind that these are traditional dishes, and the recipe and the ingredients used might vary from place to place, even from family to family.
 
-### Cambodian food in Phnom Penh: and where to find them
+Cambodian food in Phnom Penh: and where to find them
 
 Whether you're a tourist or an expat, the craving for Khmer food is just normal. You want to taste the Cambodian cuisine, but which restaurants in Phnom Penh that offer something authentic and local experience? There are many restaurants in the Cambodian capital that advertise that they offer Cambodian cuisine.
 
@@ -80,7 +80,7 @@ At first glance, you may not know that there is a nice restaurant on the second 
 
 Looking for a local restaurant to dine in a beautiful atmosphere? Check out Labaab restaurant on Monivong Boulevard, just opposite to the Canadia Tower. The interior design is so local. If you want to taste the Mekong cuisine, Labaab restaurant is the ideal place to check out. You can order Thai, Vietnamese or Battambang (Khmer) food.
 
-### Cambodian classics
+Cambodian classics
 
 Fish Amok: Cambodia's national treasure, this dish features steamed fish in a creamy coconut curry infused with fragrant kroeung paste (a lemongrass, turmeric, and galangal blend) and palm sugar. Traditionally cooked in a banana leaf, it's a symphony of textures and tastes.
 
@@ -91,7 +91,7 @@ Khmer Curry: Available in a vibrant array of colors (red, green, yellow), each c
 
 Beef Lok Lak: This stir-fried dish is a crowd-pleaser. Marinated beef cubes are cooked with oyster sauce, lemongrass, and vegetables, typically served with steamed rice and a sunny-side-up egg on top. Samlor kako: A hearty and comforting soup, perfect for a light meal or a rainy day. It's made with vegetables, lemongrass, kaffir lime leaves, fish paste, and sometimes includes pork, beef, or shrimp for added protein.
 
-### Street food delights
+Street food delights
 
 Cambodian street food is a vibrant scene, offering an explosion of flavors and aromas at affordable prices. Don't miss these gems: Cambodia's most popular street food: Lort Chha
 
@@ -99,7 +99,7 @@ This stir-fried noodle dish is easy to find when you're Phnom Penh, Cambodia. It
 
 More or less it's a combination of Cambodian-Chinese way of frying of rice pin noodles (not instant noodles). It's healthier than other street or junk food.
 
-### Cambodian-Chinese pan-fried noodles: lort cha
+Cambodian-Chinese pan-fried noodles: lort cha
 
 The authenic lort cha is the most popular street food for Cambodians. Reasonable prices and delicious taste make Lort cha into a daily snack, easy to grab because there are vendors selling almost everywhere in Phnom Penh.
 
@@ -123,11 +123,11 @@ Skewers: Grilled meats and vegetables on skewers are a popular street food optio
 
 Sticky Rice with Mango: A sweet treat enjoyed during mango season (roughly April to June). Sticky rice is steamed in coconut milk and served with slices of ripe mango, offering a delightful contrast of textures and flavors.
 
-### Regional specialties
+Regional specialties
 
 Kampot Pepper Crab: A specialty in the coastal town of Kampot, fresh crabs are stir-fried with the region's famous black peppercorns, creating a dish with a unique peppery kick.
 
-### Beyond the savory
+Beyond the savory
 
 Cambodian desserts tend to be sweet and sticky, often featuring rice, coconut milk, and palm sugar. Popular options include sticky rice with mango (mentioned above) and mee goang (sweet stir-fried noodles).
 
@@ -149,7 +149,7 @@ Tips for Phnom Penh foodies
 
 Don't be afraid to try street food: It's a delicious and affordable way to experience Cambodian cuisine. Just stick to well-patronized stalls and use your best judgment. Carry cash: Many street vendors won't accept credit cards. Embrace the spice: Cambodian cuisine can be spicy. Ask before you order if you have a low spice tolerance. Sample local fruits: Cambodia boasts a variety of exotic fruits like durian, rambutan, and mangosteen.
 
-### Tips for adventurous eaters
+Tips for adventurous eaters
 
 Embrace the spice: Cambodian cuisine can be spicy, but most restaurants will adjust the spice level upon request.
 
@@ -157,7 +157,7 @@ Don't be afraid to try street food: It's a delicious and affordable way to exper
 
 Carry cash: Many street vendors won't accept credit cards. Sample local fruits: Cambodia boasts a variety of exotic fruits like durian, rambutan, and mangosteen.
 
-### Salted, dried fish: a Cambodian staple
+Salted, dried fish: a Cambodian staple
 
 Salted, dried fish is a staple food in Cambodia. It is made by salting and drying fish, which helps to preserve it and make it last longer. Salted, dried fish is a versatile ingredient that can be used in a variety of dishes, both savory and sweet.
 

@@ -15,21 +15,21 @@ Factors to Consider:
 
 Before diving in, consider your child's age, learning style, and your educational priorities. Do you prioritize a curriculum aligned with a specific country (e.g., US, UK), a focus on play-based learning, or a well-rounded program with extracurricular activities?
 
-## Choosing the right international English school in Phnom Penh: a guide for parents
+Choosing the right international English school in Phnom Penh: a guide for parents
 
-### International School of Phnom Penh (ISPP)
+International School of Phnom Penh (ISPP)
 
 ISPP is an accredited international school that offers an English language-based education for students from pre-school to grade 12. It follows an American curriculum and is accredited by the Western Association of Schools and Colleges (WASC).
 
-### The American School of Phnom Penh (ASPP)
+The American School of Phnom Penh (ASPP)
 
 This school is known for its strong academic program and its American-style curriculum. It has a pre-school, elementary and secondary school.
 
-### Paragon International School
+Paragon International School
 
 is a private school which offers an American-style education with an emphasis on the Khmer language and culture. It offers classes from pre-school to high school.
 
-### Phnom Penh International School (PPIS)
+Phnom Penh International School (PPIS)
 
 PPIS is a private school which offers an American-style education for students from pre-school to high school.
 
@@ -37,7 +37,7 @@ Aii Language Center
 
 Aii Language Center is a private institution that focuses on teaching English as a second language. It offers classes for students of all ages and levels of proficiency.
 
-### The British International School Phnom Penh
+The British International School Phnom Penh
 
 The British International School Phnom Penh (BISPP) provides an education based on the National Curriculum of England, with additional elements that are designed to reflect the local culture.
 
@@ -49,7 +49,7 @@ If you're looking for the best English school for your children, this mini guide
 
 In Phnom Penh, Cambodia, there are many international English schools. Parents now have more choices for kindergarten or pre-school education than ever before. Most of these schools are well-established, reputable, and internationally recognized. I have also included links to the schools' websites for more details and the latest updates.
 
-### The Giving Tree School
+The Giving Tree School
 
 Nursery: $2,380 A play-based English school in Phnom Penh, The Giving Tree School has opened since 2008. The international preschool is open to little and growing learners, from the age of 1 year to 10 years old. Although it's not affiliated with the Montessori education, the Giving Tree's approach to nurturing young children is play.
 
@@ -85,7 +85,7 @@ One of the most important things about choosing a school for children is the sch
 
 The Giving Tree School Toul Kork branch: sand, swing, and swimming pool among other kid friendly stuff in a spacious playground-like environment.
 
-### Footprints International Schools (FIS) in Phnom Penh
+Footprints International Schools (FIS) in Phnom Penh
 
 Footprints International School offers both English and Khmer to the pupils. The primary 4 disciplines are mathematics, language arts, science, and social studies. FIS also includes basic technology, health, arts, music, swimming, and physical education. The school believes that "children learn better when new skills and ideas are taught to them using a theme or a topic to help them learn."
 

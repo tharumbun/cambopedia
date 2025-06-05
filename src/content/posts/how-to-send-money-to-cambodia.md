@@ -15,7 +15,7 @@ There are several ways to send money to Cambodia. You can use your own bank, a s
 
 [How to send money to Cambodia with Payoneer](https://cambopedia.com/how-to-send-money-to-cambodia-with-payoneer/)
 
-### How do I send money to someone in Cambodia?
+How do I send money to someone in Cambodia?
 
 Here are some options for sending money to Cambodia:
 
@@ -33,11 +33,11 @@ Companies such as Western Union, MoneyGram, and Ria offer online money transfer 
 
 When sending money to Cambodia, it is important to compare fees and exchange rates from different providers before choosing a method, and to make sure that the recipient has a bank account or mobile phone to receive the money.
 
-### Payoneer
+Payoneer
 
 I've used Payoneer for several years. It's one of the easiest way to get your payment deposit in your local Cambodian bank account. The fee has been increased quite a bit since the pandemic. Payoneer is a favorite choice among Cambodia-based freelancers.
 
-### Wise
+Wise
 
 Formerly WiseTransfer, this online service makes transfer money abroad easily and quickly with its low cost money transfers. There are many choices of currencies available.
 
@@ -49,7 +49,7 @@ Wise is a popular online platform for money transfers because it offers several 
 
 Overall, the combination of lower fees, better exchange rates, faster transfers, convenience, and security make Wise a great choice for people who need to transfer money.
 
-### PayPal
+PayPal
 
 Is PayPal used in Cambodia?
 
@@ -65,11 +65,11 @@ The good thing is anyone in Cambodia can have a Paypal account to send money. Un
 
 Paypal users in Cambodia can only send or transfer money, but they cannot receive money through their Paypal yet. While it's usually safe and secure to transfer money from Cambodia to abroad through a bank, Paypal is also a way that most Cambodians use.
 
-### MoneyGram
+MoneyGram
 
 MoneyGram customers can now reach their loved ones in Cambodia in real-time by sending directly to Wing Bank accounts. Wing Bank is a Cambodian bank owned by Royal Group.
 
-### Skrill: Online payments & Money transfers
+Skrill: Online payments & Money transfers
 
 Before choosing a money transfer option, make sure to compare the exchange rates, fees, and delivery time of each service to ensure that you get the best deal.
 
@@ -79,11 +79,11 @@ There are several services available you can check out. Some are more costly tha
 
 There are several ways to send money to Cambodia, including:
 
-### Bank wire transfer
+Bank wire transfer
 
 Many banks offer international wire transfer services, which can be used to send money to Cambodia. This method is generally reliable, but can be expensive due to high fees. You can send money to Cambodia through a bank transfer. You'll need to provide the recipient's bank account details, including the account name, number, and bank name. It's also essential to check the exchange rates and transfer fees charged by the banks.
 
-### Money transfer through bank in Cambodia
+Money transfer through bank in Cambodia
 
 The most popular bank in Cambodia right now is Advanced Bank of Asia (well-known as ABA), which is a member of National Bank of Canada Group. Everyone has an ABA.
 
@@ -97,7 +97,7 @@ Mobile money transfer services within Cambodia
 
 Mobile money transfer services like Wing Bank and TrueMoney allow people who have no bank account to receive money. All they need is a phone to get the money at the agents near their home.
 
-### Sending money to a foreign a country from Cambodia
+Sending money to a foreign a country from Cambodia
 
 For example, if you want to send your payment to your business partners in Thailand, you can use Bangkok Bank (Cambodia), which charges about $5 for the amount under $1000. You don't event need a bank account with this Bangkok Bank branch of Thailand. However, the bank usually asks for all the details about your transfer.
 

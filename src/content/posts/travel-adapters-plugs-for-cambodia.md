@@ -9,7 +9,7 @@ Planning a trip to Cambodia is an exciting prospect for any traveler. With its r
 
 When traveling to Cambodia, it's essential to have the appropriate travel adapters to accommodate the country's electrical outlets, which accept plug types A, C, and G. Additionally, Cambodia operates on a 230V supply voltage and 50Hz frequency. Here are three top-rated universal travel adapters that are suitable for use in Cambodia:
 
-### Your Ultimate Guide to Travel Adapters for Cambodia
+Your Ultimate Guide to Travel Adapters for Cambodia
 
 Understanding Cambodia's Power Outlets:
 
@@ -25,7 +25,7 @@ Universal Travel Adapter: If you're traveling from a country with different plug
 
 USB Travel Adapter: A USB travel adapter can be a lifesaver, especially if you have multiple devices to charge simultaneously. It has USB ports that allow you to connect your devices' charging cables directly without the need for a separate plug adapter.
 
-### Where to Buy Travel Adapters:
+Where to Buy Travel Adapters:
 
 You can find travel adapters at various locations:
 

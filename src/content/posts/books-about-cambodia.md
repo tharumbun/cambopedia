@@ -9,7 +9,7 @@ Explore the rich world of Cambodia! Whether you're planning a visit, love histor
 
 These recommended books cover Cambodia’s history, culture, language, food, and politics. Learn about the resilience of the Khmer people, the secrets of traditional Cambodian cooking, and the country's journey through its past, present, and future. Whether you're curious about the Cambodian genocide or the modern political scene, there's something here for everyone. Start your journey into the heart of Cambodia today!
 
-## Best books about Cambodia
+Best books about Cambodia
 
 These books offer insights into Cambodia's recent history, focusing on the Khmer Rouge era and its impact on society, politics, and the economy:
 
@@ -25,7 +25,7 @@ When the War Was Over by Elizabeth Becker An in-depth history of Cambodia during
 
 "Stay Alive, My Son" by Pin Yathay A memoir of survival during the Khmer Rouge genocide, detailing the author’s struggle and resilience amidst the horrors faced by his family.
 
-### Books about starting/doing business and investing in Cambodia
+Books about starting/doing business and investing in Cambodia
 
 [**Essential Cambodia: A Guide for Foreign Entrepreneurs, Investors and Managers**](https://www.amazon.com/gp/product/B09TMVRWC1/?tag=cbpd02-20)
 
@@ -249,7 +249,7 @@ Fictions About Cambodia
 
 \- \[The Governor's Daughter\](https://amzn.to/2L7XPG8) (The Mysteries of Colonial Cambodia Book 1) by Khmer American author Sambath Meas - Samantha Sutton and the Temple of Traitors This 320 page novel is about mystery-adventures of a teenage heroine (Samantha Sutton), who joins her archeologist uncle in excavations at the Preah Vihear temple's clifftop. - \[The King's Last Song\](https://amzn.to/2N0D5C6) by Geoff Ryman (Author) - \[In the Shadow of the Banyan: A Novel\](https://amzn.to/2L7FWaw) by \[Vaddey Ratner\](https://vaddeyratner.com/) (Author) - \[Khmer Legends\](https://amzn.to/2DmtsfC) by Demaz Tep Baker
 
-### Travel and Memoirs:
+Travel and Memoirs:
 
 [Troubling the Water](https://www.amazon.com/gp/product/1640124764/?tag=cbpd02-20): A Dying Lake and a Vanishing World in Cambodia book by Abby Seiff, a foreign journalist who has covered Cambodia, Thailand, and Nepal. She announced her book relase on Twitter: "So! After years of work, my book is due out in two months which is pretty surreal and extremely terrifying. If you're at all interested, I hope you'll consider preordering it - which is apparently very helpful."
 

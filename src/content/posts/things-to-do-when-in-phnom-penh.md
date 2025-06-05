@@ -12,7 +12,7 @@ If you're coming to Phnom Penh for the first time and wondering about how to spe
 
 [How to stay safe in Phnom Penh](https://cambopedia.com/how-to-stay-safe-in-phnom-penh/)
 
-## What to do when in Phnom Penh?
+What to do when in Phnom Penh?
 
 Stressing out? You should take care of body and mind. How about floating effortlessly on a bed of water that has been saturated with over a thousand pounds of Epsom salt? You can have a regular float practice at Floating Phnom Penh. According its founder, "floating is about sensory deprivation, getting away from all the external 'noise' and having a very peaceful environment which can be very relaxing and reinvigorating." He added that "it's the first one in the Cambodian city of Phnom Penh."
 
@@ -20,7 +20,7 @@ Stressing out? You should take care of body and mind. How about floating effortl
 
 Shopping? If you love shopping, these are shops, markets, shopping malls in Phnom Penh, and tips, and what you should know. Believe it or not, Phnom Penh is a new city of shopping malls in Asia. But Phsar Thmey (New Market or Central Market) is Phnom Penh's best market to see. Its unique architecture is marvelous.
 
-### Some historical and artistic places in Phnom Penh to visit:
+Some historical and artistic places in Phnom Penh to visit:
 
 - Common tourist spots: Royal Palace, Cambodia National Museum, Choeung Ek, Tuol Sleng Museum
 - Nation Museum
@@ -35,7 +35,7 @@ Shopping? If you love shopping, these are shops, markets, shopping malls in Phno
 
 If you have a Cambodian friend. You should try at least once to have him or her taking you attend a Khmer wedding ceremony and reception. Try the dishes served at the wedding reception. It's not daily meal you find everyday in a Phnom Penh restaurant.
 
-### Street food to eat when Phnom Penh
+Street food to eat when Phnom Penh
 
 Just like other major cities, street food is common and popular among locals. Should you try? Why not? Cheap and goood, you should try a variety of things when you stumble upon.
 
@@ -53,7 +53,7 @@ This is a vibrant and trendy hub known for its lively nightlife, unique bars, an
 
 [Best cafes for remote work in Phnom Penh](https://cambopedia.com/coffee-shops-phnom-penh/)
 
-### Things to consider doing when visiting Phnom Penh
+Things to consider doing when visiting Phnom Penh
 
 Phnom Penh, the capital and largest city of Cambodia, offers a wide variety of things to see and do for visitors. From historical sites to vibrant markets, the city has something for everyone. Here are five things to consider doing when visiting Phnom Penh:
 
@@ -91,7 +91,7 @@ This Phnom Penh's first zoo is located in Prek Tasek commune, Chroy Changvar dis
 
 There are many other types of animals for sightseeing and also water parks for cruises and a playground. Ticket prices $15 for for adults and $5 for children.
 
-### A day trip to the Silk Island from Phnom Penh
+A day trip to the Silk Island from Phnom Penh
 
 The Silk Island (or Koh Sach known among locals) has been a popular day trip for bikers and Phnom Penh visitors who want to take a break from the crowded capital city. If you want to spend a relaxing time away from Phnom Penh, you should pay a visit to this Silk Island, a local pinic place on the entire, big Koh Oknha Tei.
 

@@ -10,7 +10,7 @@ Cambodia, the land of Angkor Wat and ancient temples, beckons travelers with its
 
 Living in Cambodia isn't for everyone. The pace of life can be slower, infrastructure has room for improvement, and the language barrier can be challenging. But for those seeking an adventure, a rich cultural experience, and a taste of Southeast Asian life on a budget, Cambodia offers a truly unforgettable experience. So, pack your bags, embrace the unknown, and get ready to discover the magic of the Kingdom of Wonder!
 
-## Kingdom of Wonder: Unveiling everyday life in Cambodia
+Kingdom of Wonder: Unveiling everyday life in Cambodia
 
 **Living on a budget, Khmer style**
 
@@ -32,7 +32,7 @@ While Angkor Wat remains a must-see, Cambodia boasts a wealth of hidden treasure
 
 Despite its turbulent past, Cambodia is a nation known for its friendly and welcoming people. A simple "Sukh sdei" (Hello in Khmer) can spark a conversation and open doors to genuine interactions. Learning a few basic phrases will go a long way in showing respect for the local culture.
 
-### Here are some things to consider before moving to Cambodia:
+Here are some things to consider before moving to Cambodia:
 
 **Visas and Immigration**
 
@@ -80,7 +80,7 @@ In general, if you are planning to live in Cambodia, it's important to be aware 
 
 It's always a good idea to check the U.S. Department of State website or the government website of your country for the most up-to-date information on safety and security in Cambodia before planning a trip or move there.
 
-### Moving to and living in Cambodia?
+Moving to and living in Cambodia?
 
 5 potential reasons someone might consider moving to Cambodia:
 
@@ -104,7 +104,7 @@ For good enough food, $200–$250 per month should suffice.
 
 Siem Reap, Cambodia is internationally known for its temples of Angkor, where you can have a breathtaking view of the sunset from the top of Phnom Bakheng.
 
-### Khmer People Are Super Friendly in Asia
+Khmer People Are Super Friendly in Asia
 
 Cambodians are the most friendly people in Asia. Khmer people are very hospitable. If you receive a formal or informal invitation to visit their home, consider yourself very fortunate because Khmer people consider you a nice person. In the urban cities like Phnom Penh, Siem Reap, or Sihanoukville, most Cambodians are able to have a conversation with you in English.
 
@@ -130,7 +130,7 @@ Khmer music
 
 There is no better way to get into Cambodian culture than through Khmer music, which is a part of Cambodian daily life. Cambodian legendary singer Sin Sisamouth is often referred to as the "Elvis Presley" of Cambodia. In this blog post, you can find some selected YouTube music videos to listen to.
 
-### Logistics in Cambodia
+Logistics in Cambodia
 
 Logistics in Cambodia can be challenging due to a variety of factors, including poor infrastructure, underdeveloped transportation systems, and a lack of skilled labor. However, the country has made significant progress in recent years to improve its logistics capabilities. Here are a few key points to consider when discussing logistics in Cambodia:
 
@@ -154,7 +154,7 @@ Government initiatives
 
 The government of Cambodia has been making efforts to improve logistics in the country by investing in transportation infrastructure and streamlining customs procedures. It also aims to increase the number of logistics providers and to improve the skills of logistics workers to make the sector more competitive.
 
-### How to get a tourist visa to Cambodia
+How to get a tourist visa to Cambodia
 
 To get a tourist visa to Cambodia, you will need to follow these steps:
 
@@ -162,7 +162,7 @@ To get a tourist visa to Cambodia, you will need to follow these steps:
 
 It's important to check the specific requirements and procedures of the Cambodian embassy or consulate in your country, as they may vary. Some nationalities are eligible for e-visa which can be obtained online, it is recommended to check the official website of the Cambodian government before applying.
 
-### Why you should not visit Cambodia?
+Why you should not visit Cambodia?
 
 These are general considerations and many people still choose to visit Cambodia and have a positive experience. Visitors can take steps to minimize negative impact, such as choosing sustainable accommodations and supporting local businesses.
 
@@ -188,7 +188,7 @@ Unsustainable tourism
 
 Over tourism can put a strain on natural resources, local culture, and infrastructure. Visitors should consider the social and environmental impact of their travels.
 
-### What exciting developments are happening in Cambodia right now?
+What exciting developments are happening in Cambodia right now?
 
 - Phnom Penh’s cityscape is changing. Getting taller and taller everyday. More and more skyscrapers in are everywhere now in the heart of Cambodia’s largest capital city.
 - More Chinese money and people
@@ -243,7 +243,7 @@ I've lived in Phnom Penh since the 1980s and have witnessed a tremendous transfo
 
 Fast forward to today: public schools are publicly known for providing lower, if not poor, quality than private ones. There are many choices when going through the long list of private schools, but it's about affordability. These days, kids are very protected for safety and security reasons, and increasingly, kids spend time in their homes playing games on their iPads. In this post, I'm going to list down some of the things you should know.
 
-### 5 reasons why Phnom Penh is a great city to live in
+5 reasons why Phnom Penh is a great city to live in
 
 Phnom Penh is a great city to live in for many reasons, including its affordable cost of living, growing job market, delicious food, rich cultural heritage, and friendly locals. Whether you are looking for adventure or simply a place to call home, Phnom Penh is definitely worth considering.
 
@@ -267,7 +267,7 @@ Friendly locals
 
 One of the best things about Phnom Penh is its friendly and welcoming locals. Cambodians are known for their hospitality, and it is easy to make friends in the city. English is widely spoken, so communication is rarely a problem. Expats often comment on how easy it is to feel at home in Phnom Penh.
 
-### How to find affordable housing in Phnom Penh
+How to find affordable housing in Phnom Penh
 
 Finding affordable housing in Phnom Penh may seem daunting, but with these tips and a bit of patience, you can find a great place to call home. If you're planning to move to Phnom Penh, finding affordable housing can be a bit of a challenge, especially if you're not familiar with the local housing market. Here are some tips to help you find a great place to live in Phnom Penh without breaking the bank.
 
@@ -317,7 +317,7 @@ Give back to the community
 
 Volunteering or supporting local charities is a great way to get involved in the community and make a positive impact. You can also consider donating to organizations that support education, health care, and other critical needs in Cambodia.
 
-### Phnom Penh's best place to live
+Phnom Penh's best place to live
 
 Which district in Phnom Penh is the best place to live? Tuol Kork means the ground hill. Tuol Kork, which literally means ground hill in Khmer, is becoming more and more an ideal choice to live a relaxing life in Phnom Penh. The district is largely known for villas and quiet life.
 
@@ -325,7 +325,7 @@ In the 1990s, Toul Kork (or Tumnub Toul Kork) was also infamously known as one o
 
 This blog post will discuss why Toul Kork is the best place for those who want to move to Cambodia and settle in Phnom Penh, the largest capital city.
 
-### What is it like to live in Phnom Penh as a foreigner?
+What is it like to live in Phnom Penh as a foreigner?
 
 Some good things:
 
@@ -349,7 +349,7 @@ Royal University of Phnom Penh, the Institute of Foreign Language, and Institute
 
 There are about 100 universities (both public and private) in Cambodia. And which one is the top best?
 
-### What to be cautious about when in Phnom Penh
+What to be cautious about when in Phnom Penh
 
 Traffic and transportation
 

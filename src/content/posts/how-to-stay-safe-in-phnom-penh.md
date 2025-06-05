@@ -7,7 +7,7 @@ categories:
 
 Phnom Penh is a city of contrasts, where the warmth of its people and the beauty of its culture often outweigh the challenges. By staying informed and taking precautions, you can minimize risks and enjoy your time to the fullest. Remember, a little preparation goes a long way in ensuring a safe and memorable experience in Cambodia’s capital. Like any major city, it’s essential to take precautions to ensure your safety. Here’s a comprehensive guide on staying safe, avoiding scams, and dealing with petty theft while enjoying your time in this dynamic city.
 
-## Staying Safe in Phnom Penh: Tips for Visitors and Expats
+Staying Safe in Phnom Penh: Tips for Visitors and Expats
 
 1\. Stay Alert and Aware - Be mindful of your surroundings, especially in crowded areas like markets, tourist hotspots, and public transportation hubs. - Avoid displaying valuables such as expensive jewelry, smartphones, or large amounts of cash.
 
@@ -21,7 +21,7 @@ Phnom Penh is a city of contrasts, where the warmth of its people and the beauty
 
 6\. Know Emergency Contacts - Save the numbers for local police (117), ambulance services, and your country’s embassy.
 
-### How to Avoid Scams in Phnom Penh
+How to Avoid Scams in Phnom Penh
 
 1\. Be Cautious with Tuk-Tuk Drivers - Negotiate fares upfront or use ride-hailing apps to avoid being overcharged. - Some drivers may try to take longer routes—use GPS to ensure you’re on track.
 
@@ -35,7 +35,7 @@ Phnom Penh is a city of contrasts, where the warmth of its people and the beauty
 
 6\. Fake Taxi Services - Avoid unmarked taxis. Stick to recognized transportation providers or ride-hailing apps.
 
-### How to Deal with Petty Theft in Phnom Penh
+How to Deal with Petty Theft in Phnom Penh
 
 1\. Preventing Theft - Use a crossbody bag and keep it zipped and close to your body. - Avoid using your phone on busy streets where snatch-and-grab incidents are common. - Lock your doors and windows when leaving your accommodation.
 

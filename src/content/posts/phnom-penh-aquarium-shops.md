@@ -8,7 +8,7 @@ coverImage: "koi-cambodia.jpg"
 
 Betta fish are renowned for their vibrant colors and flowing fins. They come in a vast array of colors, from solid shades like red, blue, and turquoise to mesmerizing patterns like marble and plakat. Their fins can be veil-like, crowntail, or even double-ray, adding to their visual appeal. Betta fish offer a unique combination of beauty, low maintenance, and personality that makes them a popular choice for home aquariums.
 
-## Some aquarium shops you can visit in Phnom Penh:
+Some aquarium shops you can visit in Phnom Penh:
 
 There are a couple of places you can find betta fish in Phnom Penh:
 
@@ -16,15 +16,15 @@ Finding Betta Cambodia: This shop specializes in betta fish and supplies. They h
 
 Toul Sangkea: This area near Toul Sangkea pagoda is known for its aquarium fish market. You can find a variety of freshwater fish here, including bettas. The fish are typically sold in small bags or containers. 
 
-### Aquarium World
+Aquarium World
 
 This shop is located at 17e0 St 146. They offer a variety of aquarium fish, supplies, and equipment.
 
-### YOKO JP AQUARIUM
+YOKO JP AQUARIUM
 
 This shop is located at St 432. They specialize in Japanese aquatic products and offer a wide range of fish, plants, and equipment.
 
-### Loving Fish Aquarium
+Loving Fish Aquarium
 
 This shop is located on Northbridge St. (1019). This aquarium shop is known for its beautiful aquascapes and wide selection of fish, plants, and supplies. They also have a cafe where you can relax and enjoy the view of the fish tanks.
 

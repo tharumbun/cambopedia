@@ -9,7 +9,7 @@ Did you know that Khmer is the official language of Cambodian people? Sanskrit a
 
 Do you want to learn Khmer language? Khmer is not an easy language to learn for most people. But, one of the best travel and living experiences in Cambodia is the ability to talk to Cambodian people in Khmer. With determination, foreigners and expats can learn and speak Khmer fluently.
 
-## What are the best ways learn Khmer language
+What are the best ways learn Khmer language
 
 1\. Use Language Learning Apps Duolingo: Offers interactive lessons. Memrise: Great for vocabulary and pronunciation. 2. Flashcards Create flashcards with common phrases and their meanings. Use apps like Anki for spaced repetition. 3. Online Resources Websites like Cambodian Language provide free lessons. YouTube has videos on pronunciation and common phrases. 4. Practice Speaking Find a language partner or tutor on platforms like italki or HelloTalk. Join language exchange groups in your area. 5. Listen and Repeat Listen to Khmer music, watch movies, or follow podcasts to get used to the sounds. 6. Start with Common Phrases Here are a few basic phrases to begin with: Hello: ជំរាបសួរ (Chomreabsuor) Thank you: អរគុណ (Orkun) Yes: បាទ (Bat) \[male\] / សូម (Som) \[female\] No: ទេ (Te) Goodbye: លាហើយ (Leah-hery) 7. Immersion If possible, immerse yourself in a Khmer-speaking environment for hands-on practice. 8. Consistency is Key Dedicate a little time each day to practice, even if it’s just 10–15 minutes. By combining these methods, you'll gradually build your confidence in speaking Khmer!
 
@@ -19,7 +19,7 @@ Here are 5 \[books to help foreigners learn Khmer language:
 
 Cambodian for Beginners: With English-cambodian Vocabulary by Richard Gilbert - [Learn Khmer For Beginners](https://www.amazon.com/gp/product/1617044717/?tag=cbpd02-20)! A Cambodian Language Learning Book!: Over 1000 Khmer Words and Phrases by Audiobooks, Lexicon Languages
 
-### Five tips to learn Khmer language
+Five tips to learn Khmer language
 
 Immerse yourself in the language:
 
@@ -47,7 +47,7 @@ Practice listening to Cambodian radio or podcasts, and reading Cambodian news ar
 
 If you're looking for Khmer classes or how to learn the Cambodian language (even as a beginner), this page will give you all the information you need.
 
-### Khmer Language Class for Foreigners in Cambodia
+Khmer Language Class for Foreigners in Cambodia
 
 There is a Khmer language program for foreign nationals and expats at the Institute of Foreign Languages (IFL), Royal University of Phnom Penh (RUPP), in Cambodia. But what if you don't have time for that language program? You can take on an easier path.
 
@@ -55,7 +55,7 @@ G2K: a Khmer language school in the heart of Phnom Penh
 
 G2K school teaches foreigners language and culture from beginner to advanced level.
 
-### Learn Khmer Language with Mobile App or Online
+Learn Khmer Language with Mobile App or Online
 
 In our smartphone age, learning a new language like Khmer is getting easier. Of course, you need to work hard and be very committed. Australia-based Lyrebird Learning, which specializes in offering language learning app for users of all ages, has an Android version to help anyone to learn Khmer characters, from consonants to vowels to diacritics to numerals. In this blog post, I take a closer look into 2 apps for Khmer language learners: one is available only on Play Store and the other is on App Store: Lyrebird Learn Khmer Alphabet and Let's Speak Khmer.
 
@@ -103,7 +103,7 @@ If you want to learn basic Khmer language (beginners), these are the selected bo
 - [Cambodian for Beginners](https://amzn.to/2Os91Az)
 - [Colloquial Cambodian (Routledge Colloquials (Audio)) 1st Edition](https://amzn.to/2Alnr2j)
 
-### Some more books about learning Khmer languages:
+Some more books about learning Khmer languages:
 
 Learn Khmer: Start Speaking Today. Absolute Beginner to Conversational Speaker Made Simple and Easy! by Languages World. This book is a great way to get started with Khmer, as it teaches you the basics of the language in a simple and easy-to-understand way. It includes lessons on grammar, vocabulary, and pronunciation, as well as transcripts of conversations that you can listen to and practice.
 

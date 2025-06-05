@@ -7,7 +7,7 @@ categories:
 
 Cambodian cuisine is a treasure trove of rich flavors, intricate techniques, and deep cultural significance. For those eager to dive into this culinary world, The Taste of Angkor serves as an exceptional guide. This beautifully curated cookbook, published by Cambodia’s Ministry of Foreign Affairs and International Cooperation, is more than just a collection of recipes—it is a gateway to the history, tradition, and soul of Khmer gastronomy.
 
-### Exploring Cambodian Cuisine with The Taste of Angkor
+Exploring Cambodian Cuisine with The Taste of Angkor
 
 A Culinary Journey Through Cambodia
 

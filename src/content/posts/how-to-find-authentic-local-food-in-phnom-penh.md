@@ -12,16 +12,16 @@ Phnom Penh’s food scene is a rich tapestry of flavors, textures, and aromas th
 
 [What is the most popular food in Cambodia?](https://cambopedia.com/most-popular-food-in-cambodia/)
 
-## This guide will help you uncover the most authentic local food spots and dishes that truly capture the essence of Cambodian culture.
+This guide will help you uncover the most authentic local food spots and dishes that truly capture the essence of Cambodian culture.
 
 
-### 1\. Start with the Local Markets
+1\. Start with the Local Markets
 
 Local markets are the heart of Phnom Penh’s food culture. Here, you’ll find an array of fresh ingredients, street food stalls, and prepared dishes that showcase authentic Khmer flavors.
 
 - Phsar Thmey (Central Market): This iconic art-deco market is a haven for food lovers. Explore stalls selling fresh fruits, snacks like fried bananas, and hearty noodle soups. Phsar Kandal (Kandal Market): Located near Riverside, this bustling market offers a variety of traditional breakfast items like bai sach chrouk (pork and rice) and num banh chok (Khmer noodles). Phsar Tuol Tom Poung (Russian Market): Known for its mix of food and crafts, this market is a great place to try local dishes like lok lak and freshly made spring rolls.
 
-### 2\. Explore Street Food Culture
+2\. Explore Street Food Culture
 
 Phnom Penh’s street food scene is a treasure trove of flavors and textures. From savory snacks to sweet desserts, street food vendors offer some of the city’s best eats at unbeatable prices.
 
@@ -33,11 +33,11 @@ Must-Try Street Foods:
 - Fried Insects: For the adventurous eater, try fried crickets, tarantulas, or silk worms—a Cambodian delicacy.
 
 
-### 3\. Dine at Local Restaurants
+3\. Dine at Local Restaurants
 
 Local eateries, often referred to as "mom-and-pop" shops, are the backbone of Phnom Penh’s food scene. These restaurants serve home-cooked meals that offer an authentic taste of Khmer cuisine.
 
-### 4\. Take a Khmer Cooking Class
+4\. Take a Khmer Cooking Class
 
 One of the best ways to experience authentic local food is to learn how to make it yourself. Cooking classes in Phnom Penh allow you to dive deep into Khmer culinary traditions and take a piece of Cambodia home with you.
 
@@ -47,18 +47,18 @@ Popular Cooking Schools:
 - Nary Kitchen: Located in a homey setting, this school provides an intimate cooking experience.
 - Cambodia Cooking Class: Includes a market tour where you’ll learn to select fresh ingredients.
 
-### 5\. Discover Hidden Gems and Local Favorites
+5\. Discover Hidden Gems and Local Favorites
 
 Beyond the tourist hotspots, Phnom Penh is filled with hidden gems frequented by locals. These places offer an authentic dining experience that you won’t find in guidebooks.
 
-### 6\. Try Contemporary Cambodian Cuisine
+6\. Try Contemporary Cambodian Cuisine
 
 In recent years, Phnom Penh has seen a rise in restaurants blending traditional Khmer flavors with modern culinary techniques. These spots offer a fresh perspective on Cambodian cuisine.
 
-### 7\. Sweet Endings: Cambodian Desserts
+7\. Sweet Endings: Cambodian Desserts
 
 No meal is complete without dessert, and Cambodian sweets are a delightful way to end your culinary journey.
 
-### 8\. Respect Local Customs
+8\. Respect Local Customs
 
 When dining in Phnom Penh, it’s essential to be mindful of local customs and etiquette.

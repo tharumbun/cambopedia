@@ -8,7 +8,7 @@ coverImage: "IMG_7885.jpg"
 
 The air quality in Phnom Penh can vary depending on the time of year and the specific location within the city. The city experiences high levels of air pollution, particularly during the dry season, when dust and sand from nearby construction projects and agriculture can contribute to poor air quality. In addition, there is a lot of vehicle traffic in Phnom Penh, which can also contribute to air pollution.
 
-## Phnom Penh air quality: what you need to know
+Phnom Penh air quality: what you need to know
 
 It isn't possible to say definitively what the air quality in Phnom Penh will be like throughout this year. Air quality can fluctuate due to various factors like weather, seasonal changes, and human activities.
 
@@ -16,7 +16,7 @@ Factors that can affect air quality in Phnom Penh include emissions from industr
 
 You check the air quality index before planning outdoor activities in Phnom Penh, and to take necessary precautions such as wearing a mask if the air quality is poor.
 
-### How polluted is Phnom Penh?
+How polluted is Phnom Penh?
 
 Recent research by the United Nations Environment Programme (UNEP) shows that the largest sources of pollution in Cambodia today are transport, electricity generation, industry, and residential development.
 
@@ -26,7 +26,7 @@ How bad is air pollution in Phnom Penh? According to Leakhena Hang and Lorn Sokl
 
 Should air pollution in Phnom Penh be a concern? Given the potential health risks associated with exposure to PM2.5 and other pollutants, it is important for both residents of Phnom Penh and visitors to the city to be aware of the air quality and take steps to reduce their own contributions to the problem, if possible.
 
-### How bad is air pollution in Phnom Penh?
+How bad is air pollution in Phnom Penh?
 
 According to IQAir, which publishes [latest air quality index (AQI)](https://www.iqair.com/air-quality-map/cambodia/phnom-penh), Phnom Penh came in with an average yearly reading of 21.1 μg/m³. This reading put Phnom Penh into the ‘moderate’ pollution bracket, one which requires a PM2.5 reading of anywhere between 12.1 to 35.4 μg/m³ to be classified as such. "This shows that whilst Phnom Penh does not have an overtly bad level of air pollution, it could still stand to improve its air quality, coming in at 818th place out of all cities ranked worldwide."
 

@@ -12,9 +12,9 @@ Living or visiting Phnom Penh means enjoying an ever-growing array of products f
 
 This guide ensures you’re equipped with the knowledge and tips to shop smartly, avoid pitfalls, and leave Phnom Penh with not just great buys but unforgettable memories. Love shopping in Phnom Penh? Here’s how to make the most of it.
 
-## Why Phnom Penh is a shopper’s paradise
+Why Phnom Penh is a shopper’s paradise
 
-### Phnom Penh markets and shopping malls you should know
+Phnom Penh markets and shopping malls you should know
 
 he Central Market (Phsar Thom Thmey) One of Phnom Penh’s most iconic landmarks, the Central Market remains a favorite for both locals and tourists. Renowned for its fresh seafood, it is the go-to spot for crabs, squids, and lobsters. The best time to shop is in the afternoon when prices drop slightly. Beyond seafood, the market offers an array of jewelry, clothes, and souvenirs. In 2024, the Central Market’s charm is further enhanced by improved facilities, making shopping more convenient for visitors.
 
@@ -42,7 +42,7 @@ Global House Cambodia Global House continues to serve as Phnom Penh’s one-stop
 
 Exchange Square Exchange Square remains a premium shopping and office complex in the city center. The 19th-floor views are a standout feature, offering stunning perspectives of Phnom Penh’s skyline, including iconic landmarks like the Central Market and the riverside. Its luxury shops and fine dining options attract an upscale clientele.
 
-### Tips for a rewarding shopping experience in Phnom Penh
+Tips for a rewarding shopping experience in Phnom Penh
 
 1\. Embrace Bargaining Culture Bargaining remains a vital part of shopping in Cambodia, particularly in local markets and smaller shops. Sellers often set an initial high price, so don’t hesitate to negotiate. A polite and friendly approach can go a long way in securing a great deal.
 

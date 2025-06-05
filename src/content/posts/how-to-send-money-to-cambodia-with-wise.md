@@ -11,7 +11,7 @@ Recently, I've made transfer money from my Wise to ABA bank account. It's simple
 
 In this guide, I’ll walk you through how to [send money to Cambodia](https://cambopedia.com/how-to-send-money-to-cambodia/) with Wise, highlighting the platform’s advantages and providing step-by-step instructions.
 
-### How to Send Money to Cambodia with Wise: A Step-by-Step Guide
+How to Send Money to Cambodia with Wise: A Step-by-Step Guide
 
 Why Choose Wise for Sending Money to Cambodia?
 

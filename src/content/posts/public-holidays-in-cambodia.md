@@ -7,7 +7,7 @@ categories:
 
 Cambodia has a number of public holidays throughout the year, many of which are religious or cultural in nature. If you are planning a trip to Cambodia, it is important to be aware of the public holidays, as many businesses and government offices may be closed on these days.
 
-### Cambodia public holidays in 2025
+Cambodia public holidays in 2025
 
 1\. January 1: International New Year’s Day 2. January 7: Victory Over Genocide Day 3. March 8: International Women’s Day 4. April 13-16: Khmer New Year 5. April 22: Royal Plowing Ceremony 6. April 24: Visak Bochea Day 7. May 1: International Labor Day 8. May 13-15: King Norodom Sihamoni’s Birthday 9. May 19: King’s Father, King Norodom Sihanouk's Birthday (Preah Borom Ratanak Kaudh) 10. June 18: Queen Mother Norodom Monineath Sihanouk’s Birthday 11. September 24: Constitution Day 12. October 5-7: Pchum Ben Day 13. October 15: Commemoration Day of King Norodom Sihanouk 14. October 23: Paris Peace Agreement Day 15. October 29: King Norodom Sihamoni’s Coronation Day 16. November 9: Independence Day 17. November 14-16: Water Festival (Bonn Om Touk) 18. December 10: International Human Rights Day
 

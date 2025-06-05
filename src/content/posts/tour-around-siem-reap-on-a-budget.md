@@ -120,7 +120,7 @@ Wat Bo or Wat Reach Bo is a famous monument and archeological site in Siem Reap,
 
 The magnificence of the elaborate design of the sculptural structures was damaged and lost its original beauty in some places due to the weather, age, reproduction, cracks, dust and smoke, incense, candles and so on. That is why the Apsara Authority has collaborated with Italian experts to renovate this temple in order to preserve and revitalize the culture of ancient Khmer art today.
 
-### Roleque restaurant in Siem Reap
+Roleque restaurant in Siem Reap
 
 Roleque is a popular restaurant in Siem Reap that serves a variety of Khmer and international dishes. The restaurant is located in the heart of the city, making it a convenient option for tourists. The interior of the restaurant is spacious and air-conditioned, making it a comfortable place to dine. The staff is friendly and attentive, and the food is delicious.
 
