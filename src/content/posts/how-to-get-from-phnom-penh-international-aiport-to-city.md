@@ -7,11 +7,11 @@ categories:
 
 Formerly known as Pochentong International Airport, Phnom Penh International Airport has long been the main aviation hub for Cambodia’s bustling capital. Strategically located just 10 kilometers from the city center, this airport has played a vital role in connecting Phnom Penh to the world. As the nation transitions to its new Techo International Airport, questions arise about the future of this historical airport and its evolving role in Cambodia’s aviation landscape.
 
-### A snapshot of Phnom Penh International Airport
+A snapshot of Phnom Penh International Airport
 
 Renovated and expanded several times since its establishment, Phnom Penh International Airport is equipped with modern facilities to handle millions of passengers annually. Despite being smaller than other regional hubs, it offers a comfortable and efficient travel experience. Key highlights include: - Terminals: Separate terminals for domestic and international flights. - Amenities: Duty-free shopping, a variety of dining options, currency exchange, and free Wi-Fi. - VIP Lounges: Dedicated spaces for premium travelers to relax before their flights. - Runway: A single runway capable of accommodating large aircraft.
 
-### How do I get from Phnom Penh airport to the city?
+How do I get from Phnom Penh airport to the city?
 
 Traveling to Phnom Penh International Airport from the city is straightforward, with several transportation options available:
 

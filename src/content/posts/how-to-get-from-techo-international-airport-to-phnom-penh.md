@@ -11,7 +11,7 @@ Techo International Airport (KTI) \[also known as Techo International Airport\] 
 
 [How to get around Phnom Penh: A comprehensive guide](https://cambopedia.com/how-to-get-around-phnom-penh/)
 
-### To get from Techo International Airport to Phnom Penh, here are your options:
+To get from Techo International Airport to Phnom Penh, here are your options:
 
 1\. Taxi or Ride-Hailing Services - Taxis: Available at the airport. A taxi ride to the city center costs approximately $10–$15 and takes around 30–40 minutes depending on traffic. - Ride-Hailing Apps: Use apps like Grab or PassApp to book a ride. Prices are often lower than regular taxis, and you can pay via the app or in cash.
 
@@ -35,7 +35,7 @@ Green Initiatives Sustainability is a core focus of Techo International Airport.
 
 Transportation Options Getting to and from Techo International Airport is seamless: - Taxis and Ride-Hailing: Reliable and convenient options for door-to-door service. - Public Buses: An affordable way to travel to the city center. - Tuk-Tuks: A quintessential Cambodian experience for the adventurous traveler. - Car Rentals: On-site car rental services provide flexibility for exploring Phnom Penh and beyond.
 
-### One of the world's largest international airports is in Cambodia
+One of the world's largest international airports is in Cambodia
 
 Spanning approximately 2,600 hectares (about 6,400 acres), it is expected to rank as the ninth largest globally upon completion.
 
