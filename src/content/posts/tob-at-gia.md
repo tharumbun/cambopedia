@@ -2,7 +2,7 @@
 title: "TOB at GIA"
 date: 2025-02-26
 categories: 
-  - "cafes-restaurants"
+  - "restaurants"
 ---
 
 TOB at GIA, a subsidiary of the renowned Cuisine Wat Damnak, has established itself as a notable dining destination in Phnom Penh. Located in the GIA Tower on St. Sopheak Mongkol Road, Sangkat Tonle Basak, Khan Chamkar Mon, this restaurant offers a casual dining experience that seamlessly blends traditional Cambodian flavors with contemporary culinary techniques.
