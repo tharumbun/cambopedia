@@ -14,7 +14,6 @@ Phnom Penh’s food scene is a rich tapestry of flavors, textures, and aromas th
 
 ## This guide will help you uncover the most authentic local food spots and dishes that truly capture the essence of Cambodian culture.
 
-![](images/borbor-768x1024.jpg)
 
 ### 1\. Start with the Local Markets
 
@@ -33,7 +32,6 @@ Must-Try Street Foods:
 - Chive Cakes: Crispy rice flour cakes filled with chives and served with a tangy dipping sauce.
 - Fried Insects: For the adventurous eater, try fried crickets, tarantulas, or silk worms—a Cambodian delicacy.
 
-![](images/fried_chicken_rice-768x1024.jpg)
 
 ### 3\. Dine at Local Restaurants
 
