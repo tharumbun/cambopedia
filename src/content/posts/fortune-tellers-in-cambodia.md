@@ -25,7 +25,7 @@ Animal bones: In some parts of Cambodia, fortune tellers use animal bones, such 
 
 Fortune telling is not always taken literally in Cambodia. Many people see it as a way to gain a sense of perspective on their lives and to make informed decisions. However, it is important to be aware that fortune telling can also be used to exploit or manipulate people.
 
-### Spirit possession in Cambodia
+Spirit possession in Cambodia
 
 Spirit possession is a phenomenon that holds cultural significance in Cambodia, particularly in rural areas where traditional beliefs and animistic practices are more prevalent. In Cambodian culture, spirits are believed to inhabit both the natural world and the spiritual realm, and they can influence human affairs.
 
