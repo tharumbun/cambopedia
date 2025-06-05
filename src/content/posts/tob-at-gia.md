@@ -23,6 +23,5 @@ The beverage selection caters to a wide range of preferences. Coffee enthusiasts
 
 The staff at TOB at GIA are known for their attentive and friendly service. From the moment guests arrive, they are made to feel welcome, with the team readily available to provide recommendations and accommodate special requests. The waitstaff's proficiency in English ensures clear communication, enhancing the overall dining experience for both locals and international visitors.
 
-### Overall Experience
 
 TOB at GIA successfully combines the rich culinary traditions of Cambodia with contemporary dining sensibilities. The thoughtfully curated menu, inviting ambiance, and exceptional service make it a standout choice for those looking to explore Cambodian cuisine in Phnom Penh. Whether you're a resident or a traveler seeking an authentic yet modern dining experience, TOB at GIA promises a meal that is both memorable and satisfying.
