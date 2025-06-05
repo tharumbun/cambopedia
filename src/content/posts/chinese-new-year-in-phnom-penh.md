@@ -7,7 +7,7 @@ categories:
 
 Chinese New Year, also known as the Lunar New Year or Spring Festival, is one of the most significant cultural celebrations in the world. In Phnom Penh, the heart of Cambodia, the festival offers a fascinating blend of tradition, modernity, and multicultural vibrancy. Whether you’re a local, an expat, or a traveler, experiencing Chinese New Year in Phnom Penh is a memorable way to immerse yourself in the city’s rich cultural tapestry. Here are the best ways to celebrate this festive occasion.
 
-### Chinese New Year in Phnom Penh: Best Ways to Celebrate the Lunar Festival
+Chinese New Year in Phnom Penh: Best Ways to Celebrate the Lunar Festival
 
 1\. Visit the Local Temples
 
