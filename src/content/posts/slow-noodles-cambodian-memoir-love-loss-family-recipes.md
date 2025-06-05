@@ -15,8 +15,6 @@ While the book features a collection of authentic Cambodian recipes, from classi
 
 Through the act of cooking and sharing these cherished family recipes, Nguon explores themes of healing, resilience, and the enduring power of love and community. "Slow Noodles" is a testament to the human spirit's ability to find solace and strength in the face of adversity.
 
-![](images/slow_noodel_book_cambodia-199x300.jpg)
-
 ### Story and Themes
 
 The memoir unfolds in two intertwined layers: a deeply personal account of Nguon’s life and a collection of traditional Cambodian recipes passed down through generations. At its heart, Slow Noodles is about healing—through food, family, and the act of storytelling. The title itself serves as a metaphor for the patience and care required to rebuild lives and preserve traditions after immense loss.
