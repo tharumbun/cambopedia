@@ -12,8 +12,6 @@ Phnom Penh offers a delightful variety of noodle dishes to tantalize your taste 
 
 Arguably Cambodia's national dish, kuy teav is a versatile rice noodle soup enjoyed for breakfast, lunch, or even dinner. The thin rice noodles are served in a flavorful broth, typically pork or chicken, and can be customized with various toppings like bean sprouts, green onions, fried shallots, and lime wedges.
 
-![](images/kuy_teav_phnom_penh.jpg)
-
 In Phnom Penh, there are so many choices when it comes to eating good food. If a dish of noodles is your favorite like mine, then let's find out some of the best restaurants in town. What you will find in my selections are: Chinese noodle styles, Cambodian noodle (Num Banh Chok), Ramen, and Udon.
 
 ## A mini guide to help you find the best noodles to tantalize your taste buds
@@ -27,8 +25,6 @@ Kuy teav is what the locals in Phnom Penh call. This name is very old, so it sou
 This Khmer Chinese flavorful kuy teav is what you should taste each you're in Cambodia's Phnom Penh.
 
 According to Wikipedia, "Kuyteav is a Cambodian noodle soup consisting of rice noodles with pork stock and toppings. A popular breakfast dish in Cambodia, kuyteav can be found at marketplace stalls, roadside vendors, and restaurants." This steaming bowl of (either chicken or beef or pork) broth filled with noodles is everyday Cambodian breakfast to start a beautiful day with coffee.
-
-![](images/noodles-dish.jpg)
 
 ### Angkor Duck Noodle
 
@@ -59,7 +55,7 @@ If you're looking for something beyond Cambodian cuisine, Phnom Penh's diverse n
 - Ramen at CJCC Food Court
 - Merugame Udon
 
-### Delicious dish of Pho? ![](images/pho_phnom_penh.jpg)
+### Delicious dish of Pho?
 
 Pho Cali:This popular chain has multiple locations around Phnom Penh and is known for its large portions and flavorful broth. They offer a variety of pho options, including classic beef pho and options with flank steak, brisket, or meatballs.
 
