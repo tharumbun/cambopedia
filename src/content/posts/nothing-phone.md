@@ -1,10 +1,8 @@
 ---
 title: "Nothing Phone"
 date: 2025-03-06
-image: "../../assets/images/mobile-development.svg"
-authors: ["dragos"]
-categories: ["Web Development"]
-tags: ["mobile", "react-native", "flutter", "ios", "android"]
+categories: 
+  - "lifestyle-shopping"
 ---
 
 The Nothing Phone series has garnered attention for its unique design and features.
