@@ -17,8 +17,6 @@ Tips: - Dress modestly to show respect for the sacred grounds. - Arrive early to
 
 ### 2\. Discover the National Museum of Cambodia
 
-![](images/museum-phnom-penh-768x1024.jpg)
-
 Just a short walk from the Royal Palace, the National Museum of Cambodia houses the country’s largest collection of Khmer art and artifacts. This museum is a gateway to understanding Cambodia’s ancient history and cultural evolution. Highlights include statues from the Angkorian era, traditional musical instruments, and ceramics.
 
 Tips: - Consider joining a guided tour to gain deeper insights into the exhibits. - Visit in the afternoon to enjoy a quieter atmosphere. - The museum courtyard is a peaceful spot to relax and admire its lush greenery.
