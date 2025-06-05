@@ -91,8 +91,6 @@ This Phnom Penh's first zoo is located in Prek Tasek commune, Chroy Changvar dis
 
 There are many other types of animals for sightseeing and also water parks for cruises and a playground. Ticket prices $15 for for adults and $5 for children.
 
-![](images/phnom_penh_arey_ksat_ferry-1024x768.jpg)
-
 ### A day trip to the Silk Island from Phnom Penh
 
 The Silk Island (or Koh Sach known among locals) has been a popular day trip for bikers and Phnom Penh visitors who want to take a break from the crowded capital city. If you want to spend a relaxing time away from Phnom Penh, you should pay a visit to this Silk Island, a local pinic place on the entire, big Koh Oknha Tei.
