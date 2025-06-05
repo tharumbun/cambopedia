@@ -22,7 +22,6 @@ Location: Norodom Boulevard Highlights: A flagship bookstore in Phnom Penh, offe
 
 Location: Street 240 and Street 178 Highlights: Known for second-hand books, D's Books offers affordable options for both locals and expats. Their collection includes novels, self-help books, and children's literature. Bonus: You can sell or exchange books here.
 
-![](images/ds-books-phnom-penh-768x1024.jpg)
 
 ### The Bookstore Phnom Penh
 
