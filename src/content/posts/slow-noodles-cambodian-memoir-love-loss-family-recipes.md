@@ -29,13 +29,13 @@ The recipes scattered throughout the book are not just culinary instructions but
 
 Nguon’s writing is lyrical and evocative, seamlessly blending poetic descriptions with raw emotional honesty. Her ability to capture the sensory details of both food and memory makes the book come alive. The narrative moves fluidly between past and present, creating a tapestry of experiences that feels authentic and immersive.
 
-- Strengths Emotional Depth: Nguon’s storytelling is heartfelt and moving, offering a glimpse into the resilience of the human spirit.
-- Cultural Richness: The book provides a window into Cambodian traditions, history, and the role of food in community and healing.
-- Practicality: The inclusion of recipes allows readers to engage with the memoir on a tangible level, connecting with the culture through cooking.
+Strengths Emotional Depth: Nguon’s storytelling is heartfelt and moving, offering a glimpse into the resilience of the human spirit.
+Cultural Richness: The book provides a window into Cambodian traditions, history, and the role of food in community and healing.
+Practicality: The inclusion of recipes allows readers to engage with the memoir on a tangible level, connecting with the culture through cooking.
 
 Weaknesses
 
-- Narrative Pacing: The memoir occasionally lingers too long on certain anecdotes, which can slow the momentum of the overall story. Focused Perspective: While deeply personal, the book doesn’t delve as much into the broader sociopolitical context of Cambodia, which some readers may expect given the historical backdrop.
+Narrative Pacing: The memoir occasionally lingers too long on certain anecdotes, which can slow the momentum of the overall story. Focused Perspective: While deeply personal, the book doesn’t delve as much into the broader sociopolitical context of Cambodia, which some readers may expect given the historical backdrop.
 
 Slow Noodles is a heartfelt and flavorful memoir that captures the essence of Cambodian culture and resilience. Chantha Nguon’s ability to weave her personal narrative with the rich traditions of Cambodian cuisine makes this book a feast for both the mind and the soul. It’s a must-read for anyone interested in Southeast Asian culture, food, or stories of triumph over adversity.
 
