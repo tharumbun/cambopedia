@@ -11,7 +11,6 @@ Buses are the most common and convenient way to get around Cambodia, connecting 
 
 In the 1990s, roads that link major cities and provinces in Cambodia were really bad. During the rainy season, the flood also cut off those main roads. Today, it's easy and cheap to travel across Cambodia by bus. So, if you're looking into how to get around Cambodia by bus, this is the page for you.
 
-\[caption id="attachment\_401" align="aligncenter" width="300"\]![](images/IMG_5187-300x225.jpeg) VET’s AIR Bus from Bangkok to Phnom Penh\[/caption\]
 
 There are several ways to book a bus ticket in Cambodia:
 
