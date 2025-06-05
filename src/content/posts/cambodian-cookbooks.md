@@ -7,7 +7,7 @@ categories:
 
 Cambodian cuisine is a delightful blend of flavors, featuring ingredients like lemongrass, kaffir lime leaves, shrimp paste, and coconut milk. It combines traditional recipes with modern twists, making it accessible to both novice and experienced cooks. Whether you're looking to recreate authentic Khmer dishes or explore Cambodian street food, these cookbooks are excellent starting points:
 
-### What are the best Cambodian cookbooks for beginners?
+What are the best Cambodian cookbooks for beginners?
 
 If you love cooking and want to start your first Khmer dish, these recommended books are the best to start.
 
@@ -37,7 +37,7 @@ With 237 pages covering 80 recipes, the book appears to offer more than just coo
 
 The cookbook seems tailored for a local readership, which might affect its practicality for international cooks.
 
-### More Cambodian cookbooks
+More Cambodian cookbooks
 
 **The Cambodian Cookbook: Authentic Recipes from the Kingdom of Wonder by Joannes Riviere and Jacqueline Saulnier-Chavet**
 
