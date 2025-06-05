@@ -7,7 +7,7 @@ categories:
 
 If you're living in Cambodia and love IKEA's sleek, functional designs, you may feel a bit frustrated since there are no IKEA stores in the country. However, that doesn’t mean you can’t bring IKEA’s Scandinavian charm into your home. With a little planning and the help of local services, getting IKEA products to Cambodia is easier than you might think. This guide will walk you through the best ways to purchase IKEA products, including the assistance of Sweet Memory Store in Phnom Penh, which offers a convenient solution for bringing IKEA products from Bangkok.
 
-### How to Buy IKEA Products in Cambodia: A Complete Guide
+How to Buy IKEA Products in Cambodia: A Complete Guide
 
 Why IKEA?
 
