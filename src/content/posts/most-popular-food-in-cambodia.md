@@ -86,15 +86,14 @@ Fish Amok: Cambodia's national treasure, this dish features steamed fish in a cr
 
 Nom Banh Chok: A refreshing breakfast or light meal, these thin rice noodles are served in a cool fish curry broth with chopped vegetables, herbs, and sometimes protein like shrimp or pork.
 
-![](images/num-banh-chok.jpg)
 
 Khmer Curry: Available in a vibrant array of colors (red, green, yellow), each curry boasts a distinct flavor profile. Red curries lean towards sweetness, while green curries pack a spicy punch, and yellow curries offer a mellower taste.
 
-Beef Lok Lak: This stir-fried dish is a crowd-pleaser. Marinated beef cubes are cooked with oyster sauce, lemongrass, and vegetables, typically served with steamed rice and a sunny-side-up egg on top. ![Samlor kako](images/samlor-kako.jpg) Samlor kako: A hearty and comforting soup, perfect for a light meal or a rainy day. It's made with vegetables, lemongrass, kaffir lime leaves, fish paste, and sometimes includes pork, beef, or shrimp for added protein.
+Beef Lok Lak: This stir-fried dish is a crowd-pleaser. Marinated beef cubes are cooked with oyster sauce, lemongrass, and vegetables, typically served with steamed rice and a sunny-side-up egg on top. Samlor kako: A hearty and comforting soup, perfect for a light meal or a rainy day. It's made with vegetables, lemongrass, kaffir lime leaves, fish paste, and sometimes includes pork, beef, or shrimp for added protein.
 
 ### Street food delights
 
-![](images/bay_srob.jpg) Cambodian street food is a vibrant scene, offering an explosion of flavors and aromas at affordable prices. Don't miss these gems: Cambodia's most popular street food: Lort Chha
+Cambodian street food is a vibrant scene, offering an explosion of flavors and aromas at affordable prices. Don't miss these gems: Cambodia's most popular street food: Lort Chha
 
 This stir-fried noodle dish is easy to find when you're Phnom Penh, Cambodia. It's a common street food for breakfast, lunch, afternoon snack, and dinner.
 
@@ -112,15 +111,13 @@ Lort or lot is the Khmer language for the short rice-flour noodles. Cha or chha 
 
 How to cook Lort cha: the recopies you need 1/2 kg lote rice noodle a handful of bean sprout a handful of green onion 2 spoon of oyster sauce 5 spoon cooking oil chili sauce one egg
 
-How to preparation Heat the oil in a pan on high. Add oyster sauce. Stir then add shrimp and stir well. Add Lote, stir fast until mix, adjust your taste. Add bean sprout and green onion, stir fast, then scoop out. Fry one egg-over easy style and place on top when serve. Best to go with sweet sour chili sauce. ![](images/lort-chha.jpg)
+How to preparation Heat the oil in a pan on high. Add oyster sauce. Stir then add shrimp and stir well. Add Lote, stir fast until mix, adjust your taste. Add bean sprout and green onion, stir fast, then scoop out. Fry one egg-over easy style and place on top when serve. Best to go with sweet sour chili sauce.
 
 Num Pang: Literally translating to "bread," these are baguettes filled with an assortment of delicious ingredients like meats, pickled vegetables, fresh herbs, and pate.
 
-![](images/kuy-teav.jpg)
 
 Kuy Teav: This versatile noodle soup is a staple throughout the day. The broth can be flavored with pork, beef, fish, or chicken and comes with various toppings like bean sprouts, herbs, and fried shallots.
 
-![](images/grilled-beef-skewer.jpg)
 
 Skewers: Grilled meats and vegetables on skewers are a popular street food option, perfect for a quick and flavorful snack.
 
