@@ -16,7 +16,6 @@ Christmas markets are a delightful way to soak in the festive atmosphere, and Ph
 
 ### Visit Shopping Malls for Decorations and Events
 
-![](images/christmas_phnom_penh_decoration-768x1024.jpg)
 
 Shopping malls in Phnom Penh take the holiday spirit to the next level with grand Christmas decorations. AEON Mall, for instance, transforms into a winter wonderland with elaborate setups that include giant Christmas trees, fairy lights, and even Santa Claus meet-and-greets. Kids and adults alike can enjoy these photo-worthy decorations and participate in the many festive events organized by the malls.
 
