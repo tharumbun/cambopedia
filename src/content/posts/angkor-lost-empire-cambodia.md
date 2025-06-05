@@ -7,7 +7,7 @@ categories:
 
 Angkor: The Lost Empire of Cambodia is an insightful and visually stunning exploration of one of the world’s most fascinating archaeological wonders. Written by Sophie Biard and Damian Evans, this book goes beyond the romanticized image of Angkor Wat to delve into the intricate history, culture, and advanced engineering that defined the Khmer Empire.
 
-### Angkor: The Lost Empire of Cambodia by Sophie Biard and Damian Evans
+Angkor: The Lost Empire of Cambodia by Sophie Biard and Damian Evans
 
 A Masterpiece of Historical Context and Research The authors present a compelling narrative that intertwines meticulous historical research with modern archaeological discoveries. Damian Evans, a pioneer in LiDAR (Light Detection and Ranging) technology, offers groundbreaking insights into the vast network of Angkor's cities, reservoirs, and infrastructure, much of which lay hidden beneath dense forests until recently. This technological perspective breathes new life into the study of Angkor, revealing its complexity and scale. Sophie Biard complements this with rich storytelling, bringing historical figures, cultural practices, and the empire's rise and fall to vivid life.
 
