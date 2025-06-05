@@ -15,8 +15,6 @@ Phnom Penh is a treasure trove of Cambodian history. As the country’s politica
 
 The city is also home to the sobering Tuol Sleng Genocide Museum and the Killing Fields of Choeung Ek. These sites serve as powerful reminders of Cambodia’s turbulent history under the Khmer Rouge regime, offering important lessons about resilience and hope. Phnom Penh’s historical landmarks are not just places to visit but spaces to reflect and connect with Cambodia’s past.
 
-![](images/phnom_penh_skyline-1024x548.jpg)
-
 ### 2\. A Thriving Food Scene
 
 Phnom Penh is a food lover’s paradise. Whether you crave traditional Khmer dishes or international cuisine, the city has it all. Start your day with a hearty bowl of bai sach chrouk (pork and rice) or a refreshing nom banh chok (Khmer noodles). The bustling Russian Market and street food stalls around town are perfect for sampling local favorites like lort cha (stir-fried noodles) and banh xeo (crispy pancakes).
