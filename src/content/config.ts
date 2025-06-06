@@ -10,7 +10,7 @@ const postsCollection = defineCollection({
       description: z.string().optional(),
       date: z.date().optional(),
       image: image().optional(),
-      authors: z.array(z.string()).default(["Cambopedian writer"]),
+      authors: z.array(z.string()).default(["Cambopedian"]),
       categories: z.array(z.string()).default(["others"]),
       tags: z.array(z.string()).default(["others"]),
       series: z.tuple([z.string(), z.string()]).optional(),
