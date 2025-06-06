@@ -49,54 +49,9 @@ const markdownify = (content) => {
           </ul>
         </div>
         <div class="md:col-span-8">
-          <form
-            class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-md"
-            method="POST"
-            action={contact_form_action}
-            data-astro-reload
-          >
-            <div class="grid grid-cols-1 lg:grid-cols-2 gap-4 mb-4">
-              <div>
-                <label class="block text-gray-700 dark:text-gray-300 mb-2" for="name">
-                  Name <span class="text-red-600">*</span>
-                </label>
-                <input
-                  class="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  name="name"
-                  type="text"
-                  required
-                />
-              </div>
-              <div>
-                <label class="block text-gray-700 dark:text-gray-300 mb-2" for="email">
-                  Email <span class="text-red-600">*</span>
-                </label>
-                <input
-                  class="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  name="email"
-                  type="email"
-                  required
-                />
-              </div>
-            </div>
-            <div class="mb-4">
-              <label class="block text-gray-700 dark:text-gray-300 mb-2" for="subject">Subject</label>
-              <input 
-                class="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500" 
-                name="subject" 
-                type="text" 
-              />
-            </div>
-            <div class="mb-6">
-              <label class="block text-gray-700 dark:text-gray-300 mb-2" for="message">
-                Message <span class="text-red-600">*</span>
-              </label>
-              <textarea 
-                name="message" 
-                class="w-full px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-blue-500" 
-                rows="4"
-                required
-              ></textarea>
+
+Please contact us.
+
             </div>
             <div>
               <button class="px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-md transition-colors duration-300 font-medium">Submit Now</button>
