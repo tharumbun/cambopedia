@@ -8,6 +8,7 @@ import path from 'path';
 
 // https://astro.build/config
 export default defineConfig({
+  output: 'static',
   // Set the site URL for production
   site: 'https://cambopedia.com/',
   
