@@ -9,10 +9,6 @@
       "url": "/series/"
     },
     {
-      "name": "About",
-      "url": "/about/"
-    },
-    {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
@@ -35,7 +31,10 @@
         }
       ]
     },
-
+    {
+      "name": "About",
+      "url": "/about/"
+    },
     {
       "name": "Contact",
       "url": "/contact/"
