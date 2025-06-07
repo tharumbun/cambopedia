@@ -1,27 +1,22 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Start Here",
       "url": "/"
+    },
+    {
+      "name": "Photo Series",
+      "url": "/series/"
     },
     {
       "name": "About",
       "url": "/about/"
     },
     {
-      "name": "Photo Series",
-      "url": "/series/"
-    },
-
-    {
       "name": "Pages",
       "url": "",
       "hasChildren": true,
       "children": [
-        {
-          "name": "Authors",
-          "url": "/authors/"
-        },
         {
           "name": "Categories",
           "url": "/categories/"
