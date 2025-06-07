@@ -11,7 +11,7 @@ The government provides some healthcare services, but the majority of healthcare
 
 The main challenges for the healthcare system in Cambodia include:
 
-1\. Lack of infrastructure: Many rural areas lack basic medical facilities and trained healthcare workers. 2. Shortage of medical staff: There is a shortage of trained medical staff, particularly in rural areas. 3. Limited access to healthcare: Many Cambodians, particularly those living in rural areas, struggle to access healthcare due to cost and lack of transportation. 4. Lack of healthcare insurance: The majority of Cambodians do not have health insurance, making it difficult for them to afford the cost of healthcare. 5. Lack of coordination: The healthcare system in Cambodia is fragmented, and there is a lack of coordination between different levels of care.
+Lack of infrastructure: Many rural areas lack basic medical facilities and trained healthcare workers. 2. Shortage of medical staff: There is a shortage of trained medical staff, particularly in rural areas. 3. Limited access to healthcare: Many Cambodians, particularly those living in rural areas, struggle to access healthcare due to cost and lack of transportation. 4. Lack of healthcare insurance: The majority of Cambodians do not have health insurance, making it difficult for them to afford the cost of healthcare. 5. Lack of coordination: The healthcare system in Cambodia is fragmented, and there is a lack of coordination between different levels of care.
 
 The government of Cambodia has been taking steps to improve healthcare in the country, including increasing funding for healthcare and training more healthcare workers. However, much more needs to be done to address the significant challenges facing the healthcare system in Cambodia.
 
@@ -57,11 +57,11 @@ The hospital operation is being run by team of Japanese doctors, nurses and rela
 
 The hospital has 13 departments, including emergency, trauma, infectons, general internal medicine, general surgery, gastrointestinal medicine, cardiology, remote consultation, neurosurgery, neuroendovascualar, neurology, rehabilitation, and health checkup.
 
-"The hospital will offer emergency medical treatment for brain and heart disorders, injuries from traffic accidents and medical checkups, and will continue working toward the establishment of general hospital services, including obstetrics, pediatrics and rehabilitation and their associated information technology and education systems," Shigemi Kitahara, the founder and adviser to Sunrise Japan Hospital, \[told Japan Times\](http://www.japantimes.co.jp/news/2016/09/21/national/science-health/first-japanese-private-hospital-opens-phnom-penh/).
+"The hospital will offer emergency medical treatment for brain and heart disorders, injuries from traffic accidents and medical checkups, and will continue working toward the establishment of general hospital services, including obstetrics, pediatrics and rehabilitation and their associated information technology and education systems," Shigemi Kitahara, the founder and adviser to Sunrise Japan Hospital, [told Japan Times](http://www.japantimes.co.jp/news/2016/09/21/national/science-health/first-japanese-private-hospital-opens-phnom-penh/).
 
 Khema International Polyclinic
 
-Khema Clinic in Boeung Keng Kang 1 (BKK1) has a good reputation. It has been recommended by many parents. Housed in a new building, the clinic is clean, very professional. Khmer Clinic is specialized in prenatal and pediatrics. The first Khema International Polyclinic in 2012 in Toul Kork district. More and more expats and foreigners prefer Khema for its high standard services. Website: \[http://www.khemaclinic.com/\](http://www.khemaclinic.com/)
+Khema Clinic in Boeung Keng Kang 1 (BKK1) has a good reputation. It has been recommended by many parents. Housed in a new building, the clinic is clean, very professional. Khmer Clinic is specialized in prenatal and pediatrics. The first Khema International Polyclinic in 2012 in Toul Kork district. More and more expats and foreigners prefer Khema for its high standard services. Website: [http://www.khemaclinic.com/](http://www.khemaclinic.com/)
 
 Phnom Penh Family Medical Clinic
 
@@ -89,7 +89,7 @@ No. 17BC, St. 296Phnom Penh, Cambodia
 
 Procare Medical Center
 
-\[Procare Medical Center\](https://procarecambodia.com/) offers healthcare services for babies, children and adults in Phnom Penh.
+[Procare Medical Center](https://procarecambodia.com/) offers healthcare services for babies, children and adults in Phnom Penh.
 
 AURA Condominium, 87 Street 63Phnom Penh
 
@@ -99,7 +99,7 @@ Physiotherapy Phnom Penh
 
 Phone: +855 (0)23 996344 / 092 485 593
 
-\[http://www.physiotherapy-phnompenh.com/\](http://www.physiotherapy-phnompenh.com/)
+[http://www.physiotherapy-phnompenh.com/](http://www.physiotherapy-phnompenh.com/)
 
 Medical University
 
@@ -109,11 +109,12 @@ Location: Preah Monivong Blvd (93), Phnom Penh, opposite to Vattanac Capital
 
 Khmer Soviet Friendship Hospital
 
-Officially designated by the Cambodian ministry of health to treat COVID-19 (Coronavirus) patients. Located on Yothapol Khemarak Phoumin Boulevard in Phnom Penh, The Khmer–Soviet Friendship Hospital is a public hospital managed by the Ministry of Health.
+Officially designated by the Cambodian ministry of health to treat COVID-19 (Coronavirus) patients. Located on Yothapol Khemarak Phoumin Boulevard in Phnom Penh, The Khmer–Soviet Friendship Hospital is a public hospital managed by the Ministry of Health.
 
 Institut Pasteur du Cambodge Medical Lab in Phnom Penh
 
-Probably the only official lab to test COVID-19 and other major viruses and diseases. \[https://www.pasteur-kh.org/\](https://www.pasteur-kh.org/)
+Probably the only official lab to test COVID-19 and other major viruses and diseases. 
+[https://www.pasteur-kh.org/](https://www.pasteur-kh.org/)
 
 What are the best things to do and best places to visit when in Phnom Penh? The capital city of the Kingdom of Cambodia and the largest city with nearly 2 million people (2017), Phnom Penh is the center of commerce, industry and the largest labor force in Cambodia.
 
@@ -133,12 +134,12 @@ Life and Health Insurance in Cambodia: Providers & Benefits
 
 International insurance companies, with their Phnom Penh-based offices, usually offer:
 
-\- Accident Protection - Critical Illness - Plan Savings - Life Protection
+Accident Protection - Critical Illness - Plan Savings - Life Protection
 
 Insurance Companies for Cambodia:
 
-\- \[A+ International Healthcare\](https://aplusii.com/about-us/) - \[Allianz Care\](https://www.allianzworldwidecare.com/en/) - AIA - \[Bupa Cambodia\](http://bupa-cambodia.com/) - Prudential Cambodia
+[A+ International Healthcare](https://aplusii.com/about-us/) - [Allianz Care](https://www.allianzworldwidecare.com/en/) - AIA - [Bupa Cambodia](http://bupa-cambodia.com/) - Prudential Cambodia
 
 started since 2013, the American Fortune Global 500 and Fortune 500 company offers tailored life insurance products to the Cambodian middle class clients.
 
-\- Cambodia Life Insurance (State-owned) - Manulife Cambodia (Canadian firm) - CAMINCO (non-life insurance) - Infinity General Insurance - Forte Insurance - Smart Life Insurance (BIMA Cambodia) - Sovannaphum Life Assurance - Dai-ichi Life (Japanese company) - AG CAMBODIA (insurance broker)
+Cambodia Life Insurance (State-owned) - Manulife Cambodia (Canadian firm) - CAMINCO (non-life insurance) - Infinity General Insurance - Forte Insurance - Smart Life Insurance (BIMA Cambodia) - Sovannaphum Life Assurance - Dai-ichi Life (Japanese company) - AG CAMBODIA (insurance broker)
