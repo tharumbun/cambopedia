@@ -62,9 +62,20 @@ const {
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" /> {/* Updated path */}
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" /> {/* Added apple-touch-icon */}
-   
-
     <meta name="generator" content={Astro.generator} />
+
+<!-- Google tag (gtag.js) -->
+<script is:inline type="text/partytown" src="https://www.googletagmanager.com/gtag/js?id=G-251161030"></script>
+
+<script is:inline type="text/partytown">
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "G-251161030");
+</script>
     
     <!-- Critical CSS to prevent FOUC -->
     <style is:inline>

@@ -5,6 +5,12 @@ import mdx from '@astrojs/mdx';
 import icon from 'astro-icon';
 import sitemap from '@astrojs/sitemap';
 import path from 'path';
+import { partytown } from 'astro/config';
+
+export default defineConfig({
+  // ...
+  integrations: [partytown({ config: { forward: ['dataLayer.push'] } })],
+});
 
 // https://astro.build/config
 export default defineConfig({
