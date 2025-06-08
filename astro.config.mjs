@@ -5,7 +5,6 @@ import mdx from '@astrojs/mdx';
 import icon from 'astro-icon';
 import sitemap from '@astrojs/sitemap';
 import path from 'path';
-import { partytown } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
