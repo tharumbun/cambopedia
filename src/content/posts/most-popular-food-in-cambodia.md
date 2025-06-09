@@ -121,6 +121,8 @@ How to preparation Heat the oil in a pan on high. Add oyster sauce. Stir then ad
 
 Num Pang: Literally translating to "bread," these are baguettes filled with an assortment of delicious ingredients like meats, pickled vegetables, fresh herbs, and pate.
 
+![kuyteav](https://im.cambopedia.com/wp-content/uploads/2025/06/kuy_teav_kork.jpg)
+
 
 Kuy Teav: This versatile noodle soup is a staple throughout the day. The broth can be flavored with pork, beef, fish, or chicken and comes with various toppings like bean sprouts, herbs, and fried shallots.
 
