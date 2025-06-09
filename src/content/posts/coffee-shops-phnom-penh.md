@@ -18,6 +18,8 @@ Some of the highly-rated coffee shops in Phnom Penh:
 
 These coffee shops are known for their specialty coffee and good food, they are also located in different neighborhoods, so you can choose the one that is closer to you or the one with the atmosphere that you prefer.
 
+![Brown Coffee and Bakery](https://im.cambopedia.com/wp-content/uploads/2025/06/Brown-Coffee-Phnom-Penh.jpg)
+
 Phnom Penh's coffee shops with fast Internet (recommended)
 
 Noir TK

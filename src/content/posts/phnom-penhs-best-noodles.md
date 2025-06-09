@@ -25,6 +25,7 @@ Like a Chinese city, having noodle soup for breakfast is quite common. So every 
 
 Kuy teav is what the locals in Phnom Penh call. This name is very old, so it sounds like guǒtiáo from the Cambodia’s Teochew community. How about Chinese noodle soup made in Cambodia by Khmer? Steamy ‘kuy teav’ is great quick breakfast fix.
 
+
 ![kuy teav](https://im.cambopedia.com/wp-content/uploads/2025/06/kuy-teav.jpg)
 
 
@@ -41,6 +42,8 @@ Ching Ye Taiwan Food & Café
 The only place I have had Taiwanese beef noodle soup in Phnom Penh. I love this bowl of noodles in hot broth accompanied by tender braised beef.
 
 David's Restaurant Homemade Noodles
+
+![lort chha](https://im.cambopedia.com/wp-content/uploads/2025/06/lort-chha.jpg)
 
 This local favorite is renowned for its fresh, hand-pulled noodles with a delightful balance of chew and tenderness. They offer delectable soups and stir-fried noodle dishes that are a true taste of Cambodian comfort food.
 
