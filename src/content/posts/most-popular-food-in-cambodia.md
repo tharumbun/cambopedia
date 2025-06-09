@@ -18,6 +18,8 @@ The five essential elements of Khmer cuisine
 4. Coconut Milk: Coconut milk is used in many traditional Khmer dishes to add a rich and creamy texture to soups and curries.
 5. Fresh Vegetables: Fresh vegetables like cucumber, lettuce, and bean sprouts are commonly used in Khmer dishes, providing a crisp and refreshing contrast to the rich and flavorful sauces.
 
+![Samlor Korko](https://im.cambopedia.com/wp-content/uploads/2025/06/samlor-kako.jpg)
+
 What are the secrets of cooking delicious Khmer food?
 
 Food in Cambodia in general is less spicy and more sweet. Many recipes will require at least a tablespoon of palm sugar (or even more). The spices used are from India and Asia like cardamom and cinnamon. Tumeric is common, ginger and galangal as well.
@@ -56,6 +58,8 @@ Cambodia, also known as Kampuchea, is known for its delicious and flavorful cuis
 4. Bai Sach Chrouk: This dish is made of grilled pork and rice. It's a Cambodian breakfast staple and it is usually served with pickled vegetables on the side and a traditional Cambodian dipping sauce called.
 5. Nom Banh Chok: This is a traditional Cambodian breakfast dish consisting of rice noodles served in a light curry broth with a variety of toppings such as bean sprouts, herbs, and fish. It's a light but filling dish and it can be found in street vendors, markets, and restaurants.
 
+![Samlor Korko](https://im.cambopedia.com/wp-content/uploads/2025/06/fried_chicken_rice.jpg)
+
 These are just a small sampling of the delicious and diverse foods that Cambodia has to offer. In general, Cambodian food tends to be quite spicy, so be prepared for some heat if you order these dishes. Also, please keep in mind that these are traditional dishes, and the recipe and the ingredients used might vary from place to place, even from family to family.
 
 Cambodian food in Phnom Penh: and where to find them
@@ -90,6 +94,8 @@ Nom Banh Chok: A refreshing breakfast or light meal, these thin rice noodles are
 Khmer Curry: Available in a vibrant array of colors (red, green, yellow), each curry boasts a distinct flavor profile. Red curries lean towards sweetness, while green curries pack a spicy punch, and yellow curries offer a mellower taste.
 
 Beef Lok Lak: This stir-fried dish is a crowd-pleaser. Marinated beef cubes are cooked with oyster sauce, lemongrass, and vegetables, typically served with steamed rice and a sunny-side-up egg on top. Samlor kako: A hearty and comforting soup, perfect for a light meal or a rainy day. It's made with vegetables, lemongrass, kaffir lime leaves, fish paste, and sometimes includes pork, beef, or shrimp for added protein.
+
+![Samlor Korko](https://im.cambopedia.com/wp-content/uploads/2025/06/grilled-beef-skewer.jpg)
 
 Street food delights
 
@@ -160,6 +166,8 @@ Carry cash: Many street vendors won't accept credit cards. Sample local fruits: 
 Salted, dried fish: a Cambodian staple
 
 Salted, dried fish is a staple food in Cambodia. It is made by salting and drying fish, which helps to preserve it and make it last longer. Salted, dried fish is a versatile ingredient that can be used in a variety of dishes, both savory and sweet.
+
+![Samlor Korko](https://im.cambopedia.com/wp-content/uploads/2025/06/khmer-food.jpg)
 
 History of salted, dried fish in Cambodia
 
