@@ -14,12 +14,16 @@ Phnom Penh’s food scene is a rich tapestry of flavors, textures, and aromas th
 
 This guide will help you uncover the most authentic local food spots and dishes that truly capture the essence of Cambodian culture.
 
+![Bay Srob](https://im.cambopedia.com/wp-content/uploads/2025/06/bay_srob.jpg)
+
 
 1\. Start with the Local Markets
 
 Local markets are the heart of Phnom Penh’s food culture. Here, you’ll find an array of fresh ingredients, street food stalls, and prepared dishes that showcase authentic Khmer flavors.
 
 - Phsar Thmey (Central Market): This iconic art-deco market is a haven for food lovers. Explore stalls selling fresh fruits, snacks like fried bananas, and hearty noodle soups. Phsar Kandal (Kandal Market): Located near Riverside, this bustling market offers a variety of traditional breakfast items like bai sach chrouk (pork and rice) and num banh chok (Khmer noodles). Phsar Tuol Tom Poung (Russian Market): Known for its mix of food and crafts, this market is a great place to try local dishes like lok lak and freshly made spring rolls.
+
+![Borbor](https://im.cambopedia.com/wp-content/uploads/2025/06/borbor.jpg)
 
 2\. Explore Street Food Culture
 
