@@ -14,6 +14,9 @@ Arguably Cambodia's national dish, kuy teav is a versatile rice noodle soup enjo
 
 In Phnom Penh, there are so many choices when it comes to eating good food. If a dish of noodles is your favorite like mine, then let's find out some of the best restaurants in town. What you will find in my selections are: Chinese noodle styles, Cambodian noodle (Num Banh Chok), Ramen, and Udon.
 
+![Noodle with duck meat soup](https://im.cambopedia.com/wp-content/uploads/2025/06/noodle-phnom-penh.jpg)
+
+
 A mini guide to help you find the best noodles to tantalize your taste buds
 
 Highly recommended: the best place to eat fried noodle in Phnom Penh. Located on Charles de Gaulle Blvd (217) and corner of street Ung Pokun (109): https://goo.gl/maps/tbvU43YUwwpRYhWh9
@@ -21,6 +24,9 @@ Highly recommended: the best place to eat fried noodle in Phnom Penh. Located on
 Like a Chinese city, having noodle soup for breakfast is quite common. So every morning, it's not hard to stroll the city streets and find your breakfast noodle fix.
 
 Kuy teav is what the locals in Phnom Penh call. This name is very old, so it sounds like guǒtiáo from the Cambodia’s Teochew community. How about Chinese noodle soup made in Cambodia by Khmer? Steamy ‘kuy teav’ is great quick breakfast fix.
+
+![kuy teav](https://im.cambopedia.com/wp-content/uploads/2025/06/kuy-teav.jpg)
+
 
 This Khmer Chinese flavorful kuy teav is what you should taste each you're in Cambodia's Phnom Penh.
 
@@ -42,6 +48,8 @@ Mama Wong's Dumpling and Noodle House
 
 This restaurant is a haven for dumpling and noodle lovers. Their handcrafted dumplings are a must-try, and their noodle dishes, whether in broth or stir-fried, are equally mouthwatering. It offers a taste of delicious homemade Chinese cuisine in a cozy and welcoming ambiance.
 
+![Khmer Noodle Soup](https://im.cambopedia.com/wp-content/uploads/2025/06/num-banh-chok.jpg)
+
 Khmer Noodle Soup
 
 This spot is a great choice for a casual and affordable taste of authentic Cambodian noodle soups. They offer a variety of broths and noodle options, allowing you to customize your bowl to your preference.
@@ -54,6 +62,8 @@ If you're looking for something beyond Cambodian cuisine, Phnom Penh's diverse n
 - Noodle House
 - Ramen at CJCC Food Court
 - Merugame Udon
+
+![A bowl of Vietnamese Pho](https://im.cambopedia.com/wp-content/uploads/2025/06/pho_phnom_penh.jpg)
 
 Delicious dish of Pho?
 
