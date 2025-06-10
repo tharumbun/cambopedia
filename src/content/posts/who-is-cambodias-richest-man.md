@@ -13,6 +13,9 @@ These are just a few examples, but the list could be extensive since there are m
 
 He who owns real estate properties and telecommunications, if not the media sector. In this list, you'll get to know a number of top tycoons of Cambodia. They're some of the wealthiest Cambodian nationals of the Kingdom. During the Covid-19 pandemic, these Cambodian millionaires made donations after donations as the country struggled with the lock-downs.
 
+![Phnom Penh city skyline](https://im.cambopedia.com/wp-content/uploads/2025/06/phnom_penh_skyline.jpg)
+
+
 What is Cambodia's net worth? According to a Wikipedia article, it's approximately $26.730 billion (nominal, 2019 est.).
 
 Who's Cambodia's richest man? Kith Meng: Royal Group
