@@ -84,8 +84,10 @@ Also the Wealthiest Cambodians
 
 More Cambodian millionaires: Sy Kong Triv, Kok An, Lao Meng Khin and Yeay Phu, Sy Kong Triv
 
-Also: \[Must-Read Books about Cambodia\](https://cambopedia.com/best-books-about-cambodia/)
+Also: [Must-Read Books about Cambodia](https://cambopedia.com/books-about-cambodia/)
 
 Also Good Read:
 
-\- \[https://en.wikipedia.org/wiki/Kith\\\_Meng\](https://en.wikipedia.org/wiki/Kith\_Meng) - \[https://www.forbes.com/global/2008/0211/030.html\](https://www.forbes.com/global/2008/0211/030.html)
+[https://en.wikipedia.org/wiki/Kith\\\_Meng\](https://en.wikipedia.org/wiki/Kith\_Meng) 
+
+[https://www.forbes.com/global/2008/0211/030.html\](https://www.forbes.com/global/2008/0211/030.html)
