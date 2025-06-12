@@ -20,6 +20,8 @@ Stressing out? You should take care of body and mind. How about floating effortl
 
 Shopping? If you love shopping, these are shops, markets, shopping malls in Phnom Penh, and tips, and what you should know. Believe it or not, Phnom Penh is a new city of shopping malls in Asia. But Phsar Thmey (New Market or Central Market) is Phnom Penh's best market to see. Its unique architecture is marvelous.
 
+![Phnom Penh's National Museum](https://im.cambopedia.com/wp-content/uploads/2025/06/20250612_0004.jpg)
+
 Some historical and artistic places in Phnom Penh to visit:
 
 - Common tourist spots: Royal Palace, Cambodia National Museum, Choeung Ek, Tuol Sleng Museum

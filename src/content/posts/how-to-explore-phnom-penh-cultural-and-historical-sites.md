@@ -15,6 +15,9 @@ The Royal Palace is one of Phnom Penh’s most iconic landmarks. This grand comp
 
 Tips: - Dress modestly to show respect for the sacred grounds. - Arrive early to avoid crowds and make the most of the morning light for photography. - Allocate at least two hours to fully explore the palace and its surroundings.
 
+![Phnom Penh's National Museum](https://im.cambopedia.com/wp-content/uploads/2025/06/20250612_0004.jpg)
+
+
 2\. Discover the National Museum of Cambodia
 
 Just a short walk from the Royal Palace, the National Museum of Cambodia houses the country’s largest collection of Khmer art and artifacts. This museum is a gateway to understanding Cambodia’s ancient history and cultural evolution. Highlights include statues from the Angkorian era, traditional musical instruments, and ceramics.
