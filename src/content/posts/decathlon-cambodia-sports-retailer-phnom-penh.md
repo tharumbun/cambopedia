@@ -7,6 +7,9 @@ categories:
 
 Phnom Penh’s retail landscape has seen a surge in international brands over the past decade, and one name that stands out for sports and outdoor enthusiasts is Decathlon. The French sporting goods retailer has made its mark in Cambodia, offering a one-stop-shop for high-quality yet affordable sports equipment, apparel, and accessories. With multiple stores in the city, Decathlon Cambodia is becoming a go-to destination for athletes, fitness buffs, and casual sports lovers alike.
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg" alt="Decathlon mega store in Aeon Mall Sen Sok" loading="lazy" />
+
+
 Exploring Decathlon Cambodia: A Sports Retailer for All in Phnom Penh
 
 Location and Store Experience
