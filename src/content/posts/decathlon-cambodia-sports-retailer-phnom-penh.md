@@ -9,7 +9,6 @@ Phnom Penh’s retail landscape has seen a surge in international brands over th
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg" alt="Decathlon mega store in Aeon Mall Sen Sok" loading="lazy" />
 
-
 Exploring Decathlon Cambodia: A Sports Retailer for All in Phnom Penh
 
 Location and Store Experience
