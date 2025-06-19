@@ -7,6 +7,10 @@ categories:
 
 If you're craving a comforting bowl of Japanese udon in Phnom Penh, Marugame Udon is the place to go. Located in the heart of the city, this casual eatery serves up freshly made udon noodles with a variety of flavorful broths, tempura sides, and rice bowls.
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/marugame_udon_phnom_penh.jpg" alt="Marugame Udon restaurant in Phnom Penh" loading="lazy" />
+
+
+
 Authenticity and Freshness
 
 What sets Marugame apart is its commitment to freshness. You can watch the udon being kneaded, cut, and boiled right in the open kitchen before it's served steaming hot. The texture is perfectly chewy, and the broths—from the classic Kake Udon to the rich Curry Udon—bring out deep umami flavors.
