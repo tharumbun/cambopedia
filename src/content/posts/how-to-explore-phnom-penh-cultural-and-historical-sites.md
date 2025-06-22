@@ -15,7 +15,7 @@ The Royal Palace is one of Phnom Penh’s most iconic landmarks. This grand comp
 
 Tips: - Dress modestly to show respect for the sacred grounds. - Arrive early to avoid crowds and make the most of the morning light for photography. - Allocate at least two hours to fully explore the palace and its surroundings.
 
-![Phnom Penh's National Museum](https://im.cambopedia.com/wp-content/uploads/2025/06/20250612_0004.jpg)
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/national_museum_phnom_penh.jpg" alt="Phnom Penh's National Museum" loading="lazy" />
 
 
 2\. Discover the National Museum of Cambodia
@@ -47,6 +47,10 @@ Tips: - Visit during sunset for stunning views and a serene atmosphere. - Keep a
 The Sisowath Quay, a vibrant riverside promenade, is a great place to soak in the local atmosphere. The area is lined with cafes, restaurants, and shops, making it a perfect spot for leisurely exploration. You can also enjoy scenic views of the Tonle Sap and Mekong Rivers.
 
 Tips: - Rent a bicycle or take a tuk-tuk ride to explore the entire stretch. - Try local street food from vendors along the promenade. - Join a sunset cruise to see the city skyline from a different perspective.
+
+
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/20250612_0004.jpg" alt="Phnom Penh's National Museum" loading="lazy" />
+
 
 7\. Delve into Phnom Penh’s Markets
 
