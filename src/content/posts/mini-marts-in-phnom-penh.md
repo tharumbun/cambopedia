@@ -7,6 +7,9 @@ categories:
 
 A Convenience That Reflects City Life In the bustling city of Phnom Penh, mini marts have become more than just quick stops for grabbing snacks or last-minute essentials. With a growing population, increasing urbanization, and a fast-paced lifestyle, these compact convenience stores cater to a wide range of people—locals, expatriates, and tourists alike. Whether you're in need of a quick meal, some toiletries, or beverages, mini marts in Phnom Penh provide easy access to everyday goods. Here's a detailed review of the mini mart scene in the capital city, covering what they offer, their convenience, and what makes them stand out in the urban landscape.
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/super_duper_phnom_penh.jpg" alt="Super Duper mart in Phnom Penh" loading="lazy" />
+
+
 Convenience and Accessibility
 
 Mini marts in Phnom Penh are strategically located in residential areas, busy street corners, near schools, office buildings, and even along touristy spots. This makes them easily accessible to anyone, whether you're a busy office worker grabbing a lunch break snack or a tourist looking for a bottle of water. Most of these stores are open from early morning until late at night, with some even operating 24 hours a day, ensuring that no matter the time, you can find something you need.
