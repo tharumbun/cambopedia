@@ -33,12 +33,10 @@ series: ["Series Name", "Part Number"]
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00025.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00026.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00027.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00028.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00029.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00030.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00031.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00032.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00033.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00034.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00035.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00036.jpeg" alt="Khmer food" loading="lazy" />
@@ -49,11 +47,9 @@ series: ["Series Name", "Part Number"]
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00041.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00042.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00043.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00044.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00045.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00046.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00047.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00048.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00049.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00050.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00051.jpeg" alt="Khmer food" loading="lazy" />
