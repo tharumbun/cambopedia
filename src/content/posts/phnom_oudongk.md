@@ -1,9 +1,9 @@
 ---
-title: "Phnom Penh Oudongk"
+title: "Street food at Phnom Oudongk"
 date: 2025-02-28
 categories: 
   - "lifestyle-shopping"
-series: ["Series Name", "Part Number"]  
+series: ["Cambodian food culture", "Part Number"]  
 ---
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00003.jpeg" alt="Khmer food" loading="lazy" />
