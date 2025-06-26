@@ -6,6 +6,11 @@ categories:
 series: ["Cambodian food culture", "Part Number"]  
 ---
 
+At Phnom Oudong (also called Oudong Mountain), there’s a lively street-food scene down at the base, especially near the meditation center and hillside resort.
+
+![Khmer food](https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00003.jpeg)
+
+
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00003.jpeg" alt="Khmer food" loading="lazy" />
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00004.jpeg" alt="Khmer food" loading="lazy" />

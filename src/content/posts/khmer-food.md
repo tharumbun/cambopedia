@@ -30,9 +30,6 @@ Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00002.jpeg" alt="Khmer food" loading="lazy" />
 Kuy Teav – Pork or beef noodle soup with herbs for breakfast
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00035.jpeg" alt="Khmer food" loading="lazy" />
-Kuy Teav - Beef noodle with seperate dish of soup
-
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00060.jpeg" alt="Khmer food" loading="lazy" />
 Kuy Teav - Beef noodle with seperate dish of soup
 
