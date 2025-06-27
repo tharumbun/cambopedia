@@ -2,7 +2,7 @@
 title: "Phnom Penh's skyline: 5 tallest buildings"
 date: 2025-05-31
 categories: 
-  - "blog"
+  - "Phnom Penh"
 coverImage: "phnom_penh_skyline.jpg"
 ---
 

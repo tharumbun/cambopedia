@@ -2,20 +2,21 @@
 title: "How to explore Phnom Penh’s cultural and historical sites"
 date: 2024-12-22
 categories: 
-  - "howto"
+  - "How-to"
 ---
 
 Phnom Penh’s cultural and historical sites offer a captivating journey through Cambodia’s past and present. Whether you are marveling at the grandeur of the Royal Palace, reflecting at the Killing Fields, or enjoying a vibrant market, each experience provides a deeper connection to the city’s unique identity. With careful planning and an open heart, exploring Phnom Penh can be a truly enriching adventure.
 
 Phnom Penh, the bustling capital of Cambodia, is a treasure trove of cultural and historical sites that offer visitors a glimpse into the country’s rich heritage. Whether you are a history enthusiast, an architecture admirer, or simply curious about Cambodian culture, Phnom Penh has something to offer for everyone. Here’s a comprehensive guide on how to explore the city’s cultural and historical landmarks.
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/national_museum_phnom_penh.jpg" alt="Phnom Penh's National Museum" loading="lazy" />
+
+
 1\. Start Your Journey at the Royal Palace
 
 The Royal Palace is one of Phnom Penh’s most iconic landmarks. This grand complex serves as the official residence of the King of Cambodia and is a stunning example of Khmer architecture. The Silver Pagoda, located within the palace grounds, is a must-see with its gleaming silver-tiled floor and an array of priceless Buddhist artifacts, including a Baccarat crystal Buddha.
 
 Tips: - Dress modestly to show respect for the sacred grounds. - Arrive early to avoid crowds and make the most of the morning light for photography. - Allocate at least two hours to fully explore the palace and its surroundings.
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/national_museum_phnom_penh.jpg" alt="Phnom Penh's National Museum" loading="lazy" />
 
 
 2\. Discover the National Museum of Cambodia

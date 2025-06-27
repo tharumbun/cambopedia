@@ -2,7 +2,7 @@
 title: "How to celebrate Christmas in Phnom Penh"
 date: 2024-12-22
 categories: 
-  - "howto"
+  - "How-to"
 coverImage: "daiso_phnom_penh.jpg"
 ---
 
