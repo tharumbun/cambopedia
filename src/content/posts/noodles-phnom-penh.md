@@ -3,8 +3,9 @@ title: "Eating noodles in Phnom Penh"
 date: 2025-06-22
 categories: 
   - "lifestyle-shopping"
-series: ["Cambodian food culture", "Part Number"]  
+series: ["Cambodian food culture", "Part three"]  
 ---
+
 Phnom Penh is a noodle lover’s paradise, with choices ranging from street-side bowls to trendy modern takes. Here are some of thebest places to eat noodles in Phnom Penh, across different styles:
 
 Khmer Noodles (Num Banh Chok, Kuy Teav, Mee Kola)
@@ -23,9 +24,7 @@ Famous for their authenticKhmer rice noodle with fish-based green curry gravy.
 Mee Kola Rithy
 
 Russian Market area
-TastyMee Kola*(vegetarian noodle dish from Battambang) with sweet and sour sauce and pickled veggies.
-
-
+TastyMee Kola (vegetarian noodle dish from Battambang) with sweet and sour sauce and pickled veggies.
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00002.jpeg" alt="Khmer food" loading="lazy" />
 Kuy Teav – Pork or beef noodle soup with herbs for breakfast
 

@@ -3,7 +3,7 @@ title: "Khmer food in pictures"
 date: 2025-06-22
 categories: 
   - "lifestyle-shopping"
-series: ["Cambodian food culture", "Part Number"]  
+series: ["Cambodian food culture", "Part one"]  
 ---
 
 When in Cambodia, you're in for a rich culinary experience. Khmer food (Cambodian cuisine) is flavorful, fresh, and often less spicy than neighboring Thai food. Here are must-try Khmer meals:
