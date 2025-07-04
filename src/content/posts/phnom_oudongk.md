@@ -3,7 +3,7 @@ title: "Street food at Phnom Oudongk"
 date: 2025-06-22
 categories: 
   - "lifestyle-shopping"
-series: ["Cambodian food culture", "Part two"]  
+series: ["Cambodian food culture", "02"]  
 ---
 
 At Phnom Oudong (also called Oudong Mountain), there’s a lively street-food scene down at the base, especially near the meditation center and hillside resort.

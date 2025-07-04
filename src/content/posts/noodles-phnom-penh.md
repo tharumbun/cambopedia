@@ -3,7 +3,7 @@ title: "Eating noodles in Phnom Penh"
 date: 2025-06-22
 categories: 
   - "lifestyle-shopping"
-series: ["Cambodian food culture", "Part three"]  
+series: ["Cambodian food culture", "03"]  
 ---
 
 Phnom Penh is a noodle lover’s paradise, with choices ranging from street-side bowls to trendy modern takes. Here are some of thebest places to eat noodles in Phnom Penh, across different styles:
