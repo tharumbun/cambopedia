@@ -68,7 +68,6 @@ Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00066.jpeg" alt="Khmer food" loading="lazy" />
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00068.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00069.jpeg" alt="Khmer food" loading="lazy" />
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00071.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00072.jpeg" alt="Khmer food" loading="lazy" />

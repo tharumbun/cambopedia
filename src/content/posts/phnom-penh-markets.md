@@ -7,6 +7,9 @@ categories:
 
 Phnom Penh, the bustling capital of Cambodia, is home to a rich array of markets that reflect the city's vibrant culture, commerce, and daily life. From historic architectural landmarks to hidden gems frequented by locals, these markets are essential stops for anyone wanting to experience the authentic heart of the city. In this review, we explore some of the most notable markets in Phnom Penh, highlighting their unique offerings and atmosphere.
 
+![Inside Phnom Penh's Russian market](https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_russian_market.jpg)
+
+
 Central Market (Phsar Thmei)
 
 Phsar Thmei, also known as Central Market, is one of the most iconic landmarks in Phnom Penh. Built in 1937 in a stunning Art Deco style, the market’s yellow dome structure is a visual marvel. Inside, the market is divided into sections offering everything from gleaming jewelry to electronics, clothing, and souvenirs.
