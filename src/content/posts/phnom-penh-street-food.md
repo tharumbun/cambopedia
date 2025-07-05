@@ -1,7 +1,7 @@
 ---
 title: "Phnom Penh street food"
 date: 2025-06-22
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00080.jpeg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "04"]  
@@ -48,7 +48,3 @@ Night Market near Riverside** – Designed for tourists but still has local favo
 Wat Phnom area** – Great for local noodles, grilled meat, and iced coffee.
 
 Olympic Market & Orussey Market** – For more authentic, less touristy finds.
-
-
-
-
