@@ -4,7 +4,7 @@ date: 2025-06-22
 image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00080.jpeg"
 categories: 
   - "lifestyle-shopping"
-series: ["Cambodian food culture", "03"]  
+series: ["Cambodian food culture", "04"]  
 ---
 
 Phnom Penh’s street food scene is vibrant, flavorful, and affordable — a true reflection of Cambodian culture. Here are some street food staples and where to find them:
@@ -14,7 +14,7 @@ Must-Try Street Foods
 Num Pang (Cambodian baguette sandwich)** – Like a cousin to the Vietnamese banh mi, filled with pâté, pork, pickled vegetables, and chili sauce.
 Found near schools, markets, and parks like Wat Botum.
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00066.jpeg" alt="Khmer food" loading="lazy" />
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00066-e1751642153169.jpeg" alt="Khmer food" loading="lazy" />
 
 Bai Sach Chrouk (grilled pork with rice)** – Simple, smoky, and usually served with pickles and a small bowl of soup.
 Popular morning dish near Olympic Market and Russian Market (Toul Tom Pong).
