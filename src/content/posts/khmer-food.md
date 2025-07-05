@@ -1,6 +1,7 @@
 ---
 title: "Khmer food in pictures"
 date: 2025-06-22
+image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00081.jpeg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "01"]  
