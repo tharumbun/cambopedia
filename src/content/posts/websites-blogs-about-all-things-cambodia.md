@@ -65,10 +65,6 @@ Medium
 
 Long form blog posts about Cambodia If you love blogging and enjoy reading blogs, you must know about medium.com, an online site where you can read and interact with the stories that resonate to you. On Medium, you can find many fascinating \[stories about Cambodia\](https://medium.com/search?q=Cambodia). Much of the time, you'll read without distraction. That's one of the most amazing things about Medium, whose co-founder built blogging platform Blogger and Twitter. In addition to reading stories from and about Cambodia, you can also check out \[those who write\](https://medium.com/search/users?q=Cambodia) on Medium with a particular topic.
 
-LinkedIn Group for Cambodia
-
-If you're looking for professional contacts to leverage for your work or business, there is a good place for that. At the time of writing this blog post, there are nearly \[400 groups on LinkedIn\](https://www.linkedin.com/vsearch/g?orig=TRNV&rsid=61507621472650287284&keywords=Cambodia&trk=vsrp\_groups\_sel&trkInfo=VSRPsearchId%3A61507621472650287284%2CVSRPcmpt%3Atrans\_nav) that are all about Cambodia. The group with more LinkedIn members than others is Cambodia Professionals, with almost 10K members. Other groups you might be interested in are: Invest in Cambodia and Career Forum in Cambodia. Acquired by Microsoft recently, LinkedIn is getting better. One thing for sure is it's less crowded than Facebook, so some good posts on LinkedIn tends to get better listened (probably shared among interested users, too).
-
 Wikitravel Cambodia
 
 is a completely free travel guide to Cambodia. It's alright if you have ever or never owned a copy of the Lonely Planet. The Wikitravel could your free travel guide. The reason the Wikitravel is listed here because it's one of the most useful and resourceful websites among travelers. The Wiki site with a focus on travel website gives the basic information you need to plan your travel ahead. How to get into or out of Cambodia, for example, is also useful and up to date. Site: \[http://wikitravel.org/en/Cambodia\](http://wikitravel.org/en/Cambodia)
