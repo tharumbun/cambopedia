@@ -35,7 +35,7 @@ Safe and vehicle-free, the street sees families picnicking by the river as kids 
 
 This initiative is more than a nightly festival—it's Phnom Penh reimagining its public spaces. Walk Street represents a shift toward human-focused city planning. It brings civic pride, increases cultural engagement, and creates a fun platform for creative expression in a fast-developing city .
 
-![haktomuk Walk Street](https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_chaktomuk_walk_street.jpg)
+![Chaktomuk Walk Street](https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_chaktomuk_walk_street.jpg)
 
 Visiting Tips
 

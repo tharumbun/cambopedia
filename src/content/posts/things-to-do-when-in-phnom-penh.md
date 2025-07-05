@@ -1,12 +1,17 @@
 ---
 title: "Things to do when in Phnom Penh"
 date: 2024-04-21
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_chaktomuk_walk_street.jpg"
 categories: 
   - "blog"
 coverImage: "phnom_penh_cityscape.jpg"
 ---
 
 If you're coming to Phnom Penh for the first time and wondering about how to spend your time wisely, this post is all about things you can do in this capital city of Cambodia. But remember that I'm a local resident. So it's pretty much from my perspectives and experience as a Phnom Penher. Founded in 1372, Cambodia's largest city is known for its historical architecture and attractions. Also known as the Pearl of Asia or Paris of the East, I think it really matters when it comes to how many days you've got when visiting Phnom Penh. But, you can decide things you want to do based on your preference. I'll try to answer some of the most frequently asked questions like: free things to do or unusual to do in Phnom Penh.
+
+![Chaktomuk Walk Street](https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_walk_street.jpeg)
+
+[Chaktomuk Walk Street of Phnom Penh](https://cambopedia.com/chaktomuk_walk_street/)
 
 [Discovering Cambodia’s financial history at Sosoro Museum](https://cambopedia.com/cambodia-phnom-penh-sosoro-museum/)
 
