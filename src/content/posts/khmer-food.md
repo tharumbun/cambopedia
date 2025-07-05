@@ -1,7 +1,7 @@
 ---
 title: "Khmer food in pictures"
 date: 2025-06-22
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00081.jpeg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00063-e1751703317952.jpeg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "01"]  
@@ -77,8 +77,6 @@ Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00077.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00078.jpeg" alt="Khmer food" loading="lazy" />
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00081.jpeg" alt="Khmer food" loading="lazy" />
 
 Side Dishes & Snacks:
 Pickled vegetables (chrouk spey)

@@ -11,6 +11,8 @@ Phnom Penh is a noodle lover’s paradise, with choices ranging from street-side
 
 Khmer Noodles (Num Banh Chok, Kuy Teav, Mee Kola)
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00081.jpeg" alt="Khmer food" loading="lazy" />
+
 Lyda Kuy Teav
 
 Near Olympic Stadium
@@ -26,6 +28,9 @@ Mee Kola Rithy
 
 Russian Market area
 TastyMee Kola (vegetarian noodle dish from Battambang) with sweet and sour sauce and pickled veggies.
+
+
+
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00002.jpeg" alt="Khmer food" loading="lazy" />
 Kuy Teav – Pork or beef noodle soup with herbs for breakfast
 
