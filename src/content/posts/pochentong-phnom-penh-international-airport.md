@@ -42,7 +42,14 @@ To faded signs and yesterday.
 Where once we kissed beneath the sky,
 To say goodbye—and not ask why.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pidolxia2wg" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/pidolxia2wg" 
+    frameborder="0" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
 Formerly known as Pochentong International Airport, Phnom Penh International Airport has long been the main aviation hub for Cambodia’s bustling capital. Strategically located just 10 kilometers from the city center, this airport has played a vital role in connecting Phnom Penh to the world. As the nation transitions to its new Techo International Airport, questions arise about the future of this historical airport and its evolving role in Cambodia’s aviation landscape.
 
