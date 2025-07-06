@@ -81,3 +81,31 @@ It's also a nice place for freelancers and consultants to get their work done.
 In Phnom Penh, more and more cafés compete by offering better in-shop experience, in addition to brewing the best cup of coffee for their customers. According to the Cambodia Investor Club, there are about 200 coffees shops in Phnom Penh as of mid 2017.
 
 Cambodia's coffee culture is on the rise. With a growing appreciation for quality coffee and a thriving cafe scene, there's something for everyone to enjoy.
+
+Among Thai, Vietnamese, and Cambodian people, Vietnamese are the heaviest coffee drinkers—by far.
+
+Vietnam
+
+Coffee culture is strong and deep-rooted.
+Vietnam is the world’s second-largest coffee producer, mainly of robusta beans.
+Signature styles like cà phê sữa đá (iced coffee with condensed milk) and egg coffee are globally known.
+Street cafés, sidewalk vendors, and chains like Trung Nguyên or Highlands Coffee are everywhere.
+Many locals drink coffee multiple times per day.
+
+Thailand
+
+Coffee culture is growing, especially in cities like Bangkok and Chiang Mai.
+Thai people enjoy oliang (Thai iced coffee with sugar and sometimes spices) and modern espresso drinks.
+Specialty coffee shops are booming, but tea (like cha yen) is still more dominant in rural areas.
+Thailand grows its own beans, especially in the North, but local consumption isn’t as high as Vietnam.
+
+Cambodia
+
+Coffee drinking is part of daily life, especially iced coffee with sweetened condensed milk (kafe kar).
+But it’s less intense than in Vietnam.
+Local chains like Brown Coffee and Starbucks-style cafés are popular in cities.
+Rural areas tend to favor tea or instant coffee.
+
+Vietnamese = most passionate and frequent coffee drinkers
+Thais = rising interest, especially urban middle class
+Cambodians = moderate, growing urban trend

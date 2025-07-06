@@ -6,8 +6,9 @@ categories:
   - "lifestyle-shopping"
 ---
 
+Chaktomuk Walk Street turns Phnom Penh’s riverside into a river of people, sounds, colors, and flavors. It’s not just another stop—it’s a weekly celebration of Khmer culture, youth energy, and the city's evolving identity. Make sure to include it in your Phnom Penh plans—for an evening that’s vibrant, genuine, and memorably local.
 
-When you’re wandering along Phnom Penh’s riverside on a weekend evening, there’s one experience that stands out: **Chaktomuk Walk Street**. Nestled between the Royal Palace and the Tonle Sap River, this vibrant pedestrian zone turns a stretch of Sisowath Quay into a lively cultural extravaganza every Saturday and Sunday night. Here’s why it’s become a must-do on any city itinerary:
+When you’re wandering along Phnom Penh’s riverside on a weekend evening, there’s one experience that stands out: **Chaktomuk Walk Street**. In between the Royal Palace and the Tonle Sap River, this vibrant pedestrian zone turns a stretch of Sisowath Quay into a lively cultural extravaganza every Saturday and Sunday night. Here’s why it’s become a must-do on any city itinerary:
 
 1. A Stunning Setting: Where Four Rivers Meet
 
@@ -58,18 +59,12 @@ A glimpse of Cambodia's evolving urban identity
 Whether you're a traveler craving local flavor or a resident seeking weekend connection, Walk Street pulses with warmth, creativity, and community.
 
 
-In Summary
-
-Chaktomuk Walk Street turns Phnom Penh’s riverside into a river of people, sounds, colors, and flavors. It’s not just another stop—it’s a weekly celebration of Khmer culture, youth energy, and the city's evolving identity. Make sure to include it in your Phnom Penh plans—for an evening that’s vibrant, genuine, and memorably local.
-
-
-
 Nearby Highlights Worth Pairing
 
 Combine your visit with:
 
 Chaktomuk Conference Hall: Admire its architectural prestige
-Wat Botum & Wat Ounalom**: Serene cultural spaces steps away
-National Museum / Royal Palace**: Perfect daytime exploration locations
+Wat Botum & Wat Ounalom: Serene cultural spaces steps away
+National Museum / Royal Palace: Perfect daytime exploration locations
 
 Chaktomuk Walk Street isn’t just one of Phnom Penh's weekend events—it’s one of its corners of magic. Don’t miss it!

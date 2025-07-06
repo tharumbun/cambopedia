@@ -1,15 +1,55 @@
 ---
-title: "How to get from Phnom Penh (Pochentong) airport to the city"
-date: 2024-12-23
+title: "Pochentong International Airport"
+date: 2025-07-05
 categories: 
   - "blog"
 ---
+
+**Pochentong: Last Kiss and Say Goodbye**
+
+At Pochentong, where old dreams flew,
+Beneath the tropic sky so blue,
+We stood where families waved goodbye,
+And lovers clutched with tearful eyes.
+
+The dusty air, the rusted gate,
+The murmured prayers as loved ones wait,
+A plastic chair, a creaking fan,
+The scent of jet fuel on the land.
+
+I still recall that final day—
+You turned, and I had much to say.
+But words were heavy, heart was sore,
+As silence held us by the door.
+
+The engines roared, the world moved fast,
+While I just begged the time to last.
+A trembling smile, your fingers brushed,
+Then distance fell, and all was hushed.
+
+Old Pochentong, your halls once heard
+The quiet ache in every word.
+You held our stories in your hands,
+Departures marked in footprints’ sands.
+
+Before the glass and steel arrived,
+When dreams were soft, and hope survived—
+You were the threshold, raw and real,
+Where parting was a wound to feel.
+
+So here’s to gates now torn away,
+To faded signs and yesterday.
+Where once we kissed beneath the sky,
+To say goodbye—and not ask why.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pidolxia2wg" frameborder="0" allowfullscreen></iframe>
 
 Formerly known as Pochentong International Airport, Phnom Penh International Airport has long been the main aviation hub for Cambodia’s bustling capital. Strategically located just 10 kilometers from the city center, this airport has played a vital role in connecting Phnom Penh to the world. As the nation transitions to its new Techo International Airport, questions arise about the future of this historical airport and its evolving role in Cambodia’s aviation landscape.
 
 A snapshot of Phnom Penh International Airport
 
 Renovated and expanded several times since its establishment, Phnom Penh International Airport is equipped with modern facilities to handle millions of passengers annually. Despite being smaller than other regional hubs, it offers a comfortable and efficient travel experience. Key highlights include: - Terminals: Separate terminals for domestic and international flights. - Amenities: Duty-free shopping, a variety of dining options, currency exchange, and free Wi-Fi. - VIP Lounges: Dedicated spaces for premium travelers to relax before their flights. - Runway: A single runway capable of accommodating large aircraft.
+
 
 How do I get from Phnom Penh airport to the city?
 
