@@ -18,6 +18,8 @@ One of the main attractions of Central Market is its jewelry section, where vend
 
 The food section of Central Market offers a tantalizing array of local snacks, including freshly cut tropical fruits, fried noodles, and traditional desserts. The market's clean and well-organized layout makes it a comfortable shopping experience even for first-time visitors.
 
+![Inside a Phnom Penh's market](https://images.unsplash.com/photo-1610451468973-d3b327f6ec54)
+
 Russian Market (Phsar Toul Tom Poung)
 
 Popular among tourists and expats, the Russian Market earned its name due to its popularity with Soviet residents in the 1980s. Today, it remains a treasure trove for those seeking authentic Cambodian handicrafts, souvenirs, and antiques.
