@@ -1,6 +1,7 @@
 ---
 title: "Why Thai products are Taking over Phnom Penh"
 date: 2025-07-05
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/makro_sen_sok.jpeg"
 categories: 
   - "blog"
 ---
