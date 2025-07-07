@@ -137,25 +137,6 @@ const {
       tags={tags}
       categories={categories}
     />
-    
-
-    <!-- Open Graph -->
-    <meta property="og:title" content={title} />
-    <meta property="og:description" content={description} />
-    <meta property="og:url" content={url} />
-    <meta property="og:type" content="website" />
-
-    {image && (
-      <>
-        <meta property="og:image" content={image} />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:image" content={image} />
-      </>
-    )}
-
-    <!-- Always include Twitter title and description -->
-    <meta name="twitter:title" content={title} />
-    <meta name="twitter:description" content={description} />
 
   </head>
   <body class="loading bg-white dark:bg-gray-900 text-gray-900 dark:text-white min-h-screen flex flex-col">
