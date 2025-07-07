@@ -1,5 +1,5 @@
 ---
-title: "Siem Rea's floating village"
+title: "Siem Reap's floating village"
 date: 2025-07-06
 image: "https://im.cambopedia.com/wp-content/uploads/2025/07/siem_reap_floating_village9-scaled.jpg"
 categories: 
@@ -9,7 +9,16 @@ series: ["Siem Reap", "01"]
 
 Just beyond the temples of Angkor lies a world unlike any other — a floating village where life moves to the rhythm of the water. This photo series captures the daily moments, vibrant culture, and resilient spirit of the communities living on Tonlé Sap Lake. From sunrise fishing trips to sunset reflections, each image offers a window into one of Cambodia’s most unique and photogenic destinations.
 
-## Why You Should Visit the Floating Village When in Siem Reap
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/XZjffedlgew" 
+    frameborder="0" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+## Why You Should Visit the Floating Village When in Siam Reap
 
 ![Siem Reap's floating village](https://im.cambopedia.com/wp-content/uploads/2025/07/siem_reap_floating_village1-scaled.jpg)
 Step into a Different World – Discover daily life on water where homes, schools, and markets float peacefully on the great Tonlé Sap Lake.
