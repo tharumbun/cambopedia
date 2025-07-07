@@ -1,7 +1,7 @@
 ---
 title: "Siem Rea's floating village"
 date: 2025-07-06
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00063-e1751703317952.jpeg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/siem_reap_floating_village9-scaled.jpg"
 categories: 
   - "lifestyle-shopping"
 series: ["Siem Reap", "01"]  
@@ -34,9 +34,6 @@ Fishermen at Work – Snap powerful images of life on the lake as locals cast ne
 
 ![Siem Reap's floating village](https://im.cambopedia.com/wp-content/uploads/2025/07/siem_reap_floating_village8-scaled.jpg)
 Floating Markets – Boats transformed into mini stores, selling everything from fresh produce to daily essentials.
-
-![Siem Reap's floating village](https://im.cambopedia.com/wp-content/uploads/2025/07/siem_reap_floating_village9-scaled.jpg)
-Golden Hour Magic – The floating village turns magical at sunset — a dream for landscape and travel photographers.
 
 ![Siem Reap's floating village](https://im.cambopedia.com/wp-content/uploads/2025/07/siem_reap_floating_village10-scaled.jpg)
 Educational Insight – Learn about the challenges of waterborne living: access to clean water, education, and climate resilience.
@@ -72,3 +69,4 @@ Birdlife and Nature – Capture the nearby bird sanctuaries and mangroves teemin
 Unforgettable Perspective – Leave with images that tell stories — and a deeper appreciation of how diverse life can be.
 
 ![Siem Reap's floating village](https://im.cambopedia.com/wp-content/uploads/2025/07/siem_reap_floating_village21-scaled.jpg)
+Golden Hour Magic – The floating village turns magical at sunset — a dream for landscape and travel photographers.
