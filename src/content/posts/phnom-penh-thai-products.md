@@ -1,9 +1,9 @@
 ---
-title: "Why Thai products are Taking over Phnom Penh"
+title: "Why Thai products are taking over Phnom Penh"
 date: 2025-07-05
 image: "https://im.cambopedia.com/wp-content/uploads/2025/07/makro_sen_sok.jpeg"
 categories: 
-  - "blog"
+  - "lifestyle-shopping"
 ---
 
 Walk into any supermarket or convenience store in Phnom Penh and you’ll quickly notice a familiar pattern: shelves lined with products from Thailand. From instant noodles to skincare serums, Thai goods have become an everyday part of life in the Cambodian capital — and it’s easy to see why.
