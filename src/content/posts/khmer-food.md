@@ -29,7 +29,6 @@ Cha Kdao – Stir-fried beef with holy basil and vegetables.
 Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 
 
-
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00029.jpeg" alt="Khmer food" loading="lazy" />
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00031.jpeg" alt="Khmer food" loading="lazy" />
@@ -37,9 +36,6 @@ Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00036.jpeg" alt="Khmer food" loading="lazy" />
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00037.jpeg" alt="Khmer food" loading="lazy" />
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00039.jpeg" alt="Khmer food" loading="lazy" />
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00040.jpeg" alt="Khmer food" loading="lazy" />
 
@@ -52,7 +48,7 @@ Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00045.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00050.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00051.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00052.jpeg" alt="Khmer food" loading="lazy" />
+
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00054.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00055.jpeg" alt="Khmer food" loading="lazy" />
@@ -61,11 +57,7 @@ Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00058.jpeg" alt="Khmer food" loading="lazy" />
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00059.jpeg" alt="Khmer food" loading="lazy" />
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00061.jpeg" alt="Khmer food" loading="lazy" />
-
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00063.jpeg" alt="Khmer food" loading="lazy" />
-
-
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00068.jpeg" alt="Khmer food" loading="lazy" />
 
