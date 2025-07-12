@@ -3,6 +3,12 @@ title: "About"
 meta_title: "About"
 image: "https://images.unsplash.com/photo-1640701795354-74cd012133e8"
 draft: false
+
+what_i_do:
+  title: "Cambopedia"
+  items:
+    - title: " a local travel blog"
+      description: "about Cambodia, its people, culture, traditions, and everything in between"
 ---
 
 Welcome to Cambopedia, a local travel blog dedicated to guiding you through the heart of Cambodia. Our mission is to take you on a journey to rediscover the essence of this beautiful country, providing insightful information about Cambodia, its people, culture, traditions, and everything in between.
