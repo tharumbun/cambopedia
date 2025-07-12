@@ -3,7 +3,7 @@ title: "How to make money blogging in Cambodia: An easy guide to using Travelpay
 date: 2025-07-11
 categories: 
   - "book"
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_penh2.jpg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/sihanoukville_beach4.jpg"
 ---
 
 # How to make money blogging in Cambodia: An easy guide to using travelpayouts
