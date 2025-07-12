@@ -1,7 +1,7 @@
 ---
 title: "Tsutaya Bookstore in Phnom Penh"
 date: 2025-07-11
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/tsutaya_bookstore.jpg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_penh3.jpg"
 categories: 
   - "how-to"
   - "lifestyle-shopping"
