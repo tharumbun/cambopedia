@@ -15,7 +15,6 @@ Welcome to Cambopedia, a local travel blog dedicated to guiding you through the 
 
 Cambopedia is your go-to resource for an authentic and immersive exploration of Cambodia. Whether you’re a traveler, expat, or simply curious about this remarkable country, we invite you to join us on this exciting adventure. Let us guide you through Cambodia’s vibrant tapestry, supported by the latest AI technology. Get ready to rediscover the essence of Cambodia with Cambopedia.
 
-
 ## Why Cambopedia?
 
 Established in 2006, Cambopedia embodies the perfect fusion of “Cambodia” and “pedia,” symbolizing our commitment to continuous learning. Our perspective on the country and its culture is unique, offering a refreshing take on Cambodia that you won’t find elsewhere. We noticed a gap in resources written by locals, which presented an opportunity to share a new narrative of Cambodia.
@@ -23,6 +22,10 @@ Established in 2006, Cambopedia embodies the perfect fusion of “Cambodia” an
 While there are numerous travel blogs and websites offering practical advice and tips, Cambopedia distinguishes itself with its local insights and perspectives. We believe that learning about Cambodia should be both informative and entertaining.
 
 Cambopedia provides a fresh outlook on Cambodia, going beyond the dark chapters of history to showcase the country’s beauty, diversity, and richness. We strive to offer an informative and entertaining read that highlights the best of Cambodia. Join us on this journey and experience Cambodia through a local lens.
+
+### [Cambopedia Photo Series](https://cambopedia.com/series/)
+
+is a visual journey through the heart of Cambodia — capturing its people, culture, landscapes, and everyday moments. Each series tells a unique story, offering a fresh perspective on the Kingdom through the lens of local life and heritage.
 
 
 ## Get In Touch With Us
