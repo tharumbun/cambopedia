@@ -3,7 +3,7 @@ title: "Best bookstores in Phnom Penh"
 date: 2024-04-21
 categories: 
   - "book"
-coverImage: "kinokuniya_bookstore_phnom_penh.jpg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/tsutaya_bookstore.jpg"
 ---
 
 Phnom Penh has a variety of bookstores catering to different tastes and needs, from Cambodian literature and history to international bestsellers. If you’re exploring, combine a visit to these stores with a walk around Phnom Penh’s charming streets!
@@ -13,6 +13,15 @@ These bookstores offer a wide range of books in different languages and genres, 
 [Books on Cambodia](https://cambopedia.com/books-about-cambodia/)
 
 Here are some bookshops in Phnom Penh:
+
+Tsutaya Bookstore in Phnom Penh 
+
+[Tsutaya](https://cambopedia.com/phnom-penh-tsutaya-bookstore/) doesn’t just sell books—it nurtures a love of reading, creativity, and cultural exchange. 
+
+Books Kinokuniya
+
+Kinokuniya delivers a distinctive blend of world-class book selection, high-quality Japanese imports, inviting ambiance, and cultural programming—making it much more than a bookstore, and a compelling stop for any bookworm in Phnom Penh.
+
 
 Monument Books
 
@@ -63,7 +72,7 @@ Bookshouse Cambodia
 
 Gifts for Book Lovers? While you can go shopping new books at Monument Books and Toys or used books at D's Books, there is new way to order some new copies you want. Check out Bookshouse Cambodia, which accepts your pre-order for original, new books.
 
-This online shop Bookshouse also has delivery service. So order and get the books at your doorstep. If you want to get some books about Cambodia, here's a list for you. Instagram: @bookshouse\\\_cambodia Line: bookshouse02 Tel: 012 882 313/070 882323
+This online shop Bookshouse also has delivery service. So order and get the books at your doorstep. If you want to get some books about Cambodia, here's a list for you. 
 
 SN Book Store
 
