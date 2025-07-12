@@ -20,7 +20,7 @@ For bloggers in Cambodia and Southeast Asia, Travelpayouts offers a great opport
 
 ## Why Use Travelpayouts to Monetize Your Blog?
 
-Here are some reasons [Travelpayouts](https://www.travelpayouts.com/?marker=650985) is a smart choice for bloggers in Cambodia and Southeast Asia:
+Here are some reasons Travelpayouts is a smart choice for bloggers in Cambodia and Southeast Asia:
 
 * **Wide Range of Travel Products:** From flights and hotels to tours and car rentals, you can promote a variety of travel services.
 * **Trusted Brands:** Travelpayouts works with well-known travel companies like Booking.com, Agoda, and Trip.com — brands your readers already trust.
@@ -32,7 +32,7 @@ Here are some reasons [Travelpayouts](https://www.travelpayouts.com/?marker=6509
 
 The concept is simple:
 
-1. **Sign up for a free [Travelpayouts account](https://www.travelpayouts.com/?marker=650985).**
+1. **Sign up for a free Travelpayouts account.**
 2. **Choose travel products or services to promote that fit your blog’s niche and audience.**
 3. **Get your unique affiliate links or widgets to add to your blog posts or sidebar.**
 4. **When readers click your affiliate links and book travel services, you earn a commission.**
@@ -91,5 +91,5 @@ Making money blogging in Cambodia or Southeast Asia doesn’t require advanced t
 
 The key is to create valuable, engaging content and smartly incorporate affiliate links that help your audience book trips seamlessly. Over time, as your blog grows, your affiliate income can grow too — turning your travel passion into a sustainable online business.
 
-So, if you’re ready to start earning from your travel blog, head over to Travelpayouts, sign up, and start sharing your Cambodia and Southeast Asia travel experiences today!
+So, if you’re ready to start earning from your travel blog, head over to [Travelpayouts](https://www.travelpayouts.com/?marker=650985), sign up, and start sharing your Cambodia and Southeast Asia travel experiences today!
 
