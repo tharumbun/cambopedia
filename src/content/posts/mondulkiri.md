@@ -9,17 +9,17 @@ series: ["Mondulkiri", "01"]
 
 In Cambodia’s remote eastern frontier, Mondulkiri Unseen reveals the raw, untouched beauty of the highlands. Through sweeping landscapes, quiet moments with elephants, and intimate glimpses of indigenous Bunong life, this photo series invites viewers to discover a side of Mondulkiri rarely captured—where red earth meets green forest, and time moves with the rhythm of nature.
 
-![Sihanoukville beach](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri2.jpg)
+![Mondulkiri](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri2.jpg)
 
-![Sihanoukville beach](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri3.jpg)
+![Mondulkiri](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri3.jpg)
 
-![Sihanoukville beach](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri4.jpg)
+![Mondulkiri](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri5.jpg)
 
-![Sihanoukville beach](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri5.jpg)
+![Mondulkiri](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri6.jpg)
 
-![Sihanoukville beach](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri6.jpg)
+![Mondulkiri](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri7.jpg)
 
-![Sihanoukville beach](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri7.jpg)
+![Mondulkiri](https://im.cambopedia.com/wp-content/uploads/2025/07/mondulkiri4.jpg)
 
 
 
