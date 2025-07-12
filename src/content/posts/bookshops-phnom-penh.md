@@ -18,6 +18,9 @@ Tsutaya Bookstore in Phnom Penh
 
 [Tsutaya](https://cambopedia.com/phnom-penh-tsutaya-bookstore/) doesn’t just sell books—it nurtures a love of reading, creativity, and cultural exchange. 
 
+![Book reading in Cambodia](https://im.cambopedia.com/wp-content/uploads/2025/07/tsutaya_bookstore.jpg)
+
+
 Books Kinokuniya
 
 Kinokuniya delivers a distinctive blend of world-class book selection, high-quality Japanese imports, inviting ambiance, and cultural programming—making it much more than a bookstore, and a compelling stop for any bookworm in Phnom Penh.
