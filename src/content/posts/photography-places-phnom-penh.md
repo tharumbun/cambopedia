@@ -1,7 +1,7 @@
 ---
 title: "Where are the best places to take photos in Phnom Penh?"
 date: 2025-07-11
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/tsutaya_bookstore.jpg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/06/20250612_0004.jpg"
 categories: 
   - "how-to"
   - "lifestyle-shopping"
