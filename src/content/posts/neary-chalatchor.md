@@ -3,6 +3,7 @@ title: "Neary Chalatchor: Exploring Cambodia through the local lens"
 date: 2025-07-11
 categories: 
   - "blog"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg"  
 ---
 
 ## Exploring Cambodia Through the Lens of Neary Chalatchor
