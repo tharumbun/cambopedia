@@ -14,9 +14,10 @@ From getting around to staying connected and making payments, here are must-have
 **Decathlon’s mobile shopping app**
 lets you browse and buy from their full product catalog — including gear for over 60 sports, running into thousands of items — straight from your phone. It supports checking in-store stock, ordering for delivery, managing loyalty points, and even scanning barcodes in-store to speed up checkout.
 
-> A comprehensive sports gear catalog
-> Quick stock checks and fast delivery across Phnom Penh
-> Loyalty perks and online exclusives
+* **Extensive catalogue** across all major sports
+* **Stock availability** and real-time store details
+* **Click & Collect** and quick in-app checkout
+* **Loyalty program** with app-only bonuses
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg" alt="Decathlon" loading="lazy" />
 
