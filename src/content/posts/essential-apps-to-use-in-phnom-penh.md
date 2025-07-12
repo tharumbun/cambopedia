@@ -3,6 +3,7 @@ title: "Essential apps to use in Cambodia"
 date: 2025-02-23
 categories: 
   - "blog"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg"  
 ---
 
 Whether you’re visiting Cambodia for a short trip or planning to stay longer, having the right apps can make your experience smoother and more enjoyable. With these apps on your phone, navigating and enjoying Cambodia will be a lot easier, whether you're here for a few days or staying long-term.
@@ -18,8 +19,6 @@ lets you browse and buy from their full product catalog — including gear for o
 * **Stock availability** and real-time store details
 * **Click & Collect** and quick in-app checkout
 * **Loyalty program** with app-only bonuses
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg" alt="Decathlon" loading="lazy" />
 
 Download Decathlon app: [iPhone](https://apps.apple.com/sg/app/decathlon-shopping-app/id1494108710) & [Android](https://play.google.com/store/apps/details?id=sg.decathlon.app&hl=en_SG)
 
