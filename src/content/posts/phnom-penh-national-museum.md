@@ -11,6 +11,7 @@ Step into a world of art, history, and spirituality with a captivating photo ser
 
 Whether you're a history buff, art lover, or simply someone looking to take a quiet break from the city's bustling energy, the museum offers a meaningful and reflective experience.
 
+
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_9044.jpg" alt="Phnom Penh’s National Museum" loading="lazy" />
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_9042.jpg" alt="Phnom Penh’s National Museum" loading="lazy" />
