@@ -1,11 +1,12 @@
 ---
 title: "Office buildings and workspaces in Phnom Penh"
 date: 2025-02-05
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_3051.jpg"
 categories: 
   - "lifestyle-shopping"
 ---
 
-Review of Office Buildings in Phnom Penh: Trends, Opportunities, and Challenges
+Office Buildings in Phnom Penh: Trends, Opportunities, and Challenges
 
 Phnom Penh, the vibrant capital of Cambodia, has experienced rapid growth in recent years. This growth, driven by an increasing number of foreign investments, thriving industries, and expanding local businesses, has led to a boom in the real estate market, particularly in office buildings. The demand for modern, well-located office spaces has surged as companies look to establish or expand their presence in the city. In this review, we’ll explore the trends, opportunities, and challenges in the office building sector in Phnom Penh, shedding light on the evolving landscape.
 
