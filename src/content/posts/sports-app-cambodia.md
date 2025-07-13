@@ -1,7 +1,7 @@
 ---
 title: "Best apps for sports enthusiasts in Cambodia"
 date: 2025-07-11
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg"  
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_2937.jpg"
 categories: 
   - "blog"
 ---
