@@ -12,6 +12,9 @@ is a renowned Japanese bookstore chain founded in Tokyo in 1927. Today, it opera
 
 Inside, you'll discover a thoughtfully curated blend of Japanese and English-language books, from manga and graphic novels to art, design, travel, and children's titles. Many stores also stock Chinese-language works. Beyond books, Kinokuniya is celebrated for its **stylish Japanese stationery, gifts, and lifestyle items**, making it a favorite destination for students, professionals, and creative types.
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6281.jpg" alt="Books Kinokuniya at Aeon Mall Sen Sok in Phnom Penh" loading="lazy" />
+
+
 The typical Kinokuniya layout includes **well-organized genre sections and cozy reading nooks**, creating a calm and inspiring browsing environment. Staff are known for their expertise and friendliness, often assisting with recommendations or sourcing rare titles.
 
 Kinokuniya also functions as a **cultural hub**, regularly hosting events like author signings, live readings, workshops, and exhibitions—reinforcing its mission as more than just a retail space but a center for cultural exchange.

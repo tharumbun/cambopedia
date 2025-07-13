@@ -10,6 +10,9 @@ image: "https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall
 
 Whether you're a football player in Battambang, a cyclist exploring Kampot, or a gym-goer in Phnom Penh, having the right gear is key to performance, safety, and motivation. Here are the **must-have sports products** that every Cambodian athlete should keep in their kit.
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_4205.jpg" alt="Sports products in Phnom Penh" loading="lazy" />
+
+
 ### 1. **Quality Footwear**
 
 Shoes can make or break your game. Runners need proper cushioned running shoes, footballers need cleats, and gym enthusiasts need shoes with grip and support. Brands like Kiprun (Decathlon), Nike, and Adidas are available in Cambodia.

@@ -1,7 +1,7 @@
 ---
 title: "Phnom Penh street food"
 date: 2025-06-22
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg"
+image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6359.jpg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "04"]  
@@ -14,14 +14,19 @@ Must-Try Street Foods
 Num Pang (Cambodian baguette sandwich)** – Like a cousin to the Vietnamese banh mi, filled with pâté, pork, pickled vegetables, and chili sauce.
 Found near schools, markets, and parks like Wat Botum.
 
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6967.jpg" alt="Khmer food" loading="lazy" />
+
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6966.jpg" alt="Khmer food" loading="lazy" />
+
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg" alt="Khmer food" loading="lazy" />
+
+
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00066-e1751642153169.jpeg" alt="Khmer food" loading="lazy" />
 
 Bai Sach Chrouk (grilled pork with rice)** – Simple, smoky, and usually served with pickles and a small bowl of soup.
 Popular morning dish near Olympic Market and Russian Market (Toul Tom Pong).
 
 <img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00081.jpeg" alt="Khmer food" loading="lazy" />
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg" alt="Khmer food" loading="lazy" />
 
 Lort Cha (stir-fried short noodles)** – Fried with beef, egg, and bean sprouts, served with chili sauce and sometimes topped with a fried egg.
 Street carts around Central Market and Monivong Blvd.
@@ -34,6 +39,8 @@ Seen at tourist spots like Riverside or Pub Street in Siem Reap (but also in Phn
 
 Fresh spring rolls (Nime Chao) – Soft rice paper rolls filled with vegetables, pork, or shrimp, and dipped in peanut sauce.
 Vendors often roam riverside parks or university campuses.
+
+<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg" alt="Khmer food" loading="lazy" />
 
 Ang dtray-meuk (grilled squid on a stick)** – Served with green mango and chili sauce.
 Best at night markets or riverside.
