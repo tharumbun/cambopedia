@@ -1,9 +1,11 @@
 ---
 title: "Mengly J. Quach's Dangrek Mountains …Unforgettable"
 date: 2025-07-12
+image: "https://m.media-amazon.com/images/I/81gUx0B1r0L._SL1500_.jpg"
 categories: 
   - "book"
 ---
+
 
 This book is an essential, poignant memoir that captures both the tragedy and tenacity of the Cambodian refugee experience.
 
