@@ -5,9 +5,17 @@ categories:
   - "how-to"
 ---
 
+Updated: 7 Sep 2025
+Starting September 9, Phnom Penh commuters and travelers will have a new way to get to and from the city’s brand-new Techo International Airport. City Hall has announced the launch of the Airport Express Bus, offering a convenient link between the airport and Phnom Penh’s city center.
+
+The service will run daily from 5:30 a.m. to 11:30 p.m., covering two routes with four stops. Buses will connect the Kouch Kanong roundabout, in front of Chroy Changvar Bridge, directly to the airport—and back again—making travel smoother for both locals and visitors.
+
+This move marks another step in improving the city’s public transportation network while providing an affordable and reliable option for airport access.
+
 Located in the outskirts of Phnom Penh, Techo International Airport is Cambodia’s newest and most ambitious infrastructure project. As the country’s largest and most modern airport, it reflects Cambodia’s vision for a dynamic future as a regional hub for travel and trade. Officially to be opened in July 2025, this state-of-the-art facility serves as a gateway for both domestic and international travelers, offering an elevated experience compared to its predecessor, Phnom Penh International Airport.
 
 Techo International Airport (KTI) \[also known as Techo International Airport\] is more than just an airport; it’s a symbol of Cambodia’s aspirations and a testament to the country’s progress. Whether you’re arriving for the first time or departing after an unforgettable visit, the airport’s modern facilities and warm hospitality ensure a memorable experience. Welcome to Cambodia’s gateway to the world!
+
 
 [How to get around Phnom Penh: A comprehensive guide](https://cambopedia.com/how-to-get-around-phnom-penh/)
 
