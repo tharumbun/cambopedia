@@ -10,7 +10,7 @@
     },
     {
       "name": "Browse",
-      "url": "#",
+      "url": "/browse/",
       "hasChildren": true,
       "children": [
         {
