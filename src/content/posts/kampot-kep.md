@@ -3,7 +3,7 @@ title: "Coastal quiet: A visual journey through Kampot & Kep"
 date: 2025-07-06
 image: "https://im.cambopedia.com/wp-content/uploads/2025/07/kampot-kep6.jpg"
 categories: 
-  - "lifestyle-shopping"
+  - "places"
 series: ["Places", "01"]  
 ---
 

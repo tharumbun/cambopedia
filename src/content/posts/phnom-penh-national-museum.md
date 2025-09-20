@@ -3,8 +3,8 @@ title: "Timeless beauty: Phnom Penh’s National Museum"
 date: 2025-07-07
 image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_9012.jpg"
 categories:
-  - "lifestyle-shopping"
-series: ["Phnom Penh", "01"]
+  - "Places"
+series: ["Places", "03"]
 ---
 
 Step into a world of art, history, and spirituality with a captivating photo series capturing the serene beauty of the National Museum of Cambodia in Phnom Penh. From its elegant terracotta architecture and tranquil courtyard garden to its collection of rare Khmer sculptures and ancient artifacts, this museum is a must-visit for anyone seeking to understand Cambodia’s rich cultural heritage.
