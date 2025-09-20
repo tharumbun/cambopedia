@@ -8,20 +8,7 @@
       "name": "Photo Series",
       "url": "/series/"
     },
-    {
-      "name": "Browse",
-      "url": "/browse/",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "Categories",
-          "url": "/categories/"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags/"
-        }
-      ]
+  ]
     },
     {
       "name": "About",
