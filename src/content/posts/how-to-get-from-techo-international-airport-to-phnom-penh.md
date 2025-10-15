@@ -55,6 +55,20 @@ For context, some of the world's largest airports by land area include:
 
 Looking Ahead As Cambodia continues to grow, Techo International Airport is set to play a pivotal role in boosting tourism and facilitating business connections. With plans for further expansion, including additional runways and terminals, the airport aims to accommodate millions of passengers annually and strengthen its position as a global travel hub.
 
+
+[A quick review Techo International Airport](https://www.reddit.com/r/cambodia/comments/1o3x1i4/review_phnom_penhs_new_airport_kti/):
+
+The new KTI airport is a significant upgrade over Phnom Penh’s old PNH airport, offering a world-class experience. Despite being farther out, it’s faster to reach (30–40 minutes from BKK1) due to smoother traffic flow.
+
+The main terminal, designed by Sir Norman Foster’s firm, is spacious, elegant, and well-designed, though the high ceilings may be hard to cool. The pre-security food court is impressive, and the acoustics are excellent, though announcements are too loud.
+
+Check-in and security have improved since opening, now operating smoothly and efficiently, with automated immigration for many nationalities.
+
+The airport features two high-quality lounges, better than those at PNH and many regional airports, offering good food and complimentary drinks.
+
+Post-security dining is limited for now, with a Malis restaurant under construction. The terminal is large, requiring lots of walking, and the moving walkways are too short to be useful.
+
+
 Further reading:
 
 - [Cambodia's Techo International Airport to officially open in July 2025](https://www.nationthailand.com/news/asean/40044317)
