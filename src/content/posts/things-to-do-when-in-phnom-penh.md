@@ -125,3 +125,6 @@ On the way to the Silk Island, there is a picnic place called Love Island (Koh S
 Mekong Keo Morokot Island
 
 There is a new resort or picnic site, Koh Mekong Keo Morokot (maybe run by a Chinese business group) on the other end of the Oknha Tey island. More about Mekong Keo Morokot when it's officially opened (hopefully in the next few months).
+
+[Lord Penh](https://www.lordpenh.com/)
+tells you what to do in Phnom Penh. Not because you asked, but because someone has to.
