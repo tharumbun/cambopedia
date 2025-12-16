@@ -1,6 +1,6 @@
 ---
 title: "Books Kinokuniya in Phnom Penh"
-date: 2025-12-
+date: 2025-12-15
 categories: 
   - "blog"
 image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_penh2.jpg"
