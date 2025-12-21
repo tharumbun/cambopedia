@@ -17,7 +17,7 @@ As of **late 2025**, the classic direct "express boat" has largely been replaced
 
 ---
 
-## ⛴️ The "New" Express Experience (Boat + Bus)
+## The "New" Express Experience (Boat + Bus)
 
 Because water levels on the Tonle Sap Lake can be unpredictable, the most popular current "express" option is a seamless hybrid journey. This avoids the risk of getting stuck in the mud during the dry season while still giving you the best river views.
 
@@ -32,7 +32,7 @@ Unlike the 6-hour bus ride on Highway 6, this route takes you through "untouched
 
 ---
 
-## 🛶 Luxury & Slow Cruises
+## Luxury & Slow Cruises
 
 If you aren't in a rush and want a "bucket list" experience, several luxury lines operate multi-day trips between the two cities.
 
@@ -42,7 +42,7 @@ If you aren't in a rush and want a "bucket list" experience, several luxury line
 
 ---
 
-## 💡 Essential Travel Tips
+## Essential Travel Tips
 
 * **Check the Season:** Boat services often pause during the peak dry season (**April to July**) when the lake is too shallow for larger vessels. Always verify operations if traveling during these months.
 * **Book Ahead:** Especially for the "Cambodia River Express" or boutique boats, book at least 48 hours in advance through platforms like *CamboTicket* or *12Go*.
@@ -54,8 +54,6 @@ If you aren't in a rush and want a "bucket list" experience, several luxury line
 **Ready to trade the highway for the river?**
 Would you like me to find the specific booking links for the upcoming week or help you compare this with the latest bus schedules?
 
-
-Here are your best bets.
 
 There are several ways to tour around Siem Reap on a budget:
 
@@ -143,8 +141,6 @@ Wat Bo village is an old place in Siem Reap province, which is not very noisy. T
 
 At the same time, tourists can have breakfast at the cafe and bakery in Wat Bo village or by the river. Then, tourists can continue to visit the scenery and life of this villager who lives in the city associated with the ancient culture in Siem Reap. Tourists can also get a new tour experience by visiting different cafes and buying handmade souvenirs. In the evening, tourists can relax in the beer garden with music and taste different food.
 
-\\\[caption id="attachment\\\_715" align="aligncenter" width="1024"\\\]!\[\](https://cambopedia.com/wp-content/uploads/2022/11/tevy\_place.jpg) Lunch at Tevy's Place\\\[/caption\\\]
-
 Wat Bo village
 
 Wat Bo Primary School is recognized as a model educational institution, while Wat Reach Bo, with Maha Vimal Dhamma Pin Sem Sereysovano as its chief priest, is also an ancient and well-known pagoda.
@@ -157,7 +153,7 @@ The community of the Wat Bo village:
 
 Wat B village South Eateries
 
-\- \[Bean Embassy\](https://the-bean-embassy-cambodia.business.site/), a coffee shop and roastery - Chocolate Garden, a garden café in a picturesque, gated compound of three Cambodian wooden houses, and features a reading room, a playground and weekend maker’s market - The acclaimed \[Cuisine Wat Damnak\](https://www.cuisinewatdamnak.com/) by chef \[Joannès Rivière\](https://www.cuisinewatdamnak.com/about-us/) and Nguon Venchhay is the first Cambodian restaurant that made it to the Asia’s 50 Best Restaurants list - \[The\](https://www.facebook.com/the.muffinman.siemreap/) \[Muffin Man\](https://www.facebook.com/the.muffinman.siemreap/), a pastry and cakes specialist that also serves coffee and savory meals - The culinary and hospitality training school and restaurant \[Haven\](https://havencambodia.com/), which features both alfresco and indoor dining spaces - \[The Keys\](https://tomokacocktails.com/the-keys/) by liquor company Tomoka, set in a lush and cozy garden surrounded by renovated traditional wooden houses - \[Jomno\](https://jomnostreetfood.business.site/) by young chef Chomnab Seiha, which serves elevated takes on Cambodian street fare
+\- \[Bean Embassy\](https://the-bean-embassy-cambodia.business.site/), a coffee shop and roastery - Chocolate Garden, a garden café in a picturesque, gated compound of three Cambodian wooden houses, and features a reading room, a playground and weekend maker’s market - The acclaimed\[Cuisine Wat Damnak\](https://www.cuisinewatdamnak.com/) by chef \[Joannès Rivière\](https://www.cuisinewatdamnak.com/about-us/) and Nguon Venchhay is the first Cambodian restaurant that made it to the Asia’s 50 Best Restaurants list - \[The\](https://www.facebook.com/the.muffinman.siemreap/) \[Muffin Man\](https://www.facebook.com/the.muffinman.siemreap/), a pastry and cakes specialist that also serves coffee and savory meals - The culinary and hospitality training school and restaurant \[Haven\](https://havencambodia.com/), which features both alfresco and indoor dining spaces - \[The Keys\](https://tomokacocktails.com/the-keys/) by liquor company Tomoka, set in a lush and cozy garden surrounded by renovated traditional wooden houses - \[Jomno\](https://jomnostreetfood.business.site/) by young chef Chomnab Seiha, which serves elevated takes on Cambodian street fare
 
 Wat Bo the temple
 
