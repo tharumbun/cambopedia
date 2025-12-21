@@ -10,6 +10,51 @@ Siem Reap offers a variety of budget-friendly transportation options to get you 
 
 Siem Reap has an abundance of places for anyone to visit. Whether you are visiting to seek for quick adventure trip or planning to stay longer, this Cambodian province has everything that anyone would desire. There are more than 200 temples around Siem Reap, mountains that you can climb, floating villages that you can visit and even a forest filled with rescued elephants.
 
+
+Traveling from Phnom Penh to Siem Reap by boat has long been the "adventurer’s choice." While modern highways and quick flights have made the journey faster, the river route remains the most scenic way to see the heart of Cambodia.
+
+As of **late 2025**, the classic direct "express boat" has largely been replaced by a more reliable and comfortable **Boat + Bus** combination service, or luxury multi-day cruises. Here is how you can make the journey today.
+
+---
+
+## ⛴️ The "New" Express Experience (Boat + Bus)
+
+Because water levels on the Tonle Sap Lake can be unpredictable, the most popular current "express" option is a seamless hybrid journey. This avoids the risk of getting stuck in the mud during the dry season while still giving you the best river views.
+
+* **The Route:** You depart Phnom Penh by **speed boat**, cruising up the Tonle Sap River past floating villages and rural landscapes. At **Kampong Chhnang** (or Kampong Leng), you transition to a comfortable **air-conditioned bus** for the final leg into Siem Reap.
+* **Duration:** Approximately **7–8 hours** total.
+* **Cost:** Around **$49 USD** per person.
+* **Departure:** Usually leaves at **8:30 AM** from the Phnom Penh riverside (Koh Pich or Sisowath Quay area).
+
+### Why choose this?
+
+Unlike the 6-hour bus ride on Highway 6, this route takes you through "untouched" Cambodia. You’ll see traditional fishermen, water-dwelling communities, and the lush countryside of the Tonle Sap floodplain that you simply can't see from the road.
+
+---
+
+## 🛶 Luxury & Slow Cruises
+
+If you aren't in a rush and want a "bucket list" experience, several luxury lines operate multi-day trips between the two cities.
+
+* **Operators:** Heritage Line (The Jahan/Jayavarman) and Mekong Tara Prince.
+* **The Experience:** These are floating boutique hotels. You’ll stop at silk-weaving villages, ancient pre-Angkorian temples (like Wat Hanchey), and enjoy sunset cocktails on the deck.
+* **Note:** These are seasonal and generally run from **August to March** when water levels are high.
+
+---
+
+## 💡 Essential Travel Tips
+
+* **Check the Season:** Boat services often pause during the peak dry season (**April to July**) when the lake is too shallow for larger vessels. Always verify operations if traveling during these months.
+* **Book Ahead:** Especially for the "Cambodia River Express" or boutique boats, book at least 48 hours in advance through platforms like *CamboTicket* or *12Go*.
+* **Sun Protection:** Even if you sit inside the cabin, the reflection of the sun off the water is intense. Bring sunscreen and a hat for when you step out onto the deck for photos.
+* **Luggage:** Most express services allow for one large suitcase and a carry-on, but space on the smaller speed boats can be tight—pack accordingly!
+
+---
+
+**Ready to trade the highway for the river?**
+Would you like me to find the specific booking links for the upcoming week or help you compare this with the latest bus schedules?
+
+
 Here are your best bets.
 
 There are several ways to tour around Siem Reap on a budget:
