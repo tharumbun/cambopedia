@@ -11,7 +11,12 @@ Phnom Penh is a noodle lover’s paradise, with choices ranging from street-side
 
 Khmer Noodles (Num Banh Chok, Kuy Teav, Mee Kola)
 
-<img src="https://cdn.cambopedia.com/img/khmer_food00081.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00081.jpeg" 
+  alt="Kuy Teav – Pork or beef noodle soup with herbs" 
+  width={800} 
+  height={600} 
+/>
 
 Lyda Kuy Teav
 
@@ -29,112 +34,43 @@ Mee Kola Rithy
 Russian Market area
 TastyMee Kola (vegetarian noodle dish from Battambang) with sweet and sour sauce and pickled veggies.
 
-
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00002.jpeg" 
-  alt="Kuy Teav – Pork or beef noodle soup with herbs" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00060.jpeg" 
-  alt="Kuy Teav - Beef noodle with separate dish of soup" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00079.jpeg" 
-  alt="Kuy Teav - pork (with intestines) noodle" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00032.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00038.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00046.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00047.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00049.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00053.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00062.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00064.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00065.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00067.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00075.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00080.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
+<Image src="https://cdn.cambopedia.com/img/khmer_food00032.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00038.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00046.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00047.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00049.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00053.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00062.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00064.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00065.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00067.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00075.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00080.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00003.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00004.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00005.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00006.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00007.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00008.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00009.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00010.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00011.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00012.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00013.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00014.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00015.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00016.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00017.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00018.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00019.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00020.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00021.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00022.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00023.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00024.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00025.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00026.jpeg" alt="Khmer food" width={800} height={600} />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00027.jpeg" alt="Khmer food" width={800} height={600} />
 
 Chinese & Chinese-Cambodian Noodles
 
