@@ -27,6 +27,7 @@ Cha Kdao – Stir-fried beef with holy basil and vegetables.
 
 Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 
+![Khmer food](https://cdn.cambopedia.com/img/khmer_food00029.jpeg)
 
 <img src="https://cdn.cambopedia.com/img/khmer_food00029.jpeg" alt="Khmer food" loading="lazy" />
 
