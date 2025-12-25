@@ -7,6 +7,18 @@ categories:
 series: ["Cambodian food culture", "01"]  
 ---
 
+---
+import { Image } from 'astro:assets';
+---
+
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00029.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+
 When in Cambodia, you're in for a rich culinary experience. Khmer food (Cambodian cuisine) is flavorful, fresh, and often less spicy than neighboring Thai food. Here are must-try Khmer meals:
 
 Amok Trey (Fish Amok) – Steamed fish curry with coconut milk, kroeung (herb paste), and banana leaf wrapping. Signature Cambodian dish.
