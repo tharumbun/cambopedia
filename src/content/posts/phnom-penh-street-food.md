@@ -1,7 +1,7 @@
 ---
 title: "Phnom Penh street food"
 date: 2025-06-22
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6359.jpg"
+image: "https://cdn.cambopedia.com/img/IMG_6359.jpg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "04"]  
@@ -11,27 +11,23 @@ Phnom Penh’s street food scene is vibrant, flavorful, and affordable — a tru
 
 Must-Try Street Foods
 
-Num Pang (Cambodian baguette sandwich)** – Like a cousin to the Vietnamese banh mi, filled with pâté, pork, pickled vegetables, and chili sauce.
+Num Pang (Cambodian baguette sandwich) – Like a cousin to the Vietnamese banh mi, filled with pâté, pork, pickled vegetables, and chili sauce.
 Found near schools, markets, and parks like Wat Botum.
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6967.jpg" alt="Khmer food" loading="lazy" />
+<Image src="https://cdn.cambopedia.com/img/IMG_6967.jpg" alt="Khmer food" width={800} height={600} />
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6966.jpg" alt="Khmer food" loading="lazy" />
+<Image src="https://cdn.cambopedia.com/img/IMG_6966.jpg" alt="Khmer food" width={800} height={600} />
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg" alt="Khmer food" loading="lazy" />
+<Image src="https://cdn.cambopedia.com/img/khmer_food00073.jpeg" alt="Khmer food" width={800} height={600} />
 
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00066-e1751642153169.jpeg" alt="Khmer food" loading="lazy" />
-
-Bai Sach Chrouk (grilled pork with rice)** – Simple, smoky, and usually served with pickles and a small bowl of soup.
+Bai Sach Chrouk (grilled pork with rice) – Simple, smoky, and usually served with pickles and a small bowl of soup.
 Popular morning dish near Olympic Market and Russian Market (Toul Tom Pong).
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00081.jpeg" alt="Khmer food" loading="lazy" />
-
-Lort Cha (stir-fried short noodles)** – Fried with beef, egg, and bean sprouts, served with chili sauce and sometimes topped with a fried egg.
+Lort Cha (stir-fried short noodles) – Fried with beef, egg, and bean sprouts, served with chili sauce and sometimes topped with a fried egg.
 Street carts around Central Market and Monivong Blvd.
 
-Nom Krok (grilled coconut-rice cakes)** – Crisp on the outside, soft inside, with a sweet-salty coconut flavor.
+Nom Krok (grilled coconut-rice cakes) – Crisp on the outside, soft inside, with a sweet-salty coconut flavor.
 Evening stalls near Riverside or Independence Monument.
 
 Fried insects (tarantulas, crickets, and silkworms)** – A crunchy, protein-rich snack for the brave and curious.
@@ -40,9 +36,7 @@ Seen at tourist spots like Riverside or Pub Street in Siem Reap (but also in Phn
 Fresh spring rolls (Nime Chao) – Soft rice paper rolls filled with vegetables, pork, or shrimp, and dipped in peanut sauce.
 Vendors often roam riverside parks or university campuses.
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg" alt="Khmer food" loading="lazy" />
-
-Ang dtray-meuk (grilled squid on a stick)** – Served with green mango and chili sauce.
+Ang dtray-meuk (grilled squid on a stick) – Served with green mango and chili sauce.
 Best at night markets or riverside.
 
 Best Places for Street Food
@@ -54,4 +48,4 @@ Night Market near Riverside** – Designed for tourists but still has local favo
 
 Wat Phnom area** – Great for local noodles, grilled meat, and iced coffee.
 
-Olympic Market & Orussey Market** – For more authentic, less touristy finds.
+Olympic Market & Orussey Market – For more authentic, less touristy finds.
