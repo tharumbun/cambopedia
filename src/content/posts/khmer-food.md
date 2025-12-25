@@ -7,14 +7,6 @@ categories:
 series: ["Cambodian food culture", "01"]  
 ---
 
-<Image 
-  src="https://cdn.cambopedia.com/img/khmer_food00029.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
-
-
 When in Cambodia, you're in for a rich culinary experience. Khmer food (Cambodian cuisine) is flavorful, fresh, and often less spicy than neighboring Thai food. Here are must-try Khmer meals:
 
 Amok Trey (Fish Amok) – Steamed fish curry with coconut milk, kroeung (herb paste), and banana leaf wrapping. Signature Cambodian dish.
@@ -35,47 +27,167 @@ Cha Kdao – Stir-fried beef with holy basil and vegetables.
 
 Ang Dtray-Meuk – Grilled squid on skewers, often sold along beaches.
 
-![Khmer food](https://cdn.cambopedia.com/img/khmer_food00029.jpeg)
 
-<img src="https://cdn.cambopedia.com/img/khmer_food00029.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00029.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00031.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00031.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00036.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00036.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00040.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00041.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00040.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00042.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00041.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00043.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00042.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00045.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00043.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00050.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00045.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00050.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00051.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00051.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00054.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00054.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00055.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00056.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00057.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00058.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00059.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00055.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00063.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00056.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00068.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00057.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00071.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00072.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00058.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00074.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00059.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00077.jpeg" alt="Khmer food" loading="lazy" />
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00078.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00063.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00068.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00071.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00072.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00074.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00077.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+<Image 
+  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00078.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
 Side Dishes & Snacks:
 Pickled vegetables (chrouk spey)
