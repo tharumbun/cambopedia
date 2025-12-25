@@ -1,10 +1,32 @@
 ---
 title: "The best coffee shops and cafes in Phnom Penh"
 date: 2024-04-26
+image: "https://cdn.cambopedia.com/img/Brown-Coffee-Phnom-Penh.jpg"
 categories: 
   - "blog"
 coverImage: "Brown-Coffee-Phnom-Penh.jpg"
 ---
+
+**The Journey of coffee in Cambodia: From quiet plantations to city buzz**
+
+Long before the aroma of espresso drifted through Phnom Penh’s buzzing streets, coffee in Cambodia began quietly—rooted in red soil, shaded by tall trees, and nurtured by time.
+
+Coffee first arrived during the French colonial era in the late 19th and early 20th centuries. The French, bringing their café traditions with them, saw Cambodia’s climate as ideal for cultivation. Plantations slowly took root, especially in the highlands of Mondulkiri and Ratanakiri, and in the neighboring coffee-growing influence from Vietnam. Robust, hardy beans grew well, and though Cambodia didn’t instantly become a global coffee powerhouse, a local bond with the crop quietly began.
+
+Then came decades of difficulty. Wars and hardship meant coffee, like much of Cambodian life, faced disruption. But even in those years, coffee never fully disappeared. In markets and roadside stalls, Khmer iced coffee—dark, strong, mixed with sweet condensed milk—became both comfort and fuel. Vendors poured it from metal pitchers into plastic bags, tied with string, with a straw poking out. It was affordable, energizing, and uniquely Cambodian. Coffee became less of a luxury and more of a daily ritual.
+
+As the country rebuilt and opened to the world in the 1990s and 2000s, a new chapter began. Cities grew, and so did curiosity. International influences flowed in—travelers, expatriates, returning Cambodians—and with them came modern cafés. First came small family-run coffee shops, then international franchises, then independent specialty cafés. Cozy spaces with Wi-Fi appeared, offering not just drinks but places to study, meet friends, and dream. Coffee transformed from a simple beverage into a lifestyle.
+
+By the 2010s, coffee culture in Cambodia was flourishing. Local entrepreneurs began roasting their own beans. Farmers in Mondulkiri and the northeast experimented with improving quality. Baristas emerged—not just as servers—but as artists who understood flavor, craft, and story. Instagram and Facebook filled with latte art, café interiors, and hashtags celebrating Cambodian coffee pride.
+
+And then came Gen Z.
+
+This generation didn’t just *consume* coffee; they redefined it. For them, coffee is creativity, identity, and community. They meet in cafés to study, create content, build startups, and collaborate on ideas. They celebrate local beans, support Cambodian growers, and value sustainability. Many see coffee as a bridge—connecting tradition with modern life, local heritage with global taste.
+
+Today, Cambodia’s coffee culture stands vibrant and confident. From rustic roadside iced coffee stalls to minimalist specialty cafés, coffee has woven itself into daily life. It tells a story of resilience, adaptation, and growth—a story of how something once foreign has become beautifully Cambodian.
+
+And as Gen Z continues to brew new ideas, one thing is clear: the future of Cambodian coffee is full of energy—rich, bold, and full of possibilities, just like the country itself.
+
 
 Cambodia's coffee culture is a fascinating blend of tradition and modernity. Over the past few years, I’ve visited most of the coffee outlets (below) to meet with friends and circles and for business meetings. My regular, favorite orders are espresso, Americano, and cold brew Sumatra coffee.
 
@@ -17,8 +39,6 @@ Some of the highly-rated coffee shops in Phnom Penh:
 1\. Brown Coffee - This coffee shop chain has several locations in Phnom Penh, known for its specialty coffee and good food. They have a cozy atmosphere and a friendly staff. 2. Riel Coffee - This coffee shop is located in the trendy BKK1 neighborhood, and it is known for its specialty coffee and great brunch menu. They have a terrace seating option and a relaxing atmosphere. 3. Blue Pumpkin - This café chain is popular in Phnom Penh, and it is known for its homemade ice cream and pastries. They offer a cozy atmosphere, and it's a good spot for a sweet treat. 4. The Little Red Fox Espresso - This small but popular coffee shop is known for its specialty coffee and cozy atmosphere. They offer a great selection of coffee beans and a variety of sandwiches and pastries. 5. The Shop - This coffee shop is located in a restored colonial-era building, and it is known for its specialty coffee, good food, and unique atmosphere. They have indoor and outdoor seating, and it's a great spot for a relaxing coffee break.
 
 These coffee shops are known for their specialty coffee and good food, they are also located in different neighborhoods, so you can choose the one that is closer to you or the one with the atmosphere that you prefer.
-
-![Brown Coffee and Bakery](https://im.cambopedia.com/wp-content/uploads/2025/06/Brown-Coffee-Phnom-Penh.jpg)
 
 Phnom Penh's coffee shops with fast Internet (recommended)
 
@@ -81,31 +101,3 @@ It's also a nice place for freelancers and consultants to get their work done.
 In Phnom Penh, more and more cafés compete by offering better in-shop experience, in addition to brewing the best cup of coffee for their customers. According to the Cambodia Investor Club, there are about 200 coffees shops in Phnom Penh as of mid 2017.
 
 Cambodia's coffee culture is on the rise. With a growing appreciation for quality coffee and a thriving cafe scene, there's something for everyone to enjoy.
-
-Among Thai, Vietnamese, and Cambodian people, Vietnamese are the heaviest coffee drinkers—by far.
-
-Vietnam
-
-Coffee culture is strong and deep-rooted.
-Vietnam is the world’s second-largest coffee producer, mainly of robusta beans.
-Signature styles like cà phê sữa đá (iced coffee with condensed milk) and egg coffee are globally known.
-Street cafés, sidewalk vendors, and chains like Trung Nguyên or Highlands Coffee are everywhere.
-Many locals drink coffee multiple times per day.
-
-Thailand
-
-Coffee culture is growing, especially in cities like Bangkok and Chiang Mai.
-Thai people enjoy oliang (Thai iced coffee with sugar and sometimes spices) and modern espresso drinks.
-Specialty coffee shops are booming, but tea (like cha yen) is still more dominant in rural areas.
-Thailand grows its own beans, especially in the North, but local consumption isn’t as high as Vietnam.
-
-Cambodia
-
-Coffee drinking is part of daily life, especially iced coffee with sweetened condensed milk (kafe kar).
-But it’s less intense than in Vietnam.
-Local chains like Brown Coffee and Starbucks-style cafés are popular in cities.
-Rural areas tend to favor tea or instant coffee.
-
-Vietnamese = most passionate and frequent coffee drinkers
-Thais = rising interest, especially urban middle class
-Cambodians = moderate, growing urban trend
