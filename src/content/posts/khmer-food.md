@@ -7,10 +7,6 @@ categories:
 series: ["Cambodian food culture", "01"]  
 ---
 
----
-import { Image } from 'astro:assets';
----
-
 <Image 
   src="https://cdn.cambopedia.com/img/khmer_food00029.jpeg" 
   alt="Khmer food" 
