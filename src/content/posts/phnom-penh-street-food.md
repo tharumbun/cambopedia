@@ -1,7 +1,7 @@
 ---
 title: "Phnom Penh street food"
 date: 2025-06-22
-image: "https://cdn.cambopedia.com/img/IMG_6359.jpg"
+image: "https://cdn.cambopedia.com/img/khmer_food00073.jpeg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "04"]  
@@ -14,13 +14,6 @@ Must-Try Street Foods
 Num Pang (Cambodian baguette sandwich) – Like a cousin to the Vietnamese banh mi, filled with pâté, pork, pickled vegetables, and chili sauce.
 Found near schools, markets, and parks like Wat Botum.
 
-<Image src="https://cdn.cambopedia.com/img/IMG_6967.jpg" alt="Khmer food" width={800} height={600} />
-
-<Image src="https://cdn.cambopedia.com/img/IMG_6966.jpg" alt="Khmer food" width={800} height={600} />
-
-<Image src="https://cdn.cambopedia.com/img/khmer_food00073.jpeg" alt="Khmer food" width={800} height={600} />
-
-
 Bai Sach Chrouk (grilled pork with rice) – Simple, smoky, and usually served with pickles and a small bowl of soup.
 Popular morning dish near Olympic Market and Russian Market (Toul Tom Pong).
 
@@ -30,7 +23,7 @@ Street carts around Central Market and Monivong Blvd.
 Nom Krok (grilled coconut-rice cakes) – Crisp on the outside, soft inside, with a sweet-salty coconut flavor.
 Evening stalls near Riverside or Independence Monument.
 
-Fried insects (tarantulas, crickets, and silkworms)** – A crunchy, protein-rich snack for the brave and curious.
+Fried insects (tarantulas, crickets, and silkworms) – A crunchy, protein-rich snack for the brave and curious.
 Seen at tourist spots like Riverside or Pub Street in Siem Reap (but also in Phnom Penh’s Orussey Market).
 
 Fresh spring rolls (Nime Chao) – Soft rice paper rolls filled with vegetables, pork, or shrimp, and dipped in peanut sauce.
@@ -41,10 +34,10 @@ Best at night markets or riverside.
 
 Best Places for Street Food
 
-Russian Market (Toul Tom Pong)** – Wide variety and bustling day/night.
+Russian Market (Toul Tom Pong) – Wide variety and bustling day/night.
 
-Central Market (Phsar Thmei)** – Great for snacks, sweets, and drinks.
-Night Market near Riverside** – Designed for tourists but still has local favorites.
+Central Market (Phsar Thmei) – Great for snacks, sweets, and drinks.
+Night Market near Riverside – Designed for tourists but still has local favorites.
 
 Wat Phnom area** – Great for local noodles, grilled meat, and iced coffee.
 
