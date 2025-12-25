@@ -1,14 +1,19 @@
 ---
 title: "Breakfast in Cambodia"
 date: 2025-07-07
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00073.jpeg"
+image: "https://cdn.cambopedia.com/img/khmer_food00073.jpeg"
 categories:
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "05"]
 ---
 
 **A Morning Feast: Breakfast Traditions Across Cambodia**
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6993.jpg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00003.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
 From the bustling streets of Phnom Penh to the quiet villages of Kampot, breakfast in Cambodia is more than just a meal—it’s a window into daily life, culture, and community.
 
@@ -18,11 +23,30 @@ Each image tells a story of tradition, flavor, and the people who make breakfast
 
 Stay with us as we journey through the sights, colors, and textures of Cambodian breakfasts—one photo at a time.
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00037.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00037.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00039.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00039.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00052.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00052.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
 
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00061.jpeg" alt="Khmer food" loading="lazy" />
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00061.jpeg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
