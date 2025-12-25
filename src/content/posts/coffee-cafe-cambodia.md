@@ -1,13 +1,12 @@
 ---
 title: "Coffee culture in Cambodia"
 date: 2025-12-25
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_penh3.jpg"
+image: "https://cdn.cambopedia.com/img/Brown-Coffee-Phnom-Penh.jpg"
 categories: 
-  - "how-to"
   - "lifestyle-shopping"
 ---
 
-The Journey of Coffee in Cambodia: From Quiet Plantations to City Buzz
+**The Journey of coffee in Cambodia: From quiet plantations to city buzz**
 
 Long before the aroma of espresso drifted through Phnom Penh’s buzzing streets, coffee in Cambodia began quietly—rooted in red soil, shaded by tall trees, and nurtured by time.
 
