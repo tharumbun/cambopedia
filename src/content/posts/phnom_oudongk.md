@@ -173,10 +173,3 @@ At Phnom Oudong (also called Oudong Mountain), there’s a lively street-food sc
   width={800} 
   height={600} 
 />
-
-<Image 
-  src="https://im.cambopedia.com/wp-content/uploads/2025/06/khmer_food00027.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
