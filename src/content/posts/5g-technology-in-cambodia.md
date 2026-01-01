@@ -1,5 +1,6 @@
 ---
 title: "Cambodia leaps ahead with 5G"
+image: "https://cdn.cambopedia.com/img/R0000217.jpg"
 date: 2025-01-01
 categories: 
   - "blog"
@@ -9,7 +10,7 @@ While many are buzzing about Starlink's global expansion, Cambodia has quietly (
 
 For years, Cambodia has been rapidly developing its digital infrastructure, and the arrival of 5G marks a significant milestone. Imagine downloading a full-length movie in seconds, experiencing virtually lag-free online gaming, or enabling advanced IoT applications that can transform industries from healthcare to agriculture.
 
-What Does 5G Mean for Cambodia?
+**What does 5G mean for Cambodia?**
 
 Blazing Fast Speeds: 5G offers theoretical speeds many times faster than 4G, dramatically improving everything from streaming to large file transfers.
 
