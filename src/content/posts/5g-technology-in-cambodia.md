@@ -1,6 +1,6 @@
 ---
 title: "Cambodia leaps ahead with 5G"
-date: 2025-01-1
+date: 2025-01-01
 categories: 
   - "blog"
 ---
