@@ -1,7 +1,7 @@
 ---
 title: "Cambodia leaps ahead with 5G"
 image: "https://cdn.cambopedia.com/img/R0000217.jpg"
-date: 2025-01-01
+date: 2026-01-01
 categories: 
   - "blog"
 ---
@@ -9,6 +9,8 @@ categories:
 While many are buzzing about Starlink's global expansion, Cambodia has quietly (and quickly!) stepped into the future of mobile internet with the launch of 5G! This puts the Kingdom ahead of the curve in Southeast Asia, offering its citizens and businesses unprecedented speeds and connectivity.
 
 For years, Cambodia has been rapidly developing its digital infrastructure, and the arrival of 5G marks a significant milestone. Imagine downloading a full-length movie in seconds, experiencing virtually lag-free online gaming, or enabling advanced IoT applications that can transform industries from healthcare to agriculture.
+
+As of January 1, 2026, the three major telecommunication companies supporting 5G services in Cambodia are Cellcard (CamGSM), Metfone (Viettel Cambodia), and Smart (Smart Axiata).
 
 **What does 5G mean for Cambodia?**
 
