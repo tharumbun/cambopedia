@@ -1,5 +1,5 @@
 ---
-title: "Cambodia leaps ahead with 5G: A new era of connectivity begins!"
+title: "Cambodia leaps ahead with 5G"
 date: 2025-01-1
 categories: 
   - "blog"
