@@ -1,0 +1,8 @@
+---
+import { getCollection } from 'astro:content';
+import { SocialCard as SocialCardComponent } from '../components/SocialCard.tsx';
+ 
+const posts = await getCollection('posts');
+---
+ 
+<SocialCardComponent posts={posts} client:only="react" />
