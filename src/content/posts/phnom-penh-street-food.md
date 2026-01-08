@@ -1,13 +1,13 @@
 ---
 title: "Phnom Penh street food"
-date: 2025-06-22
+date: 2026-01-07
 image: "https://cdn.cambopedia.com/img/R0000042.jpg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "04"]  
 ---
 
-Phnom Penh’s street food scene is vibrant, flavorful, and affordable — a true reflection of Cambodian culture. Here are some street food staples and where to find them.
+Phnom Penh’s street food scene is vibrant, flavorful, and affordable — a true reflection of Cambodian culture. Here are some street foods in pictures.
 
 <Image
   src="https://cdn.cambopedia.com/img/R0000043.jpg"
