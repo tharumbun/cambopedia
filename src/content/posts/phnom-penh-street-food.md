@@ -1,13 +1,73 @@
 ---
 title: "Phnom Penh street food"
 date: 2025-06-22
-image: "https://cdn.cambopedia.com/img/khmer_food00073.jpeg"
+image: "https://cdn.cambopedia.com/img/R0000042.jpg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "04"]  
 ---
 
-Phnom Penh’s street food scene is vibrant, flavorful, and affordable — a true reflection of Cambodian culture. Here are some street food staples and where to find them:
+Phnom Penh’s street food scene is vibrant, flavorful, and affordable — a true reflection of Cambodian culture. Here are some street food staples and where to find them.
+
+Best Places for Street Food
+
+Russian Market (Toul Tom Pong) – Wide variety and bustling day/night.
+
+Central Market (Phsar Thmei) – Great for snacks, sweets, and drinks.
+Night Market near Riverside – Designed for tourists but still has local favorites.
+
+Wat Phnom area – Great for local noodles, grilled meat, and iced coffee.
+
+Olympic Market & Orussey Market – For more authentic, less touristy finds.
+
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000043.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000102.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000104.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000287.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000290.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000291.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 Must-Try Street Foods
 
@@ -32,13 +92,3 @@ Vendors often roam riverside parks or university campuses.
 Ang dtray-meuk (grilled squid on a stick) – Served with green mango and chili sauce.
 Best at night markets or riverside.
 
-Best Places for Street Food
-
-Russian Market (Toul Tom Pong) – Wide variety and bustling day/night.
-
-Central Market (Phsar Thmei) – Great for snacks, sweets, and drinks.
-Night Market near Riverside – Designed for tourists but still has local favorites.
-
-Wat Phnom area** – Great for local noodles, grilled meat, and iced coffee.
-
-Olympic Market & Orussey Market – For more authentic, less touristy finds.
