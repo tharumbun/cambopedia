@@ -4,7 +4,6 @@ date: 2026-01-08
 image: "https://cdn.cambopedia.com/img/R0000102.jpg"
 categories: 
   - "lifestyle-shopping"
-series: ["Cambodian food culture", "04"]  
 ---
 
 Phnom Penh doesn’t try too hard to impress you.

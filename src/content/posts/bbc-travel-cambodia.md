@@ -9,10 +9,8 @@ image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_pe
 **Cambodia on BBC’s 2026 Travel List**
 
 Phnom Penh is featured on the BBC’s list of the 20 best places to travel in 2026, noted for cultural and creative developments in the city. 
-Facebook
 
 The list itself includes a diverse set of global destinations, spanning cities, islands, and nature experiences. 
-Facebook
 
 Why Cambodia Is Getting Attention
 
