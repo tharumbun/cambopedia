@@ -29,8 +29,13 @@ The river is not just scenery; it’s rhythm. Families gather there in the eveni
 
 The city breathes with the river.
 
-Photo 2: Evening life on the riverfront, people sitting and strolling
-
+<Image
+  src="https://cdn.cambopedia.com/img/R0001710.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 3. Chaos, But the Human Kind
 
