@@ -1,7 +1,7 @@
 ---
 title: "Why you should love Phnom Penh"
 date: 2026-01-08
-image: "https://cdn.cambopedia.com/img/R0000042.jpg"
+image: "https://cdn.cambopedia.com/img/R0000102.jpg"
 categories: 
   - "lifestyle-shopping"
 series: ["Cambodian food culture", "04"]  
@@ -22,7 +22,6 @@ There’s a calm honesty in these hours. Cafés pull up their metal shutters. Ic
 Photo 1: Sunrise along Sisowath Quay, monks walking past the river
 
 
-
 2. The Rivers That Shape Its Soul
 
 Few capitals are shaped so clearly by water. Phnom Penh sits where rivers meet—the Mekong, the Tonlé Sap, and the Bassac—and you feel that convergence everywhere.
@@ -32,7 +31,6 @@ The river is not just scenery; it’s rhythm. Families gather there in the eveni
 The city breathes with the river.
 
 Photo 2: Evening life on the riverfront, people sitting and strolling
-
 
 
 3. Chaos, But the Human Kind
@@ -55,8 +53,13 @@ Plastic stools. Low tables. A quick nod to the vendor. A familiar order. You eat
 
 The flavors are bold but comforting, shaped by habit and memory. Eating here connects you instantly to the city’s daily life.
 
-Photo 4: Street food stall at night, steam rising, people eating
-
+<Image
+  src="https://cdn.cambopedia.com/img/R0000043.jpg"
+  alt="Traditional Khmer food served family-style"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 
 5. A City of Resilience, Not Pretension
@@ -91,9 +94,6 @@ Living here feels like participating in something still being written.
 
 Photo 7: Construction cranes against a Phnom Penh skyline at sunset
 
-
-
-Closing Thoughts
 
 I love Phnom Penh not because it’s perfect, but because it’s real.
 
