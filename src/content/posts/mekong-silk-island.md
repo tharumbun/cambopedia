@@ -21,8 +21,7 @@ Just a short boat ride from the bustling streets of Phnom Penh lies **Mekong Sil
   priority={false}
 />
 
-Known for its centuries-old silk weaving tradition, Silk Island is home to skilled artisans who transform delicate threads into vibrant fabrics using traditional wooden looms. Walking through the villages, you’ll hear the rhythmic sounds of weaving and see colorful scarves, sampots, and textiles drying in the sun—each piece telling a story of culture, patience, and craftsmanship.
-
+Known for its centuries-old silk weaving tradition, Silk Island is home to skilled artisans who transform delicate threads into vibrant fabrics using traditional wooden looms. 
 
 <Image
   src="https://cdn.cambopedia.com/img/R0002090.jpg"
@@ -31,6 +30,8 @@ Known for its centuries-old silk weaving tradition, Silk Island is home to skill
   height={1280}
   priority={false}
 />
+Walking through the villages, you’ll hear the rhythmic sounds of weaving and see colorful scarves, sampots, and textiles drying in the sun—each piece telling a story of culture, patience, and craftsmanship.
+
 
 <Image
   src="https://cdn.cambopedia.com/img/R0002097.jpg"
@@ -49,6 +50,7 @@ Beyond weaving, the island offers a glimpse into authentic rural life along the 
   height={1280}
   priority={false}
 />
+A rare perspective of Phnom Penh from the Koh Oknha Tey side.
 
 <Image
   src="https://cdn.cambopedia.com/img/R0002054.jpg"
