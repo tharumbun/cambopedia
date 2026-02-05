@@ -102,5 +102,3 @@ Photo 7: Construction cranes against a Phnom Penh skyline at sunset
 I love Phnom Penh not because it’s perfect, but because it’s real.
 
 It’s a city of mornings and rivers, noise and kindness, memory and motion. A place where life happens close to the surface.
-
-And once it gets under your skin, it ne
