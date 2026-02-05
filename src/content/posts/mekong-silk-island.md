@@ -50,7 +50,7 @@ Beyond weaving, the island offers a glimpse into authentic rural life along the 
   height={1280}
   priority={false}
 />
-A rare perspective of Phnom Penh from the Koh Oknha Tey side.
+A rare perspective of Phnom Penh from the Koh Oknha Tey side. The distance between Koh Oknha Tey and Koh Dach (Silk Island) is roughly 6–8 kilometers in a straight line across the Mekong River area.
 
 <Image
   src="https://cdn.cambopedia.com/img/R0002054.jpg"
