@@ -3,7 +3,7 @@ title: "Cambodia on BBC’s 2026 Travel List"
 date: 2025-12-15
 categories: 
   - "blog"
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_penh2.jpg"
+image: "https://cdn.cambopedia.com/img/khmer-food.jpg"
 ---
 
 **Cambodia on BBC’s 2026 Travel List**

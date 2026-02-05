@@ -3,7 +3,6 @@ title: "Books Kinokuniya in Phnom Penh"
 date: 2025-07-11
 categories: 
   - "book"
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_penh2.jpg"
 ---
 
 **Books Kinokuniya in Cambodia**
@@ -11,9 +10,6 @@ image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_pe
 is a renowned Japanese bookstore chain founded in Tokyo in 1927. Today, it operates over 70 locations in Japan and more than 40 abroad, including in Phnom Penh, bringing a rich cultural and literary experience to book lovers worldwide .
 
 Inside, you'll discover a thoughtfully curated blend of Japanese and English-language books, from manga and graphic novels to art, design, travel, and children's titles. Many stores also stock Chinese-language works. Beyond books, Kinokuniya is celebrated for its **stylish Japanese stationery, gifts, and lifestyle items**, making it a favorite destination for students, professionals, and creative types.
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6281.jpg" alt="Books Kinokuniya at Aeon Mall Sen Sok in Phnom Penh" loading="lazy" />
-
 
 The typical Kinokuniya layout includes **well-organized genre sections and cozy reading nooks**, creating a calm and inspiring browsing environment. Staff are known for their expertise and friendliness, often assisting with recommendations or sourcing rare titles.
 
