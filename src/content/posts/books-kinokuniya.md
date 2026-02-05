@@ -1,7 +1,7 @@
 ---
 title: "Books Kinokuniya in Phnom Penh"
 date: 2025-07-11
-image: "https://cdn.cambopedia.com/img/R0000744.jpg"
+image: "https://cdn.cambopedia.com/img/R0000744.JPG"
 categories: 
   - "book"
 ---
