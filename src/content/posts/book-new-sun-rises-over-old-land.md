@@ -55,7 +55,3 @@ This isn't a "fun summer beach read," but it is a **necessary one.** If you are 
 It reminds us that before the shadows fell, there was a generation that truly believed they were standing at the dawn of a golden age. Reading it feels like holding a piece of a dream that was cut short.
 
 > **"The old land was a land of tears; the new sun is a sun of sweat and pride."** (A sentiment echoed throughout the book's transition).
-
----
-
-**Would you like me to help you find a reading list of other influential Southeast Asian literature from that same era?**
