@@ -1,7 +1,6 @@
 ---
 title: "Where to go shopping for a digital camera in Phnom Penh?"
 date: 2025-05-23
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/lengkheang_camera_shop.jpg"
 categories: 
   - "how-to"
   - "lifestyle-shopping"

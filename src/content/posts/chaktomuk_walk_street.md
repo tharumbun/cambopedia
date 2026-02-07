@@ -1,7 +1,6 @@
 ---
 title: "Chaktomuk Walk Street of Phnom Penh"
 date: 2025-07-03
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/chaktomuk_walk_street.jpeg"
 categories: 
   - "lifestyle-shopping"
 ---
@@ -18,8 +17,6 @@ Named after “Chaktomuk”—the Khmer term for the confluence of the Tonle Sap
 
 What began in February 2025 as a pilot has evolved into a weekend tradition full of performances: traditional Khmer music and dance, Chapei artists, Ayay comedy, Yike dancers, circus troupes, and even pop‑up art installations. It’s been described as “a festive cultural showcase”—you never know which hidden talent you’ll encounter.
 
-![Street food scene in Phnom Penh](https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_street_food.jpg)
-
 3. Street Food Galore
 
 From classic noodles, grilled skewers, and bao sandwiches to adventurous bites like fried insects, local vendors serve up every flavour of Cambodia. Add in fresh coconut water and sticky rice with mango, and you’ve got a feast for the senses—and your wallet ([siemreaper.com][3]).
@@ -35,8 +32,6 @@ Safe and vehicle-free, the street sees families picnicking by the river as kids 
 6. Urban Renewal in Action
 
 This initiative is more than a nightly festival—it's Phnom Penh reimagining its public spaces. Walk Street represents a shift toward human-focused city planning. It brings civic pride, increases cultural engagement, and creates a fun platform for creative expression in a fast-developing city .
-
-![Chaktomuk Walk Street](https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_chaktomuk_walk_street.jpg)
 
 Visiting Tips
 

@@ -1,7 +1,6 @@
 ---
 title: "Phnom Penh's skyline: 5 tallest buildings"
 date: 2025-05-31
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/connexion_phnom_penh.jpg"
 categories: 
   - "Phnom Penh"
 coverImage: "phnom_penh_skyline.jpg"

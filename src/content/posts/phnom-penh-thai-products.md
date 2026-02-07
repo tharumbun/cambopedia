@@ -1,7 +1,6 @@
 ---
 title: "Why Thai products are taking over Phnom Penh"
 date: 2025-07-05
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/makro_sen_sok.jpeg"
 categories: 
   - "lifestyle-shopping"
 ---
@@ -50,5 +49,3 @@ The love for Thai products isn’t just about proximity. It’s about trust in q
 Final Thoughts
 
 As Phnom Penh continues to evolve, so does its appetite for regional products — and Thai goods are clearly here to stay. Whether you're a foodie, a beauty enthusiast, or just curious to explore regional trends, you won’t have to look far to discover the colorful world of Thai products in the heart of Cambodia.
-
-

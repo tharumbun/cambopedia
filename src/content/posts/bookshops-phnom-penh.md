@@ -3,7 +3,6 @@ title: "Best bookstores in Phnom Penh"
 date: 2024-04-21
 categories: 
   - "book"
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/book_store_phnom_penh1.jpg"
 ---
 
 Phnom Penh has a variety of bookstores catering to different tastes and needs, from Cambodian literature and history to international bestsellers. If you’re exploring, combine a visit to these stores with a walk around Phnom Penh’s charming streets!
@@ -17,9 +16,6 @@ Here are some bookshops in Phnom Penh:
 Tsutaya Bookstore in Phnom Penh 
 
 [Tsutaya](https://cambopedia.com/phnom-penh-tsutaya-bookstore/) doesn’t just sell books—it nurtures a love of reading, creativity, and cultural exchange. 
-
-![Book reading in Cambodia](https://im.cambopedia.com/wp-content/uploads/2025/07/tsutaya_bookstore.jpg)
-
 
 Books Kinokuniya
 

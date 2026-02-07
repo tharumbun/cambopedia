@@ -3,7 +3,6 @@ title: "Essential apps to use in Cambodia"
 date: 2025-02-23
 categories: 
   - "blog"
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg"  
 ---
 
 Whether you’re visiting Cambodia for a short trip or planning to stay longer, having the right apps can make your experience smoother and more enjoyable. With these apps on your phone, navigating and enjoying Cambodia will be a lot easier, whether you're here for a few days or staying long-term.

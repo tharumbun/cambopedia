@@ -1,7 +1,6 @@
 ---
 title: "Office buildings and workspaces in Phnom Penh"
 date: 2025-02-05
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_3051.jpg"
 categories: 
   - "lifestyle-shopping"
 ---

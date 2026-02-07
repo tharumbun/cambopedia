@@ -1,7 +1,6 @@
 ---
 title: "Pochentong International Airport"
 date: 2025-07-05
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/phnom_penh_airport.jpeg"
 categories: 
   - "blog"
 ---
@@ -57,9 +56,6 @@ Formerly known as Pochentong International Airport, Phnom Penh International Air
 A snapshot of Phnom Penh International Airport
 
 Renovated and expanded several times since its establishment, Phnom Penh International Airport is equipped with modern facilities to handle millions of passengers annually. Despite being smaller than other regional hubs, it offers a comfortable and efficient travel experience. Key highlights include: - Terminals: Separate terminals for domestic and international flights. - Amenities: Duty-free shopping, a variety of dining options, currency exchange, and free Wi-Fi. - VIP Lounges: Dedicated spaces for premium travelers to relax before their flights. - Runway: A single runway capable of accommodating large aircraft.
-
-![Phnom Penh's International Airport or Pochentong](https://im.cambopedia.com/wp-content/uploads/2025/07/pochentong_airport.jpeg)
-
 
 How do I get from Phnom Penh airport to the city?
 
