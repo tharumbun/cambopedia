@@ -23,13 +23,6 @@ Just a short boat ride from the bustling streets of Phnom Penh lies **Mekong Sil
 
 Known for its centuries-old silk weaving tradition, Silk Island is home to skilled artisans who transform delicate threads into vibrant fabrics using traditional wooden looms. 
 
-<Image
-  src="https://cdn.cambopedia.com/img/R0002090.jpg"
-  alt="Koh Dach in pictures"
-  width={1920}
-  height={1280}
-  priority={false}
-/>
 Walking through the villages, you’ll hear the rhythmic sounds of weaving and see colorful scarves, sampots, and textiles drying in the sun—each piece telling a story of culture, patience, and craftsmanship.
 
 
@@ -71,9 +64,18 @@ Mekong Silk Island is more than a destination—it’s a living museum of tradit
 />
 
 <Image
+  src="https://cdn.cambopedia.com/img/R0002090.jpg"
+  alt="Koh Dach in pictures"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+<Image
   src="https://cdn.cambopedia.com/img/R0002056.jpg"
   alt="Koh Dach in pictures"
   width={1920}
   height={1280}
   priority={false}
 />
+
