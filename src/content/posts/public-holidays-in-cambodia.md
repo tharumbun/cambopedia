@@ -1,6 +1,7 @@
 ---
 title: "Public holidays in Cambodia"
 date: 2026-02-06
+image: "https://cdn.cambopedia.com/img/R0000013.jpg"
 categories: 
   - "blog"
 ---
@@ -38,8 +39,6 @@ The year is highlighted by significant multi-day festivals like the Khmer New Ye
 * **Overlapping Holidays:** In 2026, **International Labor Day** and **Visak Bochea Day** both fall on May 1st. In such cases, they are typically observed as a single holiday unless a specific government amendment is issued.
 * **Weekend Observance:** Note that **International Women's Day** (March 8) and the start of **Pchum Ben** (October 10) fall on weekends. Under current Cambodian labor laws, if a public holiday falls on a Sunday, employees are generally not entitled to a compensatory day off on the following Monday unless specifically decreed by the Ministry of Labour.
 * **Business Continuity:** For industries that cannot pause (like hospitality or emergency services), the law allows for rotational shifts, provided employees receive equal time off later or holiday pay premiums.
-
-Would you like me to create a printable summary of these dates or help you calculate the best times to take leave for an extended bridge holiday?
 
 Cambodia public holidays in 2025
 
