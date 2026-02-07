@@ -1,7 +1,7 @@
 ---
 title: "Public holidays in Cambodia"
 date: 2026-02-06
-image: "https://cdn.cambopedia.com/img/R0000013.jpg"
+image: "https://cdn.cambopedia.com/img/R0000013.JPG"
 categories: 
   - "blog"
 ---
