@@ -61,3 +61,19 @@ A rare perspective of Phnom Penh from the Koh Oknha Tey side. The distance betwe
 />
 
 Mekong Silk Island is more than a destination—it’s a living museum of tradition, creativity, and community. For travelers seeking culture, calm, and connection, this hidden gem on the Mekong is a journey worth taking.
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0001972.jpg"
+  alt="Koh Dach in pictures"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0002056.jpg"
+  alt="Koh Dach in pictures"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
