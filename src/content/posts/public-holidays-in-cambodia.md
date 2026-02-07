@@ -7,6 +7,40 @@ categories:
 
 Cambodia has a number of public holidays throughout the year, many of which are religious or cultural in nature. If you are planning a trip to Cambodia, it is important to be aware of the public holidays, as many businesses and government offices may be closed on these days.
 
+In 2026, Cambodia will observe a total of **21 official public holidays**. These dates were established by the Royal Government under **Sub-Decree No. 167**.
+
+The year is highlighted by significant multi-day festivals like the Khmer New Year in April, Pchum Ben in October, and the Water Festival in November.
+
+### **2026 Public Holiday Calendar**
+
+| Date | Day | Holiday |
+| --- | --- | --- |
+| **January 1** | Thursday | International New Year's Day |
+| **January 7** | Wednesday | Victory over Genocide Day |
+| **March 8** | Sunday | International Women's Day |
+| **April 14–16** | Tue–Thu | **Khmer New Year** (3 Days) |
+| **May 1** | Friday | International Labor Day & **Visak Bochea** |
+| **May 5** | Tuesday | Royal Ploughing Ceremony |
+| **May 14** | Thursday | King Norodom Sihamoni's Birthday |
+| **June 18** | Thursday | Queen Mother’s Birthday |
+| **September 24** | Thursday | Constitution Day |
+| **October 10–12** | Sat–Mon | **Pchum Ben Festival** (3 Days) |
+| **October 15** | Thursday | Commemoration Day of King Father |
+| **October 29** | Thursday | King Norodom Sihamoni’s Coronation Day |
+| **November 9** | Monday | National Independence Day |
+| **November 23–25** | Mon–Wed | **Water Festival (Bon Om Touk)** (3 Days) |
+| **December 29** | Tuesday | Peace Day |
+
+---
+
+### **Key Planning Notes**
+
+* **Overlapping Holidays:** In 2026, **International Labor Day** and **Visak Bochea Day** both fall on May 1st. In such cases, they are typically observed as a single holiday unless a specific government amendment is issued.
+* **Weekend Observance:** Note that **International Women's Day** (March 8) and the start of **Pchum Ben** (October 10) fall on weekends. Under current Cambodian labor laws, if a public holiday falls on a Sunday, employees are generally not entitled to a compensatory day off on the following Monday unless specifically decreed by the Ministry of Labour.
+* **Business Continuity:** For industries that cannot pause (like hospitality or emergency services), the law allows for rotational shifts, provided employees receive equal time off later or holiday pay premiums.
+
+Would you like me to create a printable summary of these dates or help you calculate the best times to take leave for an extended bridge holiday?
+
 Cambodia public holidays in 2025
 
 1\. January 1: International New Year’s Day 2. January 7: Victory Over Genocide Day 3. March 8: International Women’s Day 4. April 13-16: Khmer New Year 5. April 22: Royal Plowing Ceremony 6. April 24: Visak Bochea Day 7. May 1: International Labor Day 8. May 13-15: King Norodom Sihamoni’s Birthday 9. May 19: King’s Father, King Norodom Sihanouk's Birthday (Preah Borom Ratanak Kaudh) 10. June 18: Queen Mother Norodom Monineath Sihanouk’s Birthday 11. September 24: Constitution Day 12. October 5-7: Pchum Ben Day 13. October 15: Commemoration Day of King Norodom Sihanouk 14. October 23: Paris Peace Agreement Day 15. October 29: King Norodom Sihamoni’s Coronation Day 16. November 9: Independence Day 17. November 14-16: Water Festival (Bonn Om Touk) 18. December 10: International Human Rights Day
