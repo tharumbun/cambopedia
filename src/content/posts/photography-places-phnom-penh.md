@@ -1,7 +1,7 @@
 ---
 title: "Where are the best places to take photos in Phnom Penh?"
 date: 2025-07-11
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6408.jpg"
+image: "https://cdn.cambopedia.com/img/connexion_phnom_penh.jpg"
 categories: 
   - "how-to"
   - "lifestyle-shopping"
@@ -13,14 +13,11 @@ Here are 5 top spots in Phnom Penh that are great for photography, each offering
 
 A must-shoot for architectural beauty—gleaming golden spires, reflections in ponds, manicured gardens. The Silver Pagoda, within the palace grounds, features glittering pagoda floors and a stunning jade Buddha. Best lighting by mid-morning on a clear day.
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6896.jpg" alt="Phnom Penh place for photography" loading="lazy" />
-
 
 2. Sisowath Quay (Riverside Promenade)
 
 A bustling 3km riverfront along the Tonlé Sap, ideal for sunset, street scenes, boats, and colonial-era architecture. Don’t miss the FCC rooftop for elevated shots.
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6503.jpg" alt="Phnom Penh place for photography" loading="lazy" />
 
 3. Central Market (Psar Thmei)
 
@@ -34,8 +31,6 @@ Perched on a hill with Buddhist architecture and panoramic views of the city. A 
 
 Stand out with its striking lotus-stupa design. Dramatic both day and night—illuminated after dark, and symbolic during national celebrations.
 
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_6498.jpg" alt="Phnom Penh place for photography" loading="lazy" />
 
 Bonus locations (if time allows):
 

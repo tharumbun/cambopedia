@@ -3,7 +3,6 @@ title: "Neary Chalatchor: Exploring Cambodia through the local lens"
 date: 2025-07-11
 categories: 
   - "blog"
-image: "https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg"  
 ---
 
 ## Exploring Cambodia Through the Lens of Neary Chalatchor
@@ -13,8 +12,6 @@ In recent years, Neary Chalatchor—popularly known by her Khmer name, នារ
 ### 1. A New Voice for Domestic Exploration
 
 Neary began uploading videos that highlight Cambodia’s stunning natural and cultural landscapes. Far from typical influencer content focused on luxury or abroad travel, her authentic, grassroots narratives connect deeply with Cambodians. Whether trekking through dense jungles, navigating waterfall trails, or discovering off‑the‑beaten‑path villages, her content invites viewers to reconnect with their own backyard. One of her early viral clips follows a 60 km hike from Kampong Speu to Koh Kong during the rainy season, complete with all the muddy, challenging reality—and raw emotion—that comes with it.
-
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/decathlon_aeon_mall_sen_sok.jpg" alt="Decathlon" loading="lazy" />
 
 ### 2. Empowering Women in Adventure
 
