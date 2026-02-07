@@ -7,9 +7,6 @@ categories:
 
 Connexion has emerged as a beacon for those seeking a blend of productivity and sustainable living. This innovative hub is not just a workspace; it’s a lifestyle choice that resonates with the growing demand for eco-conscious environments. In this review, we'll explore what makes Connexion a unique destination for both locals and expatriates.
 
-<img src="https://im.cambopedia.com/wp-content/uploads/2025/06/connexion_phnom_penh.jpg" alt="Phnom Penh's National Museum" loading="lazy" />
-
-
 Discovering Connexion: A Sustainable Work & Lifestyle Hub in Koh Pich, Phnom Penh
 
 A Green Oasis in the Urban Jungle

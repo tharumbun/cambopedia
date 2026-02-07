@@ -6,6 +6,13 @@ categories:
 ---
 
 As of early 2026, the publishing landscape for Cambodia has seen a strong start, particularly in the academic, political, and graphic novel sectors. Since we are only in the first quarter of the year, several of these titles are just hitting the shelves or are scheduled for later this spring.
+<Image
+  src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1583034676i/52062171.jpg"
+  alt="Koh Dach in pictures"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 Here are the most significant new books on Cambodia for 2026:
 

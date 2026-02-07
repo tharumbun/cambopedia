@@ -3,7 +3,6 @@ title: "Koh Norea: Phnom Penh's rising star"
 date: 2024-12-19
 categories: 
   - "blog"
-coverImage: "IMG_7885.jpg"
 ---
 
 Phnom Penh, Cambodia's capital city, is rapidly evolving, and nowhere is this transformation more evident than in Koh Norea. Nestled along the banks of the Mekong River, Koh Norea is emerging as one of the city’s most exciting developments, blending modernity with sustainability to redefine urban living in the capital.
