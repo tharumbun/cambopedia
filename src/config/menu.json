@@ -4,6 +4,14 @@
       "name": "Start Here",
       "url": "/"
     },
+        {
+      "name": "Blog",
+      "url": "/blog/"
+    },
+        {
+      "name": "Books",
+      "url": "/books/"
+    },
     {
       "name": "Photo Series",
       "url": "/series/"
