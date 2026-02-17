@@ -1,0 +1,61 @@
+---
+import Layout from "@layouts/Layout.astro";
+import { Icon } from "astro-icon/components";
+import config from "@config/config.json";
+
+// Contact information from config file
+const title = "Contact Us";
+const { address, email, phone } = config.contactinfo;
+const { contact_form_action } = config.params;
+
+// Function to convert markdown to HTML (simplified version)
+const markdownify = (content) => {
+  if (!content) return "";
+  return content;
+};
+---
+
+<Layout
+  title={title}
+  description="Submit content"
+>
+  <section class="section py-12">
+    <div class="container max-w-5xl mx-auto px-4">
+      <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-10 text-center">{title}</h1>
+      <div class="grid grid-cols-1 md:grid-cols-12 gap-8">
+        <div class="md:col-span-4">
+          <p class="mb-8 text-2xl font-bold text-gray-900 dark:text-white">Contact Info</p>
+          <ul class="flex flex-col space-y-8">
+            <li>
+              <div class="flex text-gray-900 dark:text-white items-center text-xl">
+                <Icon
+                  name="mdi:card-account-details-star-outline"
+                  class="mr-3 text-blue-600 dark:text-blue-400 text-2xl"
+                />
+                <p class="font-semibold">Address</p>
+              </div>
+              <p class="mt-2 leading-5 pl-8 text-gray-700 dark:text-gray-300">Cambodia, Southeast Asia</p>
+            </li>
+            <li>
+              <div class="flex text-gray-900 dark:text-white items-center text-xl">
+                <Icon name="mdi:email" class="mr-3 text-blue-600 dark:text-blue-400 text-2xl" />
+                <p class="font-semibold">Email</p>
+              </div>
+              <p class="mt-2 leading-5 pl-8 text-gray-700 dark:text-gray-300">
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appXOSnET3MsD9Wzo/pag6NWquLs81oeaWx/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+              </p>
+            </li>
+
+          </ul>
+        </div>
+        <div class="md:col-span-8">
+
+We’d love to hear from you! Whether you have a question, a story to share, or are interested in collaborating, Cambopedia welcomes your message. Get in touch with us today—we’re just an email away.
+            </div>
+
+      </div>
+    </div>
+  </section>
+</Layout>
