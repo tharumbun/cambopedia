@@ -1,5 +1,6 @@
 ---
 title: "New books on Cambodia for 2026"
+image: "https://cdn.cambopedia.com/img/IMG_4079.jpg"
 date: 2026-02-06
 categories: 
   - "book"
