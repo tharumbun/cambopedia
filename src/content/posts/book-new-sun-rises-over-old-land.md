@@ -1,5 +1,6 @@
 ---
 title: "Book on Cambodia: A New Sun Rises Over the Old Land"
+image: "https://cdn.cambopedia.com/img/phnom-penh-koh-noreah-bridge.jpg"
 date: 2026-02-06
 categories: 
   - "book"

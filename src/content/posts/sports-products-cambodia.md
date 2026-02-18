@@ -3,7 +3,7 @@ title: "Sports products every Cambodian athlete should own"
 date: 2025-07-11
 categories: 
   - "blog"
-image: "https://im.cambopedia.com/wp-content/uploads/2025/07/IMG_4205.jpg"  
+image: "https://cdn.cambopedia.com/img/decathlon_aeon_mall_sen_sok.jpg"  
 ---
 
 ## **Essential Sports Products Every Cambodian Athlete Should Own**
