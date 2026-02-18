@@ -1,5 +1,6 @@
 ---
 title: "Things to do when in Phnom Penh"
+image: "https://cdn.cambopedia.com/img/IMG_0544.jpg"
 date: 2024-04-21
 categories: 
   - "blog"
