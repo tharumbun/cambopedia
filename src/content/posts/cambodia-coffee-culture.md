@@ -1,5 +1,5 @@
 ---
-title: "Coffee culture and cafes of Cambodia"
+title: "The changing face of Cambodian cafes"
 date: 2026-01-09
 image: "https://cdn.cambopedia.com/img/R0000041.jpg"
 categories: 
