@@ -4,7 +4,7 @@ date: 2026-01-09
 image: "https://cdn.cambopedia.com/img/R0001922.jpg"
 categories: 
   - "lifestyle-shopping"
-series: ["Coffee Culture and Cafes of Cambodia", "01"]  
+series: ["Coffee Culture and Cafes of Cambodia", "01"]
 ---
 Coffee in Cambodia is not just a drink. It is a rhythm. It is part of the country’s quiet choreography—present in the first light of morning and lingering into the slow fade of evening.
 

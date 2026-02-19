@@ -1,10 +1,11 @@
 ---
-title: "The best coffee shops and cafes in Phnom Penh"
+title: "The best coffee shops and cafes in Cambodia"
 date: 2024-04-26
 image: "https://cdn.cambopedia.com/img/Brown-Coffee-Phnom-Penh.jpg"
 categories: 
   - "blog"
 coverImage: "Brown-Coffee-Phnom-Penh.jpg"
+series: ["Coffee Culture and Cafes of Cambodia", "02"]
 ---
 
 **The Journey of coffee in Cambodia: From quiet plantations to city buzz**
