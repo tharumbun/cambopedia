@@ -1,5 +1,5 @@
 ---
-title: "Phnom Penh Cafes"
+title: "Phnom Penh cafes"
 date: 2026-01-09
 image: "https://cdn.cambopedia.com/img/R0001922.jpg"
 categories: 

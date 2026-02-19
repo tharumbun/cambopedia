@@ -1,7 +1,7 @@
 ---
 title: "Coffee culture and cafes of Cambodia"
 date: 2026-01-09
-image: "https://cdn.cambopedia.com/img/R0001922.jpg"
+image: "https://cdn.cambopedia.com/img/R0000041"
 categories: 
   - "lifestyle-shopping"
 series: ["Coffee Culture and Cafes of Cambodia", "01"]
@@ -12,6 +12,15 @@ Before the city fully wakes, street vendors begin their ritual. A metal phin res
 
 On sidewalks across Phnom Penh, people gather around small tables and plastic stools. Some speak. Some scroll through their phones. Some sit alone, watching the street unfold. Coffee is often less about consumption and more about presence.
 
+<Image
+  src="https://cdn.cambopedia.com/img/starbucks-tk-avenue.jpg"
+  alt="A cafe at Royal University of Phnom Penh"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+
 In this series you will find:
 
 Coffee Culture and Cafes of Cambodia: Set 1 — Morning Rituals
@@ -19,14 +28,6 @@ Coffee Culture and Cafes of Cambodia: Set 2 — Street Coffee
 Coffee Culture and Cafes of Cambodia: Set 3 — Modern Cafes
 Coffee Culture and Cafes of Cambodia: Set 4 — People and Coffee
 Coffee Culture and Cafes of Cambodia: Set 5 — Quiet Spaces
-
-<Image
-  src="https://cdn.cambopedia.com/img/R0000661.jpg"
-  alt="A cafe at Royal University of Phnom Penh"
-  width={1920}
-  height={1280}
-  priority={false}
-/>
 
 **The Journey of coffee in Cambodia: From quiet plantations to city buzz**
 
@@ -44,6 +45,13 @@ And then came Gen Z.
 
 This generation didn’t just *consume* coffee; they redefined it. For them, coffee is creativity, identity, and community. They meet in cafés to study, create content, build startups, and collaborate on ideas. They celebrate local beans, support Cambodian growers, and value sustainability. Many see coffee as a bridge—connecting tradition with modern life, local heritage with global taste.
 
+<Image
+  src="https://cdn.cambopedia.com/img/R0000661.jpg"
+  alt="A cafe at Royal University of Phnom Penh"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 Today, Cambodia’s coffee culture stands vibrant and confident. From rustic roadside iced coffee stalls to minimalist specialty cafés, coffee has woven itself into daily life. It tells a story of resilience, adaptation, and growth—a story of how something once foreign has become beautifully Cambodian.
 
 And as Gen Z continues to brew new ideas, one thing is clear: the future of Cambodian coffee is full of energy—rich, bold, and full of possibilities, just like the country itself.

@@ -1,12 +1,11 @@
 ---
-title: "The best coffee shops and cafes in Cambodia"
+title: "The best coffee shops in Cambodia"
 date: 2024-04-26
 image: "https://cdn.cambopedia.com/img/starbucks-tk-avenue.jpg"
 categories: 
   - "blog"
-series: ["Coffee Culture and Cafes of Cambodia", "02"]
+series: ["Coffee Culture and Cafes of Cambodia", "03"]
 ---
-
 
 Are you a remote worker in Phnom Penh? Need a good cafe where you can sit with your laptop to work?
 
@@ -22,7 +21,13 @@ Once in a while, I have this ristretto at Feel Good Coffee. For me and many coff
 
 Some of the highly-rated coffee shops in Phnom Penh:
 
-1\. Brown Coffee - This coffee shop chain has several locations in Phnom Penh, known for its specialty coffee and good food. They have a cozy atmosphere and a friendly staff. 2. Riel Coffee - This coffee shop is located in the trendy BKK1 neighborhood, and it is known for its specialty coffee and great brunch menu. They have a terrace seating option and a relaxing atmosphere. 3. Blue Pumpkin - This café chain is popular in Phnom Penh, and it is known for its homemade ice cream and pastries. They offer a cozy atmosphere, and it's a good spot for a sweet treat. 4. The Little Red Fox Espresso - This small but popular coffee shop is known for its specialty coffee and cozy atmosphere. They offer a great selection of coffee beans and a variety of sandwiches and pastries. 5. The Shop - This coffee shop is located in a restored colonial-era building, and it is known for its specialty coffee, good food, and unique atmosphere. They have indoor and outdoor seating, and it's a great spot for a relaxing coffee break.
+1. Brown Coffee - This coffee shop chain has several locations in Phnom Penh, known for its specialty coffee and good food. They have a cozy atmosphere and a friendly staff. 
+
+2. Riel Coffee - This coffee shop is located in the trendy BKK1 neighborhood, and it is known for its specialty coffee and great brunch menu. They have a terrace seating option and a relaxing atmosphere. 
+
+3. Blue Pumpkin - This café chain is popular in Phnom Penh, and it is known for its homemade ice cream and pastries. They offer a cozy atmosphere, and it's a good spot for a sweet treat. 
+
+4. The Little Red Fox Espresso - This small but popular coffee shop is known for its specialty coffee and cozy atmosphere. They offer a great selection of coffee beans and a variety of sandwiches and pastries. 
 
 These coffee shops are known for their specialty coffee and good food, they are also located in different neighborhoods, so you can choose the one that is closer to you or the one with the atmosphere that you prefer.
 
