@@ -1,7 +1,7 @@
 // Site configuration
 export const siteConfig = {
   // Site details from config.json:site
-  title: "Cambopedia", // from config.json:site.title
+  title: "Cambopedia | Your local guide to Cambodian culture & travel", // from config.json:site.title
   // description is used from existing site.ts, will be updated by config.json:metadata.meta_description
   // url is removed, Astro.site will be used
 
@@ -13,7 +13,7 @@ export const siteConfig = {
 
   // SEO metadata from config.json:metadata
   author: "Cambopedian", // from config.json:metadata.meta_author
-  description: "Rediscover Cambodia", // from config.json:metadata.meta_description
+  description: "Join Cambopedia to rediscover Cambodia through a local lens. Explore travel guides, coffee culture, hidden gems, and the latest books on the Kingdom of Wonder.", // from config.json:metadata.meta_description
   ogImage: "/images/og-image.png", // from config.json:metadata.meta_image (replaces defaultImage)
 
   // Pagination settings from config.json:settings
