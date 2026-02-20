@@ -5,6 +5,8 @@ import mdx from '@astrojs/mdx';
 import icon from 'astro-icon';
 import sitemap from '@astrojs/sitemap';
 import path from 'path';
+// 1. ADD THIS IMPORT
+import partytown from '@astrojs/partytown';
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,18 +19,12 @@ export default defineConfig({
   // Configure Vite plugins and server settings
   vite: {
     plugins: [
-      tailwindcss() // Reverted to simpler form, configPath removed
+      tailwindcss() 
     ],
     server: {
       fs: {
         allow: [
-          // Allow the project root (default)
           '.',
-          // Allow the src/assets directory to be served directly during development.
-          // This is needed for cases where assets from src/assets/ are referenced
-          // by direct string paths (e.g., in Markdown frontmatter processed by pages)
-          // instead of ESM imports. For example, the image specified in 
-          // 'src/content/about/index.md' and used by 'src/pages/about.astro'.
           path.resolve('./src/assets'),
         ],
       },
@@ -36,5 +32,16 @@ export default defineConfig({
   },
   
   // Configure Astro integrations
-  integrations: [mdx(), icon(), sitemap()]
+  // 2. ADD THE PARTYTOWN FUNCTION HERE
+  integrations: [
+    mdx(), 
+    icon(), 
+    sitemap(),
+    partytown({
+      config: {
+        // This is the critical part for Google Analytics 4
+        forward: ["gtag", "dataLayer.push"],
+      },
+    }),
+  ]
 });
