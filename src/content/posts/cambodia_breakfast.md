@@ -17,18 +17,29 @@ series: ["Cambodian food culture", "05"]
 
 From the bustling streets of Phnom Penh to the quiet villages of Kampot, breakfast in Cambodia is more than just a meal—it’s a window into daily life, culture, and community.
 
+<Image 
+  src="https://cdn.cambopedia.com/img/fried_chicken_rice.jpg" 
+  alt="Khmer food" 
+  width={800} 
+  height={600} 
+/>
+
+
 This photo series captures the rich variety of Cambodian breakfasts, from steamy bowls of kuy teav (rice noodle soup) served at roadside stalls to freshly grilled pork and rice (bai sach chrouk) in the early morning light. You'll also find sweet sticky rice with banana, warm num banh chok (fermented rice noodle curry), and strong iced coffee that fuels the nation’s morning routine.
+
+<Image 
+  src="https://cdn.cambopedia.com/img/khmer_food00002.jpeg" 
+  alt="Kuy teav" 
+  width={800} 
+  height={600} 
+/>
+Kuy teav for breakfast? A beloved Cambodian noodle soup with strong Chinese influences. Rice noodles in a clear, savory pork or beef broth!
 
 Each image tells a story of tradition, flavor, and the people who make breakfast an experience worth waking up for. Whether it’s prepared at home or picked up on the go, these snapshots offer a delicious glimpse into how Cambodia starts its day.
 
 Stay with us as we journey through the sights, colors, and textures of Cambodian breakfasts—one photo at a time.
 
-<Image 
-  src="https://cdn.cambopedia.com/img/khmer_food00037.jpeg" 
-  alt="Khmer food" 
-  width={800} 
-  height={600} 
-/>
+
 
 <Image 
   src="https://cdn.cambopedia.com/img/khmer_food00039.jpeg" 
