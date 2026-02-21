@@ -48,7 +48,6 @@ Lok Lak – Stir-fried beef in a pepper-lime sauce, often served with rice and a
 
 Prahok Ktis – A rich, creamy dip made from fermented fish (prahok), coconut milk, pork, and herbs. Eaten with raw vegetables.
 
-khmer_food00060.jpeg
 <Image 
   src="https://cdn.cambopedia.com/img/khmer_food00060.jpeg" 
   alt="Khmer food" 
@@ -124,18 +123,3 @@ Banana blossom salad (plea l’hong)
   width={800} 
   height={600} 
 />
-
-
-Desserts:
-Num Ansom Chek – Sticky rice and banana wrapped in banana leaf.
-
-Chek Ktiss – Banana with coconut milk.
-
-Pumpkin custard (Sankhya lapov) – Pumpkin filled with coconut custard.
-
-Drinks:
-Sugarcane juice (Tuk Ampov)
-
-Iced coffee with sweetened condensed milk
-
-Herbal teas (lemongrass, pandan, etc.)
