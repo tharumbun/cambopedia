@@ -10,7 +10,7 @@ In the early morning hours in Phnom Penh, before the heat settles over the city,
 
 Over the past decade, Cambodia has witnessed a remarkable rise in specialty coffee. What was once dominated by sweetened iced coffee poured through metal drip filters has evolved into a diverse and sophisticated scene of espresso bars, independent roasters, and passionate coffee communities. This transformation is not just about taste—it is about identity, creativity, and connection.
 
-## A Shift in taste and awareness
+## A shift in taste and awareness
 Traditional Cambodian coffee culture has long favored strong, dark brews mixed with condensed milk, often enjoyed slowly at roadside stalls or neighborhood cafés. These spaces remain deeply important. They are places of conversation, business, and daily pause.
 
 But a new generation of coffee drinkers—young professionals, creatives, students, and entrepreneurs—have begun to explore coffee differently. They are asking new questions: Where are the beans from? How were they roasted? What flavors can be discovered beyond bitterness and sweetness?
@@ -29,9 +29,25 @@ Cafe owners, in turn, have become storytellers. They speak about roast profiles,
 
 This attention to detail creates trust—and loyal communities.
 
+<Image
+  src="https://cdn.cambopedia.com/img/IMG_6745.jpeg"
+  alt="A cafe at Royal University of Phnom Penh"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
 ## Cambodian beans: An untapped potential
 
 Cambodia is not new to coffee farming. Coffee has been grown in the country for over a century, particularly in Mondulkiri and Ratanakiri provinces. The fertile soil and favorable climate offer strong potential for producing high-quality beans.
+
+<Image
+  src="https://cdn.cambopedia.com/img/IMG_5992.jpeg"
+  alt="A cafe at Royal University of Phnom Penh"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 For years, however, Cambodian coffee remained largely unrecognized internationally. Limited infrastructure, inconsistent processing, and lack of market access made it difficult for farmers to compete with established coffee-producing countries.
 
