@@ -8,6 +8,8 @@ categories:
 
 Kirisu dairy is the only fresh milk produced by cows in Cambodia, — though it's noted that other farms (like Moo Moo and Angkormilk) also contribute to fresh milk production.
 
+[From bean to cup: The rise of specialty coffee in Cambodia](https://cambopedia.com/cambodia-specialty-coffee-bean/)
+
 1. Kirisu Farm – Kirisu Dairy Products
 
 Produced by Khmer Fresh Milk Co Ltd at Kirisu Farm in Takeo province, near Phnom Penh, this brand offers a wide range of fresh, farm-made dairy products:

@@ -12,6 +12,8 @@ Before the city fully wakes, street vendors begin their ritual. A metal phin res
 
 On sidewalks across Phnom Penh, people gather around small tables and plastic stools. Some speak. Some scroll through their phones. Some sit alone, watching the street unfold. Coffee is often less about consumption and more about presence.
 
+[From bean to cup: The rise of specialty coffee in Cambodia](https://cambopedia.com/cambodia-specialty-coffee-bean/)
+
 <Image
   src="https://cdn.cambopedia.com/img/starbucks-tk-avenue.jpg"
   alt="A cafe at Royal University of Phnom Penh"
