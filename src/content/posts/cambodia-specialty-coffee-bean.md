@@ -3,17 +3,35 @@ title: "From bean to cup: The rise of specialty coffee in Cambodia"
 image: "https://cdn.cambopedia.com/img/R0000661.jpg"
 date: 2026-02-20
 categories: 
-  - "book"
+  - "lifestyle-shopping"
+series: ["Coffee Culture and Cafes of Cambodia", "04"]
 ---
 
 In the early morning hours in Phnom Penh, before the heat settles over the city, the first customers begin to arrive. Some come for routine, others for ritual. A quiet nod to the barista. The soft hum of a grinder. The aroma of freshly roasted beans rising into the air. Coffee, once a simple drink, has become something more in Cambodia. It has become a culture, a craft, and for many, a way of life.
 
+<Image
+  src="https://cdn.cambopedia.com/img/R0000473.JPG"
+  alt="Brown Coffee shop at TK Avenue"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
 Over the past decade, Cambodia has witnessed a remarkable rise in specialty coffee. What was once dominated by sweetened iced coffee poured through metal drip filters has evolved into a diverse and sophisticated scene of espresso bars, independent roasters, and passionate coffee communities. This transformation is not just about taste—it is about identity, creativity, and connection.
+
 
 ## A shift in taste and awareness
 Traditional Cambodian coffee culture has long favored strong, dark brews mixed with condensed milk, often enjoyed slowly at roadside stalls or neighborhood cafés. These spaces remain deeply important. They are places of conversation, business, and daily pause.
 
 But a new generation of coffee drinkers—young professionals, creatives, students, and entrepreneurs—have begun to explore coffee differently. They are asking new questions: Where are the beans from? How were they roasted? What flavors can be discovered beyond bitterness and sweetness?
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000015.jpg"
+  alt="Brown Coffee shop at TK Avenue"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 Specialty coffee answers these questions. It emphasizes quality at every stage, from sourcing and roasting to brewing and serving. The focus is on transparency, craftsmanship, and flavor complexity—notes of chocolate, fruit, caramel, or florals that reflect the origin of the bean.
 
@@ -25,9 +43,26 @@ Walk through Phnom Penh today, and you will find a growing number of independent
 
 These cafés are more than businesses. They are cultural spaces. They host meetings, creative work sessions, first dates, and quiet moments of reflection. For many young Cambodians, cafés have become an extension of their personal and professional lives.
 
+<Image
+  src="https://cdn.cambopedia.com/img/R0000060.jpg"
+  alt="Brown Coffee shop at TK Avenue"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
 Cafe owners, in turn, have become storytellers. They speak about roast profiles, brewing methods, and the journey of each bean. Some roast their own coffee locally, helping to build Cambodia’s emerging roasting ecosystem. Others collaborate with regional and international suppliers to bring diverse flavors to local customers.
 
 This attention to detail creates trust—and loyal communities.
+
+## Cambodian beans: An untapped potential
+
+Cambodia is not new to coffee farming. Coffee has been grown in the country for over a century, particularly in Mondulkiri and Ratanakiri provinces. The fertile soil and favorable climate offer strong potential for producing high-quality beans.
+
+
+For years, however, Cambodian coffee remained largely unrecognized internationally. Limited infrastructure, inconsistent processing, and lack of market access made it difficult for farmers to compete with established coffee-producing countries.
+
+Today, that is beginning to change.
 
 <Image
   src="https://cdn.cambopedia.com/img/IMG_6745.jpeg"
@@ -37,9 +72,11 @@ This attention to detail creates trust—and loyal communities.
   priority={false}
 />
 
-## Cambodian beans: An untapped potential
+Local roasters and specialty cafés are increasingly sourcing Cambodian-grown beans, working directly with farmers to improve quality and consistency. This direct relationship not only improves the final product but also creates economic opportunities for rural communities.
 
-Cambodia is not new to coffee farming. Coffee has been grown in the country for over a century, particularly in Mondulkiri and Ratanakiri provinces. The fertile soil and favorable climate offer strong potential for producing high-quality beans.
+For coffee lovers, this means something profound: the ability to drink coffee grown in their own country, roasted locally, and served fresh.
+
+It is coffee with a sense of place.
 
 <Image
   src="https://cdn.cambopedia.com/img/IMG_5992.jpeg"
@@ -48,16 +85,6 @@ Cambodia is not new to coffee farming. Coffee has been grown in the country for 
   height={1280}
   priority={false}
 />
-
-For years, however, Cambodian coffee remained largely unrecognized internationally. Limited infrastructure, inconsistent processing, and lack of market access made it difficult for farmers to compete with established coffee-producing countries.
-
-Today, that is beginning to change.
-
-Local roasters and specialty cafés are increasingly sourcing Cambodian-grown beans, working directly with farmers to improve quality and consistency. This direct relationship not only improves the final product but also creates economic opportunities for rural communities.
-
-For coffee lovers, this means something profound: the ability to drink coffee grown in their own country, roasted locally, and served fresh.
-
-It is coffee with a sense of place.
 
 ## The Vietnamese influence: expanding diversity and quality
 
@@ -94,6 +121,14 @@ Coffee connects people. It brings strangers into shared spaces. It supports loca
 For café owners, building a coffee business today is not only about selling drinks—it is about building environments where people feel welcome and inspired.
 
 For customers, cafés offer something rare in a fast-changing world: a place to slow down.
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0001053.JPG"
+  alt="Brown Coffee shop at TK Avenue"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 ## Challenges and opportunities ahead
 
