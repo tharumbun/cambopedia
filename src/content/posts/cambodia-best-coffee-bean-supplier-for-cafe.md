@@ -1,6 +1,6 @@
 ---
 title: "Best coffee bean distributor for specialty cafes in Cambodia"
-image: "https://cdn.cambopedia.com/img/R0000661.jpg"
+image: "https://cdn.cambopedia.com/img/R0001845.JPG"
 date: 2026-02-20
 categories: 
   - "lifestyle-shopping"
