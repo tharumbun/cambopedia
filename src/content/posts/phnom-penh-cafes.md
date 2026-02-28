@@ -4,7 +4,7 @@ date: 2026-01-09
 image: "https://cdn.cambopedia.com/img/R0001922.jpg"
 categories: 
   - "lifestyle-shopping"
-series: ["Coffee Culture and Cafes of Cambodia", "02"]  
+series: ["Coffee culture and cafes of Cambodia", "02"]  
 ---
 Phnom Penh, one cup at a time
 

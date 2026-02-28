@@ -4,7 +4,7 @@ image: "https://cdn.cambopedia.com/img/R0000661.jpg"
 date: 2026-02-20
 categories: 
   - "lifestyle-shopping"
-series: ["Coffee Culture and Cafes of Cambodia", "04"]
+series: ["Coffee culture and cafes of Cambodia", "04"]
 ---
 
 In the early morning hours in Phnom Penh, before the heat settles over the city, the first customers begin to arrive. Some come for routine, others for ritual. A quiet nod to the barista. The soft hum of a grinder. The aroma of freshly roasted beans rising into the air. Coffee, once a simple drink, has become something more in Cambodia. It has become a culture, a craft, and for many, a way of life.

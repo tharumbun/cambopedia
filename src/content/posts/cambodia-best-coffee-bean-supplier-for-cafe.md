@@ -17,8 +17,6 @@ In the early morning hours in Phnom Penh, before the heat settles over the city,
   priority={false}
 />
 
----
-
 ### The coffee war in Phnom Penh
 
 It’s 6:30 AM in Phnom Penh. The humidity is already rising, and the sound of motos is beginning its daily crescendo. In a small, stylishly minimalist café near TK Avenue, the owner, Letty, is doing something that would have been rare five years ago: adjusting the grind on a commercial espresso machine for a high-altitude Arabica blend.
@@ -29,8 +27,6 @@ Letty sees them walk past her shop every morning to the larger, branded kiosks. 
 
 If you are a café owner in Letty’s shoes, you know that the "coffee boom" in Cambodia is both an opportunity and a relentless challenge. The battle isn’t won on branding; it’s won on **bean consistency, reliable supply, and doorstep delivery.**
 
----
-
 ### Why specialty cafés are searching beyond purity
 
 The first question Letty asked—*“Where to buy premium Vietnamese coffee in Phnom Penh?”*—reveals a crucial trend. The growing Cambodian palate isn’t abandoning its roots; it’s refining them. Vietnamese coffee, renowned for its strong, smooth heritage, is the bedrock of the Southeast Asian experience. But today's "premium" doesn’t just mean "dark." It means meticulously sourced, specialty-grade Robusta and Arabica.
@@ -40,8 +36,6 @@ As a café owner, your challenge is **Consistency.**
 You cannot afford for your house blend to taste like chocolate one week and burnt rubber the next. This happens when you rely on multiple small retail suppliers or inconsistent imports. Specialty café consumers notice. They won’t tell you it tasted different; they will just go to your competitor.
 
 The search for the best coffee bean distributor for specialty cafés in Cambodia isn't a search for the lowest price—it's a search for a **logistics and quality partner.**
-
----
 
 ### Partnering for growth: What to look for in a supplier and a distributor
 
