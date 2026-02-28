@@ -38,7 +38,15 @@ import { siteConfig } from '@config/site'; // Import siteConfig
 </Layout>
 
 <!-- Import Fuse.js from CDN -->
-<script is:inline src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+<script is:inline data-pt-ignore src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+<script is:inline data-pt-ignore>
+  async function initSearch() {
+    // ... your existing code ...
+  }
+  document.addEventListener('DOMContentLoaded', initSearch);
+  document.addEventListener('astro:page-load', initSearch);
+</script>
 
 <script is:inline>
   // Loading spinner HTML
