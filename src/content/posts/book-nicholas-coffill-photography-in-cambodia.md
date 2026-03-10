@@ -47,7 +47,7 @@ Coffill explores how these photographs later transformed—from instruments of o
 
 ## Beyond war and angkor
 
-Another compelling element of the book is its effort to expand Cambodia’s photographic narrative beyond familiar clichés. Cambodia is often visually reduced to three dominant images: Angkor Wat, royal portraits, and Khmer Rouge atrocity photographs. ([Asian Review of Books][2])
+Another compelling element of the book is its effort to expand Cambodia’s photographic narrative beyond familiar clichés. Cambodia is often visually reduced to three dominant images: Angkor Wat, royal portraits, and Khmer Rouge atrocity photographs.
 
 Coffill’s collection pushes beyond that.
 
@@ -75,10 +75,10 @@ The result is a diverse archive showing how Cambodia has been seen both by outsi
 
 ## A book that teaches you how to see
 
-What makes *Photography in Cambodia: 1866 to the Present* particularly engaging is Coffill’s background as a museum exhibition designer. The book originated from a theater project called **“SNAP! 150 Years of Photography in Cambodia”**, which combined images, music, and storytelling before evolving into the book. 
+What makes [Photography in Cambodia: 1866 to the Present](https://nicholascoffill.org/photography-cambodia) particularly engaging is Coffill’s background as a museum exhibition designer. The book originated from a theater project called **“SNAP! 150 Years of Photography in Cambodia”**, which combined images, music, and storytelling before evolving into the book. 
 
 That theatrical sensibility is visible in the book’s pacing. The photographs feel curated like scenes in a story rather than simply arranged chronologically.
 
 
-[1]: https://www.barnesandnoble.com/w/photography-in-cambodia-nicholas-coffill/1139890214?utm_source=chatgpt.com "Photography in Cambodia: 1866 to the Present by Nicholas Coffill, Hardcover | Barnes & Noble®"
-[2]: https://asianreviewofbooks.com/photography-in-cambodia-1866-to-the-present-by-nicholas-coffill/?utm_source=chatgpt.com "“Photography in Cambodia: 1866 to the Present” by Nicholas Coffill – Asian Review of Books"
+[1]: https://www.barnesandnoble.com/w/photography-in-cambodia-nicholas-coffill/1139890214 "Photography in Cambodia: 1866 to the Present by Nicholas Coffill, Hardcover | Barnes & Noble®"
+[2]: https://asianreviewofbooks.com/photography-in-cambodia-1866-to-the-present-by-nicholas-coffill/ "“Photography in Cambodia: 1866 to the Present” by Nicholas Coffill – Asian Review of Books"
