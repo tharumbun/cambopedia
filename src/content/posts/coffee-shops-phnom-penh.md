@@ -4,7 +4,7 @@ date: 2024-04-26
 image: "https://cdn.cambopedia.com/img/starbucks-tk-avenue.jpg"
 categories: 
   - "blog"
-series: ["Coffee Culture and Cafes of Cambodia", "03"]
+series: ["Coffee culture and cafes of Cambodia", "03"]
 ---
 
 Are you a remote worker in Phnom Penh? Need a good cafe where you can sit with your laptop to work?
