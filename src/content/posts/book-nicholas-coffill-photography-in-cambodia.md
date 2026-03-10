@@ -14,8 +14,8 @@ Published in 2022 by Tuttle Publishing, the book brings together nearly 500 phot
 
 
 <Image
-  src="https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1583034676i/52062171.jpg"
-  alt="Koh Dach in pictures"
+  src="https://m.media-amazon.com/images/I/81ydq4mYawL._SL1500_.jpg"
+  alt="Photography in Cambodia"
   width={1920}
   height={1280}
   priority={false}
@@ -24,7 +24,7 @@ Published in 2022 by Tuttle Publishing, the book brings together nearly 500 phot
 
 ## A visual history of Cambodia
 
-One of the strengths of the book lies in its historical structure. Coffill organizes the narrative chronologically, dividing the book into chapters corresponding to major political periods in Cambodian history—from the colonial era to contemporary Cambodia. ([Asian Review of Books][2])
+One of the strengths of the book lies in its historical structure. Coffill organizes the narrative chronologically, dividing the book into chapters corresponding to major political periods in Cambodian history—from the colonial era to contemporary Cambodia.
 
 The journey begins in the 1860s, when photography first arrived alongside French colonial presence. Some of the earliest images include photographs of Angkor temples and royal portraits taken by European photographers exploring the region. These images reveal a Cambodia that was just beginning to be documented through modern technology.
 
