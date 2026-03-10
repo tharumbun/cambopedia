@@ -1,6 +1,6 @@
 ---
 title: "Photography in Cambodia: 1866 to the Present by Nicholas Coffill"
-image: "https://cdn.cambopedia.com/img/R0001710.JPG"
+image: "https://cdn.cambopedia.com/img/R0000013.jpg"
 date: 2026-03-10
 categories: 
   - "book"
