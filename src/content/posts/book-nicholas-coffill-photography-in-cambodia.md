@@ -61,7 +61,6 @@ Readers encounter photographs of:
 
 These images highlight something often overlooked: everyday Cambodian life has always continued, even through periods of political turmoil.
 
----
 
 ## A global archive of cambodia
 
@@ -71,7 +70,6 @@ Coffill spent years gathering photographs from collections across Europe, North 
 
 The result is a diverse archive showing how Cambodia has been seen both by outsiders and by Cambodians themselves.
 
----
 
 ## A book that teaches you how to see
 
