@@ -9,27 +9,20 @@ series: ["Coffee culture and cafes of Cambodia", "05"]
 
 In the early morning hours in Phnom Penh, before the heat settles over the city, the first customers begin to arrive. Some come for routine, others for ritual. A quiet nod to the barista. The soft hum of a grinder. The aroma of freshly roasted beans rising into the air. Coffee, once a simple drink, has become something more in Cambodia. It has become a culture, a craft, and for many, a way of life.
 
-<Image
-  src="https://cdn.cambopedia.com/img/R0000473.JPG"
-  alt="Brown Coffee shop at TK Avenue"
-  width={1920}
-  height={1280}
-  priority={false}
-/>
 
 ### The coffee war in Phnom Penh
 
-It’s 6:30 AM in Phnom Penh. The humidity is already rising, and the sound of motos is beginning its daily crescendo. In a small, stylishly minimalist café near TK Avenue, the owner, Letty, is doing something that would have been rare five years ago: adjusting the grind on a commercial espresso machine for a high-altitude Arabica blend.
+It’s 6:30 AM in Phnom Penh. The humidity is already rising, and the sound of motos is beginning its daily crescendo. In a small, stylishly minimalist café near TK Avenue, the owner, Bopha, is doing something that would have been rare five years ago: adjusting the grind on a commercial espresso machine for a high-altitude Arabica blend.
 
 For decades, Cambodian coffee culture was defined by one taste: strong, dark-roasted Robusta, brewed slowly through a *phin* filter, and served over a thick layer of sweetened condensed milk. But today, a new generation of Cambodian consumers—Gen Z women entering the workforce, students, and young professionals—are demanding more. They want lattes, cold brews, and complex flavor profiles featuring cranberry, pecan, or cacao notes.
 
-Letty sees them walk past her shop every morning to the larger, branded kiosks. She knows her pastries are better. She knows her space is cozier. But she has a secret fear. *“Is my coffee consistent enough to keep them coming back?”* she wonders. *“Where do the big shops buy premium Vietnamese coffee in Phnom Penh? Who is the best coffee bean distributor for specialty cafes in Cambodia?”*
+Bopha sees them walk past her shop every morning to the larger, branded kiosks. She knows her pastries are better. She knows her space is cozier. But she has a secret fear. *“Is my coffee consistent enough to keep them coming back?”* she wonders. *“Where do the big shops buy premium Vietnamese coffee in Phnom Penh? Who is the best coffee bean distributor for specialty cafes in Cambodia?”*
 
-If you are a café owner in Letty’s shoes, you know that the "coffee boom" in Cambodia is both an opportunity and a relentless challenge. The battle isn’t won on branding; it’s won on **bean consistency, reliable supply, and doorstep delivery.**
+If you are a café owner in Bopha’s shoes, you know that the "coffee boom" in Cambodia is both an opportunity and a relentless challenge. The battle isn’t won on branding; it’s won on **bean consistency, reliable supply, and doorstep delivery.**
 
 ### Why specialty cafés are searching beyond purity
 
-The first question Letty asked—*“Where to buy premium Vietnamese coffee in Phnom Penh?”*—reveals a crucial trend. The growing Cambodian palate isn’t abandoning its roots; it’s refining them. Vietnamese coffee, renowned for its strong, smooth heritage, is the bedrock of the Southeast Asian experience. But today's "premium" doesn’t just mean "dark." It means meticulously sourced, specialty-grade Robusta and Arabica.
+The first question Bopha asked—*“Where to buy premium Vietnamese coffee in Phnom Penh?”*—reveals a crucial trend. The growing Cambodian palate isn’t abandoning its roots; it’s refining them. Vietnamese coffee, renowned for its strong, smooth heritage, is the bedrock of the Southeast Asian experience. But today's "premium" doesn’t just mean "dark." It means meticulously sourced, specialty-grade Robusta and Arabica.
 
 As a café owner, your challenge is **Consistency.**
 
@@ -39,11 +32,21 @@ The search for the best coffee bean distributor for specialty cafés in Cambodia
 
 ### Partnering for growth: What to look for in a supplier and a distributor
 
-When Letty finally decided to switch from retail sourcing to a dedicated wholesale distributor, she looked for three critical "Golden Standards." These are what you should demand from your supplier partnership:
+When Bopha finally decided to switch from retail sourcing to a dedicated wholesale distributor, she looked for three critical "Golden Standards." These are what you should demand from your supplier partnership:
 
 #### 1. Traceability and origin expertise
 
-Your distributor should be able to tell you exactly where your beans came from. At Aurum Bean, we take pride in bridging the gap between elite Vietnamese coffee bean suppliers and the modern Cambodian market. For example, our signature **Lacàph Espresso Blend** isn't just a generic mix; it's an 80/20 Arabica-Robusta split, featuring beans from specific regions like Đắk Lắk (Robusta) and Lâm Đồng (Arabica). This traceability guarantees that the flavor profile remains identical, bag after bag. [Aurum Bean](https://aurumbean.com/) is a Phnom Penh-based supplier of Vietnamese coffee beans
+Your distributor should be able to tell you exactly where your beans came from. At Aurum Bean, we take pride in bridging the gap between elite Vietnamese coffee bean suppliers and the modern Cambodian market. For example, our signature **Lacàph Espresso Blend** isn't just a generic mix; it's an 80/20 Arabica-Robusta split, featuring beans from specific regions like Đắk Lắk (Robusta) and Lâm Đồng (Arabica). This traceability guarantees that the flavor profile remains identical, bag after bag. 
+
+[Aurum Bean](https://aurumbean.com/) is a Phnom Penh-based supplier of Vietnamese coffee beans
+
+<Image
+  src="https://cdn.cambopedia.com/img/R0000473.JPG"
+  alt="Brown Coffee shop at TK Avenue"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 #### 2. Technical specs over marketing buzzwords
 
@@ -61,6 +64,6 @@ Your café doesn’t have warehouse space. You need a partner who understands ju
 
 The coffee culture near TK Avenue, and across Phnom Penh, will only get more competitive. Mobile carts, minimalist kiosks, and branded roasteries are populating every corner. To survive, and thrive, you must stop being just a coffee retailer and start being a quality curator.
 
-Letty found her answer. By partnering with a dedicated distributor, she no longer worries about her beans. Her baristas have the specifications they need. Her customers have the consistency they crave. Letty’s café near TK Avenue is no longer just "cozy"—it’s known for serving the "golden standard" of specialty coffee.
+Bopha found her answer. By partnering with a dedicated distributor, she no longer worries about her beans. Her baristas have the specifications they need. Her customers have the consistency they crave. Bopha’s café near TK Avenue is no longer just "cozy"—it’s known for serving the "golden standard" of specialty coffee.
 
 Don't let your café’s growth be stunted by inconsistent supply. You already have the passion. We have the dependable, high-quality beansworthy of being called golden.
