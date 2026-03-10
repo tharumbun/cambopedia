@@ -1,12 +1,12 @@
 ---
-title: "Photography in Cambodia"
+title: "Photography in Cambodia: 1866 to the Present by Nicholas Coffill"
 image: "https://cdn.cambopedia.com/img/phnom-penh-koh-noreah-bridge.jpg"
 date: 2026-03-10
 categories: 
   - "book"
 ---
 
-## Book Review: *Photography in Cambodia: 1866 to the Present* by Nicholas Coffill
+## Book review: *Photography in Cambodia: 1866 to the Present* by Nicholas Coffill
 
 In a country where history is often told through ruins, memories, and scars, photography offers another powerful archive. *Photography in Cambodia: 1866 to the Present* by Nicholas Coffill is a remarkable attempt to trace Cambodia’s modern history through the lens of those who photographed it. More than just a photography collection, the book reads like a visual history of the nation itself.
 
@@ -22,7 +22,7 @@ Published in 2022 by Tuttle Publishing, the book brings together nearly 500 phot
 />
 
 
-## A Visual History of Cambodia
+## A visual history of Cambodia
 
 One of the strengths of the book lies in its historical structure. Coffill organizes the narrative chronologically, dividing the book into chapters corresponding to major political periods in Cambodian history—from the colonial era to contemporary Cambodia. ([Asian Review of Books][2])
 
@@ -39,15 +39,13 @@ From there, the book moves through:
 Photography becomes not just art, but evidence—capturing everyday life, political power, cultural identity, and tragedy.
 
 
-## Photography as Witness
+## Photography as witness
 
-Perhaps the most powerful section of the book deals with the period of the Khmer Rouge. Photography during this era carries a heavy historical weight. Images from prisons such as Tuol Sleng (S-21) became part of the regime’s bureaucratic machinery, documenting victims before their deaths. ([Asian Review of Books][2])
+Perhaps the most powerful section of the book deals with the period of the Khmer Rouge. Photography during this era carries a heavy historical weight. Images from prisons such as Tuol Sleng (S-21) became part of the regime’s bureaucratic machinery, documenting victims before their deaths.
 
 Coffill explores how these photographs later transformed—from instruments of oppression into historical testimony used in archives, museums, and tribunals. The images remind readers that photography is not neutral; it can serve propaganda, surveillance, memory, and justice.
 
----
-
-## Beyond War and Angkor
+## Beyond war and angkor
 
 Another compelling element of the book is its effort to expand Cambodia’s photographic narrative beyond familiar clichés. Cambodia is often visually reduced to three dominant images: Angkor Wat, royal portraits, and Khmer Rouge atrocity photographs. ([Asian Review of Books][2])
 
@@ -65,7 +63,7 @@ These images highlight something often overlooked: everyday Cambodian life has a
 
 ---
 
-## A Global Archive of Cambodia
+## A global archive of cambodia
 
 The book also reveals an interesting truth about Cambodia’s visual history: much of it was recorded by foreigners. Early photographers included explorers, colonial officials, travelers, and journalists. In fact, identifiable Cambodian photographers are difficult to trace before the 1970s.
 
@@ -75,30 +73,11 @@ The result is a diverse archive showing how Cambodia has been seen both by outsi
 
 ---
 
-## A Book That Teaches You How to See
+## A book that teaches you how to see
 
 What makes *Photography in Cambodia: 1866 to the Present* particularly engaging is Coffill’s background as a museum exhibition designer. The book originated from a theater project called **“SNAP! 150 Years of Photography in Cambodia”**, which combined images, music, and storytelling before evolving into the book. 
 
 That theatrical sensibility is visible in the book’s pacing. The photographs feel curated like scenes in a story rather than simply arranged chronologically.
-
-Each image invites the reader to pause—not just to admire composition, but to ask questions:
-
-Who took this photograph?
-Why was this moment recorded?
-What story does it tell about Cambodia?
-
----
-
-## Final Thoughts
-
-*Photography in Cambodia: 1866 to the Present* is more than a photography book. It is a visual archive of a nation navigating colonialism, independence, war, and renewal.
-
-For readers interested in Cambodian history, photography, or Southeast Asian culture, the book provides something rare: a long historical view told almost entirely through images.
-
-By assembling photographs scattered across continents, Nicholas Coffill has created a work that allows Cambodians—and the world—to see the country’s past through a new lens.
-
-And perhaps most importantly, the book reminds us that photography does not just capture history.
-It helps us remember it.
 
 
 [1]: https://www.barnesandnoble.com/w/photography-in-cambodia-nicholas-coffill/1139890214?utm_source=chatgpt.com "Photography in Cambodia: 1866 to the Present by Nicholas Coffill, Hardcover | Barnes & Noble®"
