@@ -50,5 +50,12 @@ For readers interested in Cambodian storytelling, his short stories provide more
 
 In an era when Cambodia is rediscovering and rebuilding its cultural memory, writers like Chuth Khay remind us that literature is not only about stories. It is also about preserving the voices, humor, and imagination of a society.
 
+In recent years, the works of Chuth Khay have found renewed life through republication, allowing a new generation of readers to rediscover one of Cambodia’s most distinctive literary voices. Among the publishers helping to revive his stories is [Avatar Book Publishing House](https://www.avatarcambodia.com/), which has played an important role in bringing his classic works back into circulation.
 
+Avatar Book Publishing House has republished several of Chuth Khay’s works, giving readers access to stories that once circulated in Cambodia before the country’s literary scene was disrupted.
 
+One of the most well-known titles is “មេម៉ាយប្ដី៥” (Widow of Five Husbands). The story’s intriguing title immediately draws attention and reflects Chuth Khay’s playful yet critical storytelling style. Through humor and exaggeration, the narrative explores themes of marriage, gossip, and the social expectations placed on women in traditional communities.
+
+Another notable work republished by Avatar is “ខ្មោច ខ្មាំង និងសត្វអមនុស្សផ្សេងៗ”, often translated as Ghouls, Ghosts, and Other Infernal Creatures. This collection blends supernatural folklore with social satire. While the stories reference ghosts and spirits familiar in Khmer beliefs, they often reveal deeper truths about human behavior, fear, and superstition.
+
+These republications are significant because many younger Cambodians have had limited access to pre-1975 literary works. By printing and distributing these stories again, Avatar helps reconnect readers with a part of Cambodia’s cultural past.
