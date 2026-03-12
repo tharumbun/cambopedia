@@ -1,7 +1,7 @@
 ---
 title: "Who's Chuth Khay?"
 image: "https://cdn.cambopedia.com/img/chuth-khay.jpg"
-date: 2026-03-011
+date: 2026-03-11
 categories: 
   - "blog"
 ---
