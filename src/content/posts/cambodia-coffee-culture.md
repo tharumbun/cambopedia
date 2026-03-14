@@ -23,14 +23,6 @@ On sidewalks across Phnom Penh, people gather around small tables and plastic st
 />
 
 
-In this series you will find:
-
-Coffee Culture and Cafes of Cambodia: Set 1 — Morning Rituals
-Coffee Culture and Cafes of Cambodia: Set 2 — Street Coffee
-Coffee Culture and Cafes of Cambodia: Set 3 — Modern Cafes
-Coffee Culture and Cafes of Cambodia: Set 4 — People and Coffee
-Coffee Culture and Cafes of Cambodia: Set 5 — Quiet Spaces
-
 **The Journey of coffee in Cambodia: From quiet plantations to city buzz**
 
 Long before the aroma of espresso drifted through Phnom Penh’s buzzing streets, coffee in Cambodia began quietly—rooted in red soil, shaded by tall trees, and nurtured by time.
