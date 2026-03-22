@@ -13,9 +13,14 @@
       "url": "/categories/book/"
     },
     {
-      "name": "Photo Series",
+      "name": "Photos",
       "url": "/series/"
     }
+    {
+      "name": "Music",
+      "url": "https://cambodiano.com/"
+    }
+
   ],
   "footer": [
     {
