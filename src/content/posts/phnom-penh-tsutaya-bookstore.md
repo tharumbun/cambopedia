@@ -1,6 +1,7 @@
 ---
 title: "Tsutaya Bookstore in Phnom Penh"
 date: 2025-07-11
+image: "https://cdn.cambopedia.com/img/Tsutaya-Bookstore-phnom-penh.jpg"
 categories: 
   - "how-to"
   - "lifestyle-shopping"
@@ -17,6 +18,15 @@ A haven for every kind of reader
 Walk into Tsutaya and you’ll instantly feel the difference. Instead of the typical mall bustle, you'll find a calm, meticulously curated space—quiet sections for browsing, charging stations, low tables, and even art displays that speak of Japanese minimalism mixed with Khmer warmth 
 
 From bestsellers to rare artistic volumes, children’s picture books and YA novels, to English-language comics and stationery—that magic moment when you discover something you didn’t even know you needed happens here.
+
+
+<Image
+  src="https://cdn.cambopedia.com/img/Tsutaya-Bookstore-cafe-phnom-penh.jpg"
+  alt="Koh Dach in pictures"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
 
 Book & Café: the perfect pair
 At the heart of Tsutaya is the Ivy Tokyo Coffee Lounge—an airy, tranquil café where you can savor coffee, tea, or light meals while reading . Whether it’s a morning beside a sunlight-filled window or a quiet afternoon escape, the café transforms the bookstore into a full experience.
