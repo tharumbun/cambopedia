@@ -1,4 +1,4 @@
----
+e---
 title: "Who's Chuth Khay?"
 image: "https://cdn.cambopedia.com/img/chuth-khay.jpg"
 date: 2026-03-11
@@ -15,6 +15,16 @@ Chuth Khay was born in 1940 in Kampong Cham province and came of age during a vi
 Unlike writers who focused on romance or classical storytelling, Chuth Khay developed a reputation for writing stories that blended humor, satire, and subtle criticism of social norms. His works often portrayed ordinary people — villagers, bureaucrats, monks, and families — navigating the strange and sometimes absurd situations of life.
 
 His training as a French-language teacher and his exposure to global literature also shaped his narrative style. The result was writing that felt both distinctly Cambodian and internationally accessible.
+
+<Image
+  src="https://cdn.cambopedia.com/img/chut-khay-books.jpg"
+  alt="Books by Chut Khay, published by Avatar Publishing House (Cambodia)"
+  width={1920}
+  height={1280}
+  priority={false}
+/>
+
+
 
 ## The stories that made him famous
 

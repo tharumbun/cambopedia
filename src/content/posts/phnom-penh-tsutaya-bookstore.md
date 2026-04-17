@@ -7,6 +7,8 @@ categories:
   - "lifestyle-shopping"
 ---
 
+Having visited the Tsutaya Bookstore at Aeon Mall Phnom Penh a few times now, I have to admit it’s become one of my favorite spots for a quiet afternoon.
+
 Tsutaya Bookstore in Phnom Penh is a milestone. It fills a gap for culturally curious, diverse, and lifestyle-minded readers, offering more than just books—it’s a curated, beautiful space that fosters creativity, learning, and community. If you're a bookworm (or just someone seeking a peaceful, stimulating retreat), Tsutaya should be your next stop. Open daily from 9 AM to 10 PM—come discover why this is Phnom Penh’s most enchanting literary oasis yet.
 
 
