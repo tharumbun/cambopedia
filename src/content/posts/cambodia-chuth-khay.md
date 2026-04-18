@@ -1,3 +1,4 @@
+---
 title: "Chuth Khay: Cambodia's old intellectual: "
 image: "https://cdn.cambopedia.com/img/chuth-khay.jpg"
 date: 2026-03-11
