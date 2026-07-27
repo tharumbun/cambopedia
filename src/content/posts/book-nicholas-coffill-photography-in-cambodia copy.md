@@ -8,7 +8,7 @@ categories:
 
 ## Book Review: *Back to Cambodia* by Ron Albalak
 
-Some books about Cambodia focus on history. Others focus on politics or the horrors of the Khmer Rouge era. *Back to Cambodia* by Ron Albalak takes a more personal route, inviting readers into an emotional journey of memory, identity, and return. Rather than simply documenting a country, it explores what it means to reconnect with a homeland that has been transformed by time and history. ([Cambridge University Press & Assessment][1])
+Some books about Cambodia focus on history. Others focus on politics or the horrors of the Khmer Rouge era. *Back to Cambodia* by Ron Albalak takes a more personal route, inviting readers into an emotional journey of memory, identity, and return. Rather than simply documenting a country, it explores what it means to reconnect with a homeland that has been transformed by time and history.
 
 For many members of the Cambodian diaspora, "going back" is never just about geography. It is a confrontation with memories, unanswered questions, and the contrast between the Cambodia left behind and the Cambodia that exists today. Albalak captures this tension through a narrative that is reflective rather than sensational, allowing the people, places, and encounters to shape the story.
 
@@ -16,7 +16,7 @@ One of the book's strengths is its humanity. Cambodia is not portrayed merely as
 
 Albalak writes with an observant eye, paying attention to the small moments that often reveal more than grand historical events. Whether describing conversations with locals, revisiting familiar places, or reflecting on personal experiences, the author reminds readers that history is ultimately experienced through individual lives.
 
-For readers unfamiliar with Cambodia, *Back to Cambodia* serves as an accessible introduction to a nation that has undergone extraordinary transformation over the past half-century. It complements historical works by showing how the legacies of conflict continue to shape personal identities and communities today. ([Yale University Press][2])
+For readers unfamiliar with Cambodia, *Back to Cambodia* serves as an accessible introduction to a nation that has undergone extraordinary transformation over the past half-century. It complements historical works by showing how the legacies of conflict continue to shape personal identities and communities today.
 
 The book is especially valuable because it contributes to a growing body of literature that views Cambodia through personal stories rather than statistics or political analysis. In doing so, it reminds us that returning home is rarely about finding the past exactly as we remember it. Instead, it is about discovering how both the traveler and the homeland have changed.
 
