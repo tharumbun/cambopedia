@@ -11,7 +11,7 @@ Every year, thousands of aspiring teachers look abroad for an opportunity to bui
 
 Whether you're a university graduate looking to gain your first Teaching English as a Second Language (TESL/TEFL) experience or an experienced educator seeking career growth, Phnom Penh offers an attractive combination of opportunity, affordability, and purpose.
 
-## A City that never stops learning English
+## A city that never stops learning English
 
 Cambodia's economy has become increasingly connected to the global marketplace. English is now the preferred language of international business, tourism, technology, higher education, and many multinational companies operating in the country.
 
