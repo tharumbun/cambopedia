@@ -2,3 +2,8 @@
   name: tharum
   url: https://tharum.com/rss.xml
   lang: en
+
+- id: ReliefWeb
+  name: ReliefWeb
+  url: https://reliefweb.int/updates/rss.xml?advanced-search=%28PC48%29
+  lang: en  
