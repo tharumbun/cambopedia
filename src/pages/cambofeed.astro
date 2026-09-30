@@ -1,27 +1,40 @@
 ---
+import Layout from "@layouts/Layout.astro";
 import items from "../data/items/index.json";
 
 const latest = items.slice(0, 50);
 ---
 
-<html lang="en">
-  <head>
-    <title>Cambodia News Feed</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-  </head>
-  <body>
-    <h1>Cambodia News</h1>
-    <ul>
-      {latest.map((item) => (
-        <li>
-          <a href={item.link} target="_blank" rel="noopener">{item.title}</a>
-          <div>
-            <small>{item.source} · {new Date(item.date).toLocaleDateString()}</small>
+<Layout
+  title="Cambodia News"
+  description="Latest news from Cambodia, aggregated in one place."
+>
+  <section class="py-12">
+    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <h1 class="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-8">
+        Cambodia News
+      </h1>
+
+      <div class="space-y-6">
+        {latest.map((item) => (
+          <div class="border-b border-gray-200 dark:border-gray-700 pb-6">
+            <a
+              href={item.link}
+              target="_blank"
+              rel="noopener"
+              class="text-lg font-medium text-gray-900 dark:text-white hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
+            >
+              {item.title}
+            </a>
+            <div class="text-sm text-gray-500 dark:text-gray-400 mt-1">
+              {item.source} · {new Date(item.date).toLocaleDateString()}
+            </div>
+            {item.snippet && (
+              <p class="text-gray-600 dark:text-gray-300 mt-2">{item.snippet}</p>
+            )}
           </div>
-          <p>{item.snippet}</p>
-        </li>
-      ))}
-    </ul>
-  </body>
-</html>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
