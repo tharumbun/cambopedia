@@ -1,0 +1,27 @@
+---
+import items from "../data/items/index.json";
+
+const latest = items.slice(0, 50);
+---
+
+<html lang="en">
+  <head>
+    <title>Cambodia News Feed</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <h1>Cambodia News</h1>
+    <ul>
+      {latest.map((item) => (
+        <li>
+          <a href={item.link} target="_blank" rel="noopener">{item.title}</a>
+          <div>
+            <small>{item.source} · {new Date(item.date).toLocaleDateString()}</small>
+          </div>
+          <p>{item.snippet}</p>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>
